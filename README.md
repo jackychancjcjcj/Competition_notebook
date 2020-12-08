@@ -1,16 +1,6 @@
 # Competition_notebook
-数据竞赛笔记fork
 
-
-Datawhale_Baseline
-===
-
-    dadasd
-    sadasdas
-
-# jj
-哈哈哈'jjj'  
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
-
-### jjj
-    
+## tips
+* 特征过多怎么办？  
+1. 重要性排序，保留前面的
+2. 看训练集和测试集分布，删除分布不一样的
