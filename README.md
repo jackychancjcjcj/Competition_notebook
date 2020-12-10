@@ -2,6 +2,7 @@
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2019年厦门国际银行数创金融杯](#2019年厦门国际银行数创金融杯)
+        * [安泰杯-跨境电商智能算法大赛](#安泰杯-跨境电商智能算法大赛)
     * [CV](#cv)
     * [NLP](#nlp)
 * [Tips](#tips)
@@ -18,7 +19,8 @@ https://m.dcjingsai.com/cmptDetail.html?id=319
 [冠军方案](https://zhuanlan.zhihu.com/p/149985365)  
 [第二名方案](https://github.com/Tersaiz/2019-XiaMenBank-Data-Modeling-Competition)  
 [第六名方案](https://github.com/yanqiangmiffy/Data-Finance-Cup)  
-[](https://github.com/shenxiangzhuang/Bank-Competition)  
+[其他](https://github.com/shenxiangzhuang/Bank-Competition)  
+### 安泰杯-跨境电商智能算法大赛
 ## CV
 ## NLP
 # Tips
