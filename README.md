@@ -71,8 +71,8 @@ https://www.datafountain.cn/competitions/337
 [冠军方案2](https://blog.csdn.net/weixin_35770067/article/details/94336044)  
 [冠军开源](https://github.com/AnTi-anti/Credit-Intelligence-Assessment)  
 [top2开源](https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place)  
-[top5方案](https://zhuanlan.zhihu.com/p/62291067)
-[top10开源](https://github.com/xy0210/DCIC-2019-China-Mobile)
+[top5方案](https://zhuanlan.zhihu.com/p/62291067)  
+[top10开源](https://github.com/xy0210/DCIC-2019-China-Mobile)  
 ## CV
 ## NLP
 # Tips
