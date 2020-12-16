@@ -58,7 +58,7 @@ https://www.datafountain.cn/competitions/351/
 匿名数据怎么做特征，预测重要特征的缺失值  
 **方案参考**  
 [冠军方案](https://github.com/CcIsHandsome/-TOP1-) 可以学习的点：用预测的方法补充重要特征缺失值？同时加上重要特征的stacking（巨tm过拟合）。以及标准的特征增加方法（nunique、std之类的）  
-### 2019年DF-消费者人群画像—信用智能评分 ###
+### 2019年DF-消费者人群画像—信用智能评分
 **赛题链接**  
 https://www.datafountain.cn/competitions/337  
 **赛题任务**  
