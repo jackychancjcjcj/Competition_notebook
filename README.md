@@ -68,10 +68,10 @@ https://www.datafountain.cn/competitions/337
 关于此次赛题，数据上来说可挖掘潜力并不是那么大，因此各个队伍能挖掘到的特征基本都很相似。于是只能拼数据，拼模型，拼骚操作了。  
 **方案参考**  
 [冠军方案1](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484826&idx=1&sn=5e008478c274143d0716ce7184804356&chksm=e870d4d7df075dc16442660d866bcfb903b01010282dfb9fd41b4159609cc2b78a58f82db9ac&mpshare=1&scene=24&srcid=#rd)  
-[冠军方案2](https://blog.csdn.net/weixin_35770067/article/details/94336044)  
+[冠军方案2](https://blog.csdn.net/weixin_35770067/article/details/94336044) 学习的点：分段式的stacking（纵向，训练的时候分层的用不同的损失函数）  
 [冠军答辩](https://mp.weixin.qq.com/s/5bTYwflXeC0K39z0XQwhgA)  
 [冠军开源](https://github.com/AnTi-anti/Credit-Intelligence-Assessment)  
-[top2开源](https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place) 看下多个模型stacking的代码  
+[top2开源](https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place) 学习的点：看下多个模型stacking的代码  
 [top5方案](https://zhuanlan.zhihu.com/p/62291067)  
 [top10开源](https://github.com/xy0210/DCIC-2019-China-Mobile)  
 ## CV
