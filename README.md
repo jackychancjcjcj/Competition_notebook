@@ -7,9 +7,9 @@
         * [CCF-离散制造过程中典型工件的质量符合率预测](#CCF-离散制造过程中典型工件的质量符合率预测)
         * [2019年DCIC-消费者人群画像-信用智能评分](#2019年DCIC-消费者人群画像-信用智能评分)
         * [2019腾讯广告算法大赛](#2019腾讯广告算法大赛)
-        * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
     * [CV](#cv)
     * [NLP](#nlp)
+        * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -87,6 +87,13 @@ https://www.datafountain.cn/competitions/337
 **方案参考**  
 [冠军方案](https://zhuanlan.zhihu.com/p/73062485)学习的点：处理数据泄露问题  
 [top5方案](https://mp.weixin.qq.com/s/j5YICHrkHLDm7OldPFPOjw)  
+
+
+
+
+
+## CV
+## NLP
 ### 2020腾讯广告算法大赛
 **赛题链接**  
 https://algo.qq.com/  
@@ -100,12 +107,6 @@ https://algo.qq.com/
 [top5方案](https://zhuanlan.zhihu.com/p/170603281)  
 [top11方案](https://github.com/llllllyu/Tencent2020_Rank11)   
 [top12方案](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
-
-
-
-
-## CV
-## NLP
 # Tips
 ## 特征过多怎么办？  
 ### 1. 重要性排序，保留前面的
