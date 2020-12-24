@@ -8,6 +8,7 @@
         * [2019年DCIC-消费者人群画像-信用智能评分](#2019年DCIC-消费者人群画像-信用智能评分)
         * [2019腾讯广告算法大赛](#2019腾讯广告算法大赛)
         * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-混凝土泵车砼活塞故障预警)
+        * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -98,6 +99,27 @@ https://www.datafountain.cn/competitions/336
 **方案参考**  
 [冠军方案](https://zhuanlan.zhihu.com/p/66324559)  
 [冠军开源](https://github.com/pinlank/DCIC_Failure-Prediction-of-Concrete-Piston-for-Concrete-Pump-Vehicles_1st/tree/master/code)  
+### 2018中国高校计算机大赛-快手活跃用户预测
+**赛题链接**  
+https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0
+**赛题任务**  
+本次大赛基于脱敏和采样后的数据信息，预测未来一段时间活跃的用户。参赛队伍需要设计相应的算法进行数据分析和处理，比赛结果按照指定的评价指标使用在线评测数据进行评测和排名，得分最优者获胜。
+**赛题难点**  
+**方案参考**  
+[冠军方案](https://zhuanlan.zhihu.com/p/42622063)  
+[冠军开源](https://github.com/drop-out/RNN-Active-User-Forecast)  
+[top4开源](https://github.com/chantcalf/2018-Rank4-)  
+[top6开源](https://github.com/yuxiaowww/2018-China-University-Computer-Contest)  
+[top13开源](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions
+https://github.com/totoruo/KuaiShou2018-RANK13-RNN)  
+[top15开源](https://github.com/sunwantong/Kuaishou-Active-User)  
+[top20开源](https://github.com/bigzhao/Kuaishou_2018_rank20th)  
+
+
+
+
+
+
 
 ## CV
 ## NLP
@@ -114,6 +136,15 @@ https://algo.qq.com/
 [top5方案](https://zhuanlan.zhihu.com/p/170603281)  
 [top11方案](https://github.com/llllllyu/Tencent2020_Rank11)   
 [top12方案](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
+
+
+
+
+
+
+
+
+
 # Tips
 ## 特征过多怎么办？  
 ### 1. 重要性排序，保留前面的
