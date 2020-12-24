@@ -110,8 +110,7 @@ https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0
 [冠军开源](https://github.com/drop-out/RNN-Active-User-Forecast)  
 [top4开源](https://github.com/chantcalf/2018-Rank4-)  
 [top6开源](https://github.com/yuxiaowww/2018-China-University-Computer-Contest)  
-[top13开源](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions
-https://github.com/totoruo/KuaiShou2018-RANK13-RNN)  
+[top13开源](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions)  
 [top15开源](https://github.com/sunwantong/Kuaishou-Active-User)  
 [top20开源](https://github.com/bigzhao/Kuaishou_2018_rank20th)  
 
