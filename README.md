@@ -101,9 +101,9 @@ https://www.datafountain.cn/competitions/336
 [冠军开源](https://github.com/pinlank/DCIC_Failure-Prediction-of-Concrete-Piston-for-Concrete-Pump-Vehicles_1st/tree/master/code)  
 ### 2018中国高校计算机大赛-快手活跃用户预测
 **赛题链接**  
-https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0
+https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0  
 **赛题任务**  
-本次大赛基于脱敏和采样后的数据信息，预测未来一段时间活跃的用户。参赛队伍需要设计相应的算法进行数据分析和处理，比赛结果按照指定的评价指标使用在线评测数据进行评测和排名，得分最优者获胜。
+本次大赛基于脱敏和采样后的数据信息，预测未来一段时间活跃的用户。参赛队伍需要设计相应的算法进行数据分析和处理，比赛结果按照指定的评价指标使用在线评测数据进行评测和排名，得分最优者获胜。  
 **赛题难点**  
 **方案参考**  
 [冠军方案](https://zhuanlan.zhihu.com/p/42622063)  
