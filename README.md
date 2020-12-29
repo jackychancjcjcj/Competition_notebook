@@ -181,6 +181,50 @@ for i,size in enumerate(['size1', 'size2', 'size3']):
 ```
 ## 特征可以怎么做？
 ### 交叉特征
+```python
+//定义离散型特征和连续型特征
+col_cat = ['subGrade', 'grade', 'employmentLength', 'term', 'homeOwnership', 'postCode', 'regionCode','employmentTitle','title']
+col_num = ['dti', 'revolBal','revolUtil', 'ficoRangeHigh', 'interestRate', 'loanAmnt', 'installment', 'annualIncome', 'n14',
+             'n2', 'n6', 'n9', 'n5', 'n8']
+             
+# 定义离散型特征和连续型特征交叉特征统计函数
+def cross_cat_num(df, num_col, cat_col):
+    for f1 in tqdm(cat_col):
+        g = df.groupby(f1, as_index=False)
+        for f2 in tqdm(num_col):
+            feat = g[f2].agg({
+                '{}_{}_max'.format(f1, f2): 'max', '{}_{}_min'.format(f1, f2): 'min',
+                '{}_{}_median'.format(f1, f2): 'median',
+            })
+            df = df.merge(feat, on=f1, how='left')
+    return (df)
+    
+data = cross_cat_num(data, col_num, col_cat)  # 一阶交叉
+print('一阶交叉特征处理后：', data.shape)
+
+# 类别特征之间的二阶交叉
+def cross_qua_cat_num(df):
+    for f_pair in tqdm([
+        ['subGrade', 'regionCode'], ['grade', 'regionCode'], ['subGrade', 'postCode'], ['grade', 'postCode'], ['employmentTitle','title'],
+        ['regionCode','title'], ['postCode','title'], ['homeOwnership','title'], ['homeOwnership','employmentTitle'],['homeOwnership','employmentLength'],
+        ['regionCode', 'postCode']
+    ]):
+        ### 共现次数
+        df['_'.join(f_pair) + '_count'] = df.groupby(f_pair)['id'].transform('count')
+        ### n unique、熵
+        df = df.merge(df.groupby(f_pair[0], as_index=False)[f_pair[1]].agg({
+            '{}_{}_nunique'.format(f_pair[0], f_pair[1]): 'nunique',
+            '{}_{}_ent'.format(f_pair[0], f_pair[1]): lambda x: entropy(x.value_counts() / x.shape[0])
+        }), on=f_pair[0], how='left')
+        df = df.merge(df.groupby(f_pair[1], as_index=False)[f_pair[0]].agg({
+            '{}_{}_nunique'.format(f_pair[1], f_pair[0]): 'nunique',
+            '{}_{}_ent'.format(f_pair[1], f_pair[0]): lambda x: entropy(x.value_counts() / x.shape[0])
+        }), on=f_pair[1], how='left')
+        ### 比例偏好
+        df['{}_in_{}_prop'.format(f_pair[0], f_pair[1])] = df['_'.join(f_pair) + '_count'] / df[f_pair[1] + '_count']
+        df['{}_in_{}_prop'.format(f_pair[1], f_pair[0])] = df['_'.join(f_pair) + '_count'] / df[f_pair[0] + '_count']
+    return (df)
+```
 ### embedding 特征
 ## 标准处理df的内存减少流程
 ```python 
