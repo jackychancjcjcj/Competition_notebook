@@ -9,6 +9,7 @@
         * [2019腾讯广告算法大赛](#2019腾讯广告算法大赛)
         * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-混凝土泵车砼活塞故障预警)
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
+        * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -113,10 +114,14 @@ https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0
 [top13开源](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions)  
 [top15开源](https://github.com/sunwantong/Kuaishou-Active-User)  
 [top20开源](https://github.com/bigzhao/Kuaishou_2018_rank20th)  
-
-
-
-
+### 2018消费金融场景下的用户购买预测
+**赛题链接**  
+https://www.datafountain.cn/competitions/287  
+**赛题任务**  
+利用招商银行客户的个人属性、信用卡消费数据，以及部分客户在掌上生活APP上的一个月的操作行为日志，设计合理的特征工程与模型算法方案，预测客户在未来一周内（4月1日-7日），是否会购买掌上生活APP上的优惠券（包括饭票、影票等）。考虑到客户隐私，客户的个人属性数据与信用卡消费数据，采用脱敏并标准化处理为V1,V2,…,V30数值型属性。客户在APP上的行为日志，一些字段也进行了相应加密。  
+**赛题难点**  
+**方案参考**  
+[冠军开源](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)
 
 
 
