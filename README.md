@@ -133,12 +133,11 @@ While Home Credit is currently using various statistical and machine learning me
 **赛题难点**  
 **方案参考**  
 [top2开源](https://github.com/KazukiOnodera/Home-Credit-Default-Risk)  
-[baseline开源](https://github.com/minerva-ml/open-solution-home-credit)  
 [top4开源](https://github.com/Cirice/4th-place-Home-Credit-Default-Risk)  
 [top8开源](https://github.com/CortexFoundation/Home-Credit-Default-Risk-rank8)  
 [top10开源](https://github.com/dylanxia2017/Kaggle-Home-Credit-Default-Risk)  
 [top17开源](https://github.com/NoxMoon/home-credit-default-risk)  
-
+[baseline开源](https://github.com/minerva-ml/open-solution-home-credit)  
 
 
 
