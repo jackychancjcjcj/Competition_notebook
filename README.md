@@ -10,6 +10,7 @@
         * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-混凝土泵车砼活塞故障预警)
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
+        * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home Credit Default Risk)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -122,6 +123,23 @@ https://www.datafountain.cn/competitions/287
 **赛题难点**  
 **方案参考**  
 [冠军开源](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)
+### 2018kaggle-Home Credit Default Risk
+**赛题链接**  
+https://www.kaggle.com/c/home-credit-default-risk/overview  
+**赛题任务**  
+Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.  
+Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.  
+While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.  
+**赛题难点**  
+**方案参考**  
+[top2开源](https://github.com/KazukiOnodera/Home-Credit-Default-Risk)  
+[baseline开源](https://github.com/minerva-ml/open-solution-home-credit)  
+[top4开源](https://github.com/Cirice/4th-place-Home-Credit-Default-Risk)  
+[top8开源](https://github.com/CortexFoundation/Home-Credit-Default-Risk-rank8)  
+[top10开源](https://github.com/dylanxia2017/Kaggle-Home-Credit-Default-Risk)  
+[top17开源](https://github.com/NoxMoon/home-credit-default-risk)  
+
+
 
 
 
