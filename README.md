@@ -123,7 +123,7 @@ https://www.datafountain.cn/competitions/287
 **赛题难点**  
 **方案参考**  
 [冠军开源](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)
-### 2018kaggle-Home-Credit-Default-Risk
+### 2018kaggle-Home Credit Default Risk
 **赛题链接**  
 https://www.kaggle.com/c/home-credit-default-risk/overview  
 **赛题任务**  
