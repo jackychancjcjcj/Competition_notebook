@@ -11,6 +11,7 @@
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
         * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home-Credit-Default-Risk)
+        * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -138,10 +139,17 @@ While Home Credit is currently using various statistical and machine learning me
 [top10开源](https://github.com/dylanxia2017/Kaggle-Home-Credit-Default-Risk)  
 [top17开源](https://github.com/NoxMoon/home-credit-default-risk)  
 [baseline开源](https://github.com/minerva-ml/open-solution-home-credit)  
-
-
-
-
+### 2017全国社会保险大数据应用创新大赛
+**赛题链接**  
+https://tianchi.aliyun.com/competition/entrance/231607/information  
+**赛题任务**  
+“精准社保”的赛题为“基本医疗保险医疗服务智能监控”，由参赛队完成数据算法模型的开发设计，实现对各类医疗保险基金欺诈违规行为的准确识别，以进一步丰富现行医保智能监控的医保规则和医学规则，提高医保智能监控的针对性和有效性。违规行为举例如下：  
+（1）为了获得不当利益，部分人员从各种途径收集医疗保险参保人员的社保卡，通过社保卡到医院进行虚假诊疗，套取医保基金。  
+（2）在门诊特殊疾病的诊疗中，部分人员通过编造病历、诊疗过程，套取医保基金。  
+在本次比赛中，将上述两种违规人员统称为涉嫌造假人员。选手需要基于给定的训练集数据得到模型，然后使用模型判定测试集中的人员是否为涉嫌造假人员。  
+**赛题难点**  
+**方案参考**  
+https://tianchi.aliyun.com/competition/entrance/231607/forum
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
