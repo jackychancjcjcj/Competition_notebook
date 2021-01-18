@@ -12,7 +12,7 @@
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
         * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home-Credit-Default-Risk)
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
-        * [2019津南数字制造算法挑战赛—赛场一：原料企业工艺优化](#2019津南数字制造算法挑战赛—赛场一：原料企业工艺优化)
+        * [2019津南数字制造算法挑战赛-赛场一：原料企业工艺优化](#2019津南数字制造算法挑战赛-赛场一：原料企业工艺优化)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -151,7 +151,7 @@ https://tianchi.aliyun.com/competition/entrance/231607/information
 **赛题难点**  
 **方案参考**  
 https://tianchi.aliyun.com/competition/entrance/231607/forum
-### 2019津南数字制造算法挑战赛—赛场一：原料企业工艺优化
+### 2019津南数字制造算法挑战赛-赛场一：原料企业工艺优化
 **赛题链接**  
 https://tianchi.aliyun.com/competition/entrance/231695/introduction  
 **赛题任务**  
