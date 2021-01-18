@@ -12,6 +12,7 @@
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
         * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home-Credit-Default-Risk)
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
+        * [2019津南数字制造算法挑战赛——赛场一：原料企业工艺优化](#2019津南数字制造算法挑战赛——赛场一：原料企业工艺优化)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -150,6 +151,21 @@ https://tianchi.aliyun.com/competition/entrance/231607/information
 **赛题难点**  
 **方案参考**  
 https://tianchi.aliyun.com/competition/entrance/231607/forum
+### 2019津南数字制造算法挑战赛——赛场一：原料企业工艺优化
+**赛题链接**  
+https://tianchi.aliyun.com/competition/entrance/231695/introduction  
+**赛题任务**  
+异烟酸用作医药中间体，主要用于制抗结核病药物异烟肼，也用于合成酰胺、酰肼、酯类等衍生物。烟酰胺生产过程包含水解脱色、结晶甩滤等过程。每个步骤会受到温度、时间、压强等各方面因素的影响，造成异烟酸收率的不稳定。为保证产品质量和提高生产效率，需要调整和优化生产过程中的参数。然而，根据传统经验的人工调整工艺参数费时费力。近年来，人工智能在工艺参数优化以及视频检测等领域取得了突飞猛进的成果。AI技术的发展有望助力原料药制造企业实现工艺生产革新，规范生产操作过程，从而达到提高产品的收率的目标。  
+本次大赛要求选手以异烟酸生产过程中的各参数，包括各主要步骤的时间、温度、压强等参数为基础，设计精确智能的优秀算法，提升异烟酸的收率。  
+**赛题难点**  
+**方案参考**  
+[baseline开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587ffcBbKm9R&postId=41822)  
+[top1开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.54587b9dKsySi9&postId=54381)  
+[top2方案](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.27.54587b9dKsySi9&postId=54530)  
+[top2开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.54587b9dKsySi9&postId=54342)  
+[top3开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587b9dKsySi9&postId=54439)  
+[top6开源](https://github.com/JonneryR/2019.1-TianChi-Jinnan)  
+[top17开源](https://github.com/taoyafan/jinnan)  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
