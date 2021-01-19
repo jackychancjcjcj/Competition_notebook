@@ -159,7 +159,7 @@ https://tianchi.aliyun.com/competition/entrance/231695/introduction
 本次大赛要求选手以异烟酸生产过程中的各参数，包括各主要步骤的时间、温度、压强等参数为基础，设计精确智能的优秀算法，提升异烟酸的收率。  
 **方案参考**  
 [baseline开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587ffcBbKm9R&postId=41822) 交叉特征怎么做模板  
-[top1开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.54587b9dKsySi9&postId=54381)  
+[top1开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.54587b9dKsySi9&postId=54381) 交叉特征怎么做模板  
 [top2方案](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.27.54587b9dKsySi9&postId=54530)  
 [top2开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.54587b9dKsySi9&postId=54342)  
 [top3开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587b9dKsySi9&postId=54439)  
