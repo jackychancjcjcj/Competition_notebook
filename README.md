@@ -161,7 +161,7 @@ https://tianchi.aliyun.com/competition/entrance/231695/introduction
 [baseline开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587ffcBbKm9R&postId=41822) 交叉特征怎么做模板  
 [top1开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.54587b9dKsySi9&postId=54381) 交叉特征怎么做模板  
 [top2方案](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.27.54587b9dKsySi9&postId=54530)  
-[top2开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.54587b9dKsySi9&postId=54342)  
+[top2开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.54587b9dKsySi9&postId=54342) 根据训练模型metric不同来区分模型？  
 [top3开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587b9dKsySi9&postId=54439)  
 [top6开源](https://github.com/JonneryR/2019.1-TianChi-Jinnan)  
 [top17开源](https://github.com/taoyafan/jinnan)  
