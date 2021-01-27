@@ -197,7 +197,7 @@ https://tianchi.aliyun.com/competition/entrance/231688/introduction
 [top3方案2](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.651d4cd6uJjKS3&postId=50184)  
 [top3方案3](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.651d4cd6uJjKS3&postId=50285)  
 [优胜奖方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.651d4cd6uJjKS3&postId=50456)  
-[baseline开源](https://zhuanlan.zhihu.com/p/46482521)  
+[baseline开源](https://zhuanlan.zhihu.com/p/46482521) 做ctr时候把特征做成click/count的形式  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
