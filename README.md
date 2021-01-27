@@ -14,6 +14,7 @@
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
         * [2019津南数字制造算法挑战赛-赛场一:原料企业工艺优化](#2019津南数字制造算法挑战赛-赛场一原料企业工艺优化)
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
+        * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -182,6 +183,21 @@ https://js.dclab.run/v2/cmptDetail.html?id=265
 [top9开源](https://github.com/PandasCute/2018-ORANGE-FINANCIAL-BIG-DATA-top9)  
 [top10方案](https://zhuanlan.zhihu.com/p/66412427)  
 [baseline开源](https://github.com/lcxanhui/2018-orange-finance-baseline)  
+### 2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估
+**赛题链接**  
+https://tianchi.aliyun.com/competition/entrance/231688/introduction  
+**赛题任务**  
+在搜索业务下有一个场景叫实时搜索（Instance Search）,就是在用户不断输入过程中，实时返回查询结果。此次赛题来自OPPO手机搜索排序优化的一个子场景，并做了相应的简化，意在解决query-title语义匹配的问题。简化后，本次题目内容主要为一个实时搜索场景下query-title的ctr预估问题。基于百万最新真实用户搜索数据的实时搜索场景下搜索结果ctr预估。给定用户输入prefix（用户输入，查询词前缀）以及文章标题、文章类型等数据，预测用户是否点击。文章资源类别非全网资源，属部分垂直领域内容。  
+**赛题难点**  
+**方案参考**  
+[冠军方案](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.651d262af1mkfD&postId=50763)  
+[top2方案](https://zhuanlan.zhihu.com/p/51422621)  
+[top2开源](https://github.com/bettenW/TIANCHI_OGeek_Rank2)  
+[top3方案1](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.15.651d4cd6uJjKS3&postId=50016)  
+[top3方案2](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.651d4cd6uJjKS3&postId=50184)  
+[top3方案3](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.651d4cd6uJjKS3&postId=50285)  
+[优胜奖方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.651d4cd6uJjKS3&postId=50456)  
+[baseline开源](https://zhuanlan.zhihu.com/p/46482521)  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
