@@ -15,6 +15,7 @@
         * [2019津南数字制造算法挑战赛-赛场一:原料企业工艺优化](#2019津南数字制造算法挑战赛-赛场一原料企业工艺优化)
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
         * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估)
+        * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -198,6 +199,19 @@ https://tianchi.aliyun.com/competition/entrance/231688/introduction
 [top3方案3](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.651d4cd6uJjKS3&postId=50285)  
 [优胜奖方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.651d4cd6uJjKS3&postId=50456)  
 [baseline开源](https://zhuanlan.zhihu.com/p/46482521) 做ctr时候把特征做成click/count的形式  
+### 2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型
+**赛题链接**  
+https://www.datafountain.cn/competitions/311  
+**赛题任务**  
+电信产业作为国家基础产业之一，覆盖广、用户多，在支撑国家建设和发展方面尤为重要。随着互联网技术的快速发展和普及，用户消耗的流量也成井喷态势，近年来，电信运营商推出大量的电信套餐用以满足用户的差异化需求，面对种类繁多的套餐，如何选择最合适的一款对于运营商和用户来说都至关重要，尤其是在电信市场增速放缓，存量用户争夺愈发激烈的大背景下。针对电信套餐的个性化推荐问题，通过数据挖掘技术构建了基于用户消费行为的电信套餐个性化推荐模型，根据用户业务行为画像结果，分析出用户消费习惯及偏好，匹配用户最合适的套餐，提升用户感知，带动用户需求，从而达到用户价值提升的目标。  
+套餐的个性化推荐，能够在信息过载的环境中帮助用户发现合适套餐，也能将合适套餐信息推送给用户。解决的问题有两个：信息过载问题和用户无目的搜索问题。各种套餐满足了用户有明确目的时的主动查找需求，而个性化推荐能够在用户没有明确目的的时候帮助他们发现感兴趣的新内容。  
+此题利用已有的用户属性(如个人基本信息、用户画像信息等)、终端属性(如终端品牌等)、业务属性、消费习惯及偏好匹配用户最合适的套餐，对用户进行推送，完成后续个性化服务。  
+**赛题难点**  
+**方案参考**  
+[冠军开源](https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution)  
+[top2开源](https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2)  
+[top4开源](https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution)  
+[top6开源](https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6)  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
