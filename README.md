@@ -16,6 +16,7 @@
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
         * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估)
         * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
+        * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -212,6 +213,20 @@ https://www.datafountain.cn/competitions/311
 [top2开源](https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2)  
 [top4开源](https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution)  
 [top6开源](https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6)  
+### 2016CCF-大数据精准营销中搜狗用户画像挖掘
+**赛题链接**  
+https://www.datafountain.cn/competitions/239  
+**赛题任务**  
+"物以类聚，人以群分"这句古语不仅揭示了物与人的自组织趋向，更隐含了“聚类”和“人群”之间的内在联系。在现代数字广告投放系统中，以物拟人，以物窥人，才是比任何大数据都要更大的前提。如何把广告投放给需要的人，是大数据在精准营销中最核心的问题，如何越来越精确的挖掘人群属性，也一直是技术上的天花板。对于企业主来说，了解自身产品的受众有助于进行产品定位，并设计营销解决方案。本题目以精准广告中一个具体问题为例，希望发掘到数据挖掘的优秀人才。  
+本题目提供用户历史一个月的查询词与用户的人口属性标签（包括性别、年龄、学历）做为训练数据，要求参赛人员通过机器学习、数据挖掘技术构建分类算法来对新增用户的人口属性进行判定。  
+**赛题难点**  
+**方案参考**  
+[冠军开源](https://github.com/hengchao0248/ccf2016_sougou)  
+[top3开源](https://github.com/AbnerYang/2016CCF-SouGou)  
+[top5开源](https://github.com/dhdsjy/2016_CCFsougou)  
+[开源](https://github.com/dhdsjy/2016_CCFsougou2)  
+[开源](https://github.com/prozhuchen/2016CCF-sougou)  
+[开源](https://github.com/coderSkyChen/2016CCF_BDCI_Sougou)  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
