@@ -223,10 +223,7 @@ https://www.datafountain.cn/competitions/239
 **方案参考**  
 [冠军开源](https://github.com/hengchao0248/ccf2016_sougou)  
 [top3开源](https://github.com/AbnerYang/2016CCF-SouGou)  
-[top5开源](https://github.com/dhdsjy/2016_CCFsougou)  
-[开源](https://github.com/dhdsjy/2016_CCFsougou2)  
-[开源](https://github.com/prozhuchen/2016CCF-sougou)  
-[开源](https://github.com/coderSkyChen/2016CCF_BDCI_Sougou)  
+[top5开源](https://github.com/dhdsjy/2016_CCFsougou)   
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
