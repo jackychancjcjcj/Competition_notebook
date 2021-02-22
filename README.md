@@ -1,4 +1,8 @@
 # 目录
+![Author](https://img.shields.io/badge/Author-CJ-red.svg "Author")
+![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")
+![Language](https://img.shields.io/badge/Language-python3.6-green.svg "Laguage")
+![Last update](https://img.shields.io/badge/last%20update-22Feb%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2019年厦门国际银行数创金融杯](#2019年厦门国际银行数创金融杯)
