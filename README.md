@@ -10,6 +10,8 @@
         * [CCF-BDCI-乘用车销量预测](#CCF-BDCI-乘用车销量预测)
         * [CCF-离散制造过程中典型工件的质量符合率预测](#CCF-离散制造过程中典型工件的质量符合率预测)
         * [2019年DCIC-消费者人群画像-信用智能评分](#2019年DCIC-消费者人群画像-信用智能评分)
+        * [2017腾讯广告算法大赛](#2017腾讯广告算法大赛)
+        * [2018腾讯广告算法大赛](#2018腾讯广告算法大赛)
         * [2019腾讯广告算法大赛](#2019腾讯广告算法大赛)
         * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-混凝土泵车砼活塞故障预警)
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
@@ -91,6 +93,33 @@ https://www.datafountain.cn/competitions/337
 [top2开源](https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place) 学习的点：看下多个模型stacking的代码  
 [top5方案](https://zhuanlan.zhihu.com/p/62291067)  
 [top10开源](https://github.com/xy0210/DCIC-2019-China-Mobile)  
+### 2017腾讯广告算法大赛
+**赛题链接**  
+已失效  
+**赛题任务**  
+第一届腾讯社交广告高校算法大赛以“移动App广告转化率预估“为主题，首次开放腾讯在社交和数字广告领域的“实战类”数据，以高度模拟真实业务的赛题方式呈现，并直指数字广告中的核心关键问题：转化预估，面向高校学生征集最智慧的算法解决方案，引领广告生态业界的核心技术方向。  
+**赛题难点**  
+数据线上线下分布不一致：1、某些app和用户的记录比较少；2、数据的时效性要求较高。这对于特征工程会是一个比较大的要求，在比赛中有许多的特征会使得线上的成绩下降，比如各种差分的特征。   
+**方案参考**  
+[top10方案](https://zhuanlan.zhihu.com/p/95418813)  
+[top14开源](https://github.com/freelzy/Tencent_Social_Ads)  
+[top20开源](https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR)  
+[top23开源](https://github.com/BladeCoda/Tencent2017_Final_Coda_Allegro)  
+### 2018腾讯广告算法大赛
+**赛题链接**  
+已失效  
+**赛题任务**  
+本次算法大赛的题目源于腾讯社交广告业务中的一个真实的广告产品——相似人群拓展（Lookalike）。该产品的目的是基于广告主提供的目标人群，从海量的人群中找出和目标人群相似的其他人群。在实际广告业务应用场景中，Lookalike 能基于广告主已有的消费者，找出和已有消费者相似的潜在消费者，以此有效帮助广告主挖掘新客、拓展业务。目前，腾讯社交广告 Lookalike 相似人群拓展产品以广告主提供的第一方数据及广告投放效果数据（即后文提到的种子包人群）为基础，结合腾讯丰富的数据标签能力，透过深度神经网络挖掘，实现了可在线实时为多个广告主同时拓展具有相似特征的高质潜客的能力。    
+**赛题难点**  
+特征缺失：广告中的图像、宣传文字等许多用户直观感受到的特征未提供；新广告冷启动问题，历史统计特征不存在。  
+**方案参考**  
+[top3开源](https://github.com/DiligentPanda/Tencent_Ads_Algo_2018)
+[top6方案](https://zhuanlan.zhihu.com/p/38443751)  
+[top7开源](https://github.com/guoday/Tencent2018_Lookalike_Rank7th)  
+[top9方案+开源](https://zhuanlan.zhihu.com/p/38499275)  
+[top10开源](https://github.com/keyunluo/Tencent2018_Lookalike_Rank10th)  
+[top11方案+开源](https://zhuanlan.zhihu.com/p/38034501)  
+
 ### 2019腾讯广告算法大赛
 **赛题链接**  
 已失效  
