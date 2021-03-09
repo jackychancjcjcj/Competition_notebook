@@ -113,7 +113,7 @@ https://www.datafountain.cn/competitions/337
 **赛题难点**  
 特征缺失：广告中的图像、宣传文字等许多用户直观感受到的特征未提供；新广告冷启动问题，历史统计特征不存在。  
 **方案参考**  
-[top3开源](https://github.com/DiligentPanda/Tencent_Ads_Algo_2018)
+[top3开源](https://github.com/DiligentPanda/Tencent_Ads_Algo_2018)  
 [top6方案](https://zhuanlan.zhihu.com/p/38443751)  
 [top7开源](https://github.com/guoday/Tencent2018_Lookalike_Rank7th)  
 [top9方案+开源](https://zhuanlan.zhihu.com/p/38499275)  
