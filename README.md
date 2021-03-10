@@ -24,6 +24,7 @@
         * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
         * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
         * [2019JDATA-用户对品类下店铺的购买预测](#JD1)
+        * [2020CCF-企业非法集资风险预测](#CCF2020)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -273,7 +274,17 @@ https://jdata.jd.com/html/detail.html?id=8
 [冠军开源](https://github.com/jackychancjcjcj/Competition_notebook/edit/master/README.md)  
 [top2开源](https://github.com/anzhizh/2019-taida-jdata-top3)  
 [top3开源](https://github.com/WeavingWong/JDATA_2019-Cate_Shop_predict)  
-
+### <span id='CCF2020'>2020CCF-企业非法集资风险预测</span>
+**赛题链接**  
+https://www.datafountain.cn/competitions/469/datasets  
+**赛题任务**  
+利用机器学习、深度学习等方法训练一个预测模型，该模型可学习企业的相关信息，以预测企业是否存在非法集资风险。赛题的难点在于数据集包括大量的企业相关信息，如何从中提取有效的特征并进行风险预测成为本赛题的关键问题。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://gitee.com/xiaolitanhua625/illegal-fund-raising?_from=gitee_search)  
+[top3开源](https://gitee.com/quincyqiang/illegal-fundraising-prediction/tree/master)  
+[top11开源](https://github.com/librauee/CCFBDCI2020)
+[top27开源](https://github.com/DLLXW/data-science-competition/tree/main/datafountain/CCF2020-%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84)  
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
