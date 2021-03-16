@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/Author-CJ-red.svg "Author")
 ![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")
 ![Language](https://img.shields.io/badge/Language-python3.6-green.svg "Laguage")
-![Last update](https://img.shields.io/badge/last%20update-22Feb%202021-brightgreen.svg?style=flat-square "Last update")
+![Last update](https://img.shields.io/badge/last%20update-22%20Feb%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2019年厦门国际银行数创金融杯](#2019年厦门国际银行数创金融杯)
@@ -92,6 +92,7 @@ https://www.datafountain.cn/competitions/337
 [冠军答辩](https://mp.weixin.qq.com/s/5bTYwflXeC0K39z0XQwhgA)  
 [冠军开源](https://github.com/AnTi-anti/Credit-Intelligence-Assessment)  
 [top2开源](https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place) 学习的点：看下多个模型stacking的代码  
+[top2开源2](https://github.com/PanJianning/DCIC-2019-Credit-2th-Place)  
 [top5方案](https://zhuanlan.zhihu.com/p/62291067)  
 [top10开源](https://github.com/xy0210/DCIC-2019-China-Mobile)  
 ### 2017腾讯广告算法大赛
