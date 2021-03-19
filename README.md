@@ -142,6 +142,7 @@ https://www.datafountain.cn/competitions/336
 **方案参考**  
 [冠军方案](https://zhuanlan.zhihu.com/p/66324559)  
 [冠军开源](https://github.com/pinlank/DCIC_Failure-Prediction-of-Concrete-Piston-for-Concrete-Pump-Vehicles_1st/tree/master/code)  
+[top2开源](https://github.com/PanJianning/DCIC-2019-HNT-2th-Place)  
 ### 2018中国高校计算机大赛-快手活跃用户预测
 **赛题链接**  
 https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content/0  
