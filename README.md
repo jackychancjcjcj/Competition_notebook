@@ -30,6 +30,8 @@
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
+        * [2019DF金融信息负面及主体判定](#2019DF)
+        * [2019DF互联网新闻情感分析](#2019DF-2)
         * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC)
         * [2017知乎看山杯-文本多分类](#2017ZH)
 * [Tips](#tips)
@@ -350,9 +352,27 @@ https://js.dclab.run/v2/cmptDetail.html?id=229
 [top2开源](https://github.com/Magic-Bubble/Zhihu)  
 [top6开源](https://github.com/yongyehuang/zhihu-text-classification)  
 [top9开源](	https://github.com/coderSkyChen/zhihu_kanshan_cup_2017)
-
-
-
+### <span id='2019DF'>2019DF金融信息负面及主体判定</span>
+**赛题链接**    
+https://www.datafountain.cn/competitions/353  
+**赛题任务**  
+该任务分为两个子任务：  
+给定一条金融文本和文本中出现的金融实体列表。    
+负面信息判定：判定该文本是否包含金融实体的负面信息。如果该文本不包含负面信息，或者包含负面信息但负面信息未涉及到金融实体，则负面信息判定结果为0。  
+负面主体判定：如果任务1中包含金融实体的负面信息，继续判断负面信息的主体对象是实体列表中的哪些实体。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/A-Rain/BDCI2019-Negative_Finance_Info_Judge)  
+[top2开源](https://github.com/rebornZH/2019-CCF-BDCI-NLP)  
+[top3开源](https://github.com/Chevalier1024/CCF-BDCI-ABSA)  
+### <span id='2019DF-2'>2019DF互联网新闻情感分析</span>
+**赛题链接**    
+https://www.datafountain.cn/competitions/350  
+**赛题任务**  
+参赛者需要对我们提供的新闻数据进行情感极性分类，其中正面情绪对应0，中性情绪对应1以及负面情绪对应2。根据我们提供的训练数据，通过您的算法或模型判断出测试集中新闻的情感极性。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
 
 
 
