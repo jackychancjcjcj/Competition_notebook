@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/Author-CJ-red.svg "Author")
 ![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")
 ![Language](https://img.shields.io/badge/Language-python3.6-green.svg "Laguage")
-![Last update](https://img.shields.io/badge/last%20update-22%20Feb%202021-brightgreen.svg?style=flat-square "Last update")
+![Last update](https://img.shields.io/badge/last%20update-01%20Apr%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2019年厦门国际银行数创金融杯](#2019年厦门国际银行数创金融杯)
@@ -25,9 +25,13 @@
         * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
         * [2019JDATA-用户对品类下店铺的购买预测](#JD1)
         * [2020CCF-企业非法集资风险预测](#CCF2020)
+        * [2018IJCAI-阿里妈妈搜索广告转化预测](#2018IJCAI)
+        * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018MSJR)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
+        * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC)
+        * [2017知乎看山杯-文本多分类](#2017ZH)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -287,6 +291,26 @@ https://www.datafountain.cn/competitions/469/datasets
 [top3开源](https://gitee.com/quincyqiang/illegal-fundraising-prediction/tree/master)  
 [top11开源](https://github.com/librauee/CCFBDCI2020)  
 [top27开源](https://github.com/DLLXW/data-science-competition/tree/main/datafountain/CCF2020-%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84)  
+###<span id='2018IJCAI'>2018IJCAI-阿里妈妈搜索广告转化预测</span>
+**赛题链接**  
+https://tianchi.aliyun.com/competition/entrance/231647/introduction    
+**赛题任务**  
+本次比赛以阿里电商广告为研究对象，提供了淘宝平台的海量真实交易数据，参赛选手通过人工智能技术构建预测模型预估用户的购买意向，即给定广告点击相关的用户（user）、广告商品（ad）、检索词（query）、上下文内容（context）、商店（shop）等信息的条件下预测广告产生购买行为的概率（pCVR），形式化定义为：pCVR=P(conversion=1 | query, user, ad, context, shop)。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/plantsgo/ijcai-2018)  
+[top2开源](https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution)  
+[top2方案](https://blog.csdnnet/Bryan__/article/details/80600189)  
+[top3开源](https://github.com/luoda888/2018-IJCAI-top3)  
+[top8开源](https://github.com/fanfanda/ijcai_2018
+https://github.com/Gene20/IJCAI-18)  
+### <span id='2018MSJR'>2018智慧金融马上AI全球挑战者大赛-违约用户风险预测</span>
+**赛题链接**     
+**赛题任务**  
+马上金融平台提供了近7万贷款用户的基本身份信息、消费行为、银行还款等数据信息，需要参赛者以此建立准确的风险控制模型，来预测用户是否会逾期还款。  
+**赛题难点**  
+**方案参考** 
+[top1开源](https://github.com/chenkkkk/User-loan-risk-prediction)
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
@@ -302,9 +326,30 @@ https://algo.qq.com/
 [top5方案](https://zhuanlan.zhihu.com/p/170603281)  
 [top11方案](https://github.com/llllllyu/Tencent2020_Rank11)   
 [top12方案](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
+### <span id='2018DC'>2018DC达观杯文本智能处理挑战-文本分类</span>
+**赛题链接**  
+https://js.dclab.run/v2/cmptDetail.html?id=229    
+**赛题任务**  
+建立模型通过长文本数据正文(article)，预测文本对应的类别(class)  
+**赛题难点**  
 
-
-
+**方案参考**  
+[top1方案](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)  
+[top2开源](https://github.com/CortexFoundation/-)  
+[top4开源](https://github.com/hecongqing/2018-daguan-competition)  
+[top7开源](https://github.com/RocketGirls3/daguan-7th-solution)  
+[top8开源](https://github.com/Rowchen/Text-classifier)  
+### <span id='2017ZH'>2017知乎看山杯-文本多分类</span>
+**赛题链接**    
+**赛题任务**  
+参赛者需要根据知乎给出的问题及话题标签的绑定关系的训练数据，训练出对未标注数据自动标注的模型。标注数据中包含 300 万个问题，每个问题有 1 个或多个标签，共计1999 个标签。每个标签对应知乎上的一个「话题」，话题之间存在父子关系，并通过父子关系组织成一张有向无环图（DAG）。  
+由于涉及到用户隐私及数据安全等问题，本次比赛不提供问题、话题描述的原始文本，而是使用字符编号及切词后的词语编号来表示文本信息。同时，鉴于词向量技术在自然语言处理领域的广泛应用，比赛还提供字符级别的 embedding 向量和词语级别的 embedding 向量，这些 embedding 向量利用知乎上的海量文本语料，使用 google word2vec 训练得到。简单来说，这是一个多标签文本分类问题，基本上都是使用深度学习方法。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/chenyuntc/PyTorchText)  
+[top2开源](https://github.com/Magic-Bubble/Zhihu)  
+[top6开源](https://github.com/yongyehuang/zhihu-text-classification)  
+[top9开源](	https://github.com/coderSkyChen/zhihu_kanshan_cup_2017)
 
 
 
