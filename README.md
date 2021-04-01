@@ -302,14 +302,14 @@ https://tianchi.aliyun.com/competition/entrance/231647/introduction
 [top2开源](https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution)  
 [top2方案](https://blog.csdnnet/Bryan__/article/details/80600189)  
 [top3开源](https://github.com/luoda888/2018-IJCAI-top3)  
-[top8开源](https://github.com/fanfanda/ijcai_2018
-https://github.com/Gene20/IJCAI-18)  
+[top8开源-1](https://github.com/fanfanda/ijcai_2018)  
+[top8开源-2](https://github.com/Gene20/IJCAI-18)  
 ### <span id='2018MSJR'>2018智慧金融马上AI全球挑战者大赛-违约用户风险预测</span>
 **赛题链接**     
 **赛题任务**  
 马上金融平台提供了近7万贷款用户的基本身份信息、消费行为、银行还款等数据信息，需要参赛者以此建立准确的风险控制模型，来预测用户是否会逾期还款。  
 **赛题难点**  
-**方案参考** 
+**方案参考**  
 [top1开源](https://github.com/chenkkkk/User-loan-risk-prediction)
 ## CV
 ## NLP
