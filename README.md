@@ -29,6 +29,7 @@
         * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018MSJR)
         * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC)
         * [2020翼支付-风险用户识别大赛](#2020yzf)
+        * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -334,7 +335,17 @@ https://js.dclab.run/v2/landingpage/orange-cup.html
 [top2开源](https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2)  
 [top3开源](https://github.com/poplar1hhh/yipay)  
 [top10开源](https://github.com/loserChen/YiZhiFu)  
-
+### <span id='TC-dkwy'>天池零基础入门金融风控-贷款违约预测</span>
+**赛题链接**     
+https://tianchi.aliyun.com/competition/entrance/531830/introduction  
+**赛题任务**    
+赛题以金融风控中的个人信贷为背景，要求选手根据贷款申请人的数据信息预测其是否有违约的可能，以此判断是否通过此项贷款，这是一个典型的分类问题  
+**赛题难点**  
+**方案参考**  
+[top1方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.24.3b3022fa76KVe0&postId=163948)  
+[top2方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.21.3b3022fa76KVe0&postId=164618)  
+[top6方案+开源](https://mp.weixin.qq.com/s/CaStDPAeqYnTEc93CevSrw)  
+[top11开源](https://github.com/LogicJake/tianchi-loan-default-prediction-top11)  
 
 
 
