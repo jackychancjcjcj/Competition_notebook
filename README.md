@@ -27,6 +27,7 @@
         * [2020CCF-企业非法集资风险预测](#CCF2020)
         * [2018IJCAI-阿里妈妈搜索广告转化预测](#2018IJCAI)
         * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018MSJR)
+        * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -313,6 +314,22 @@ https://tianchi.aliyun.com/competition/entrance/231647/introduction
 **赛题难点**  
 **方案参考**  
 [top1开源](https://github.com/chenkkkk/User-loan-risk-prediction)
+### <span id='2018ATEC'>2018ATEC蚂蚁开发者大赛-支付风险识别</span>
+**赛题链接**     
+**赛题任务**  
+赛题的目的是根据历史交易数据识别当前交易是否为欺诈交易。举办方给出由一段时间内有正负标签样本的支付行为样本和没有标签的支付行为样本组成的训练数据集和一段时间后的某个时间范围内的支付行为样本构成的测试数据集，希望选手们通过机器学习算法和对无标签数据的挖掘在训练集上训练出性能稳定时效性好的模型，能够在测试集上对交易的风险进行精准判断。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/wj19971997/YIZHIFU2020-top1)  
+[top2方案](https://mp.weixin.qq.com/s/5NNTeLvqWl0_SQaPl-Cvug)  
+[top7开源](https://github.com/mathcbc/Rank7-Solution-for-2018-ATEC-Anti-Fraud-Competition)  
+
+
+
+
+
+
+
 ## CV
 ## NLP
 ### 2020腾讯广告算法大赛
