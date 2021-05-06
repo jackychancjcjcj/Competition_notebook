@@ -30,6 +30,8 @@
         * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC)
         * [2020翼支付-风险用户识别大赛](#2020yzf)
         * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
+        * [2020年讯飞开发者大赛-温室温度预测](#2020XF)
+        * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
     * [CV](#cv)
     * [NLP](#nlp)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -346,8 +348,23 @@ https://tianchi.aliyun.com/competition/entrance/531830/introduction
 [top2方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.21.3b3022fa76KVe0&postId=164618)  
 [top6方案+开源](https://mp.weixin.qq.com/s/CaStDPAeqYnTEc93CevSrw)  
 [top11开源](https://github.com/LogicJake/tianchi-loan-default-prediction-top11)  
-
-
+### <span id='2020XF'>2020年讯飞开发者大赛-温室温度预测</span>
+**赛题链接**     
+http://challenge.xfyun.cn/topic/info?type=temperature  
+**赛题任务**    
+温室温度调控需要对温室温度进行精准的预测，本次大赛提供了中国农业大学涿州实验站的温室温度数据作为样本，参赛选手需基于提供的样本构建模型，预测温室温度变化情况。  
+**赛题难点**  
+**方案参考**  
+[top3方案+开源](https://zhuanlan.zhihu.com/p/268563179)  
+[top4开源](https://github.com/HighingLIN/iFlytek-Temperature)
+### <span id='2020XF'>2020第四届工业大数据创新竞赛-水电站入库流量预测</span>
+**赛题链接**     
+http://www.industrial-bigdata.com/Competition    
+**赛题任务**    
+基于历史数据和当前观测信息，对电站未来7日入库流量进行预测（每3小时一个预测值，共56个待预测值）。初赛预测3个时段，决赛预测5个时段。   
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/whoami-zy/WaterFlow)
 
 ## CV
 ## NLP
