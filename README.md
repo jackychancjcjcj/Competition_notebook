@@ -357,7 +357,7 @@ http://challenge.xfyun.cn/topic/info?type=temperature
 **方案参考**  
 [top3方案+开源](https://zhuanlan.zhihu.com/p/268563179)  
 [top4开源](https://github.com/HighingLIN/iFlytek-Temperature)
-### <span id='2020XF'>2020第四届工业大数据创新竞赛-水电站入库流量预测</span>
+### <span id='2020GY'>2020第四届工业大数据创新竞赛-水电站入库流量预测</span>
 **赛题链接**     
 http://www.industrial-bigdata.com/Competition    
 **赛题任务**    
