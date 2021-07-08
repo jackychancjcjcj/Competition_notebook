@@ -284,9 +284,11 @@ https://jdata.jd.com/html/detail.html?id=8
 （4）给来的数据集存在太多影响因素，比如加购数据缺失，浏览数据部分缺失，春节流量异常，节后效应等，所以该如何选取训练集&保证模型稳定的情况。   
 （5）模型预测出来是概率文件，如何确定划分正负样本的概率阈值，如何确定最优的提交结果数，也是本次比赛不可忽略的关键点之一。   
 **方案参考**  
-[冠军开源](https://github.com/jackychancjcjcj/Competition_notebook/edit/master/README.md)  
+[冠军开源](https://github.com/gdtydm/jdata-2019-1st)  
 [top2开源](https://github.com/anzhizh/2019-taida-jdata-top3)  
 [top3开源](https://github.com/WeavingWong/JDATA_2019-Cate_Shop_predict)  
+[top5开源](https://github.com/vinklibrary/jdata_code)  
+[top7开源](https://github.com/DuncanZhou/jdata2019)
 ### <span id='CCF2020'>2020CCF-企业非法集资风险预测</span>
 **赛题链接**  
 https://www.datafountain.cn/competitions/469/datasets  
