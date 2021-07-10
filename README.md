@@ -380,9 +380,11 @@ https://algo.qq.com/
 **方案参考**  
 [冠军方案](https://zhuanlan.zhihu.com/p/166710532)  
 [亚军方案](https://zhuanlan.zhihu.com/p/185045764)  
+[季军方案](https://mp.weixin.qq.com/s/rkhwLsCKTIDzUkjVIEj3LQ)  
 [top5方案](https://zhuanlan.zhihu.com/p/170603281)  
-[top11方案](https://github.com/llllllyu/Tencent2020_Rank11)   
-[top12方案](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
+[top11开源](https://github.com/llllllyu/Tencent2020_Rank11)   
+[top12开源](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)  
+[top19开源](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
 ### <span id='2018DC'>2018DC达观杯文本智能处理挑战-文本分类</span>
 **赛题链接**  
 https://js.dclab.run/v2/cmptDetail.html?id=229    
