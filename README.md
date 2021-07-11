@@ -465,7 +465,7 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 [top2开源](https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq)  
 [top3开源](https://github.com/zengbin93/jddc_solution_4th)
 
-### <span id='2018JD'>2018CCL-客服领域用户意图分类评测</span>
+### <span id='2018CCL'>2018CCL-客服领域用户意图分类评测</span>
 **赛题链接**    
 **赛题任务**  
 在客服和用户对话系统的应用过程中，用户可能会有多种意图，相应地会触发客服和客户对话系统中的多个业务类型，业务类型包括查询类、办理类和咨询类三种，每个业务类型下涉及的用户意图有多种，例如查询类下有查询账单、查询积分等，办理类下有充值手机话费、重置密码等；咨询类下有咨询宽带故障、咨询宽带续费等。因而，客服领域对话系统的一个关键任务就是正确地将用户的输入分类到相应业务类型下的具体意图（即识别出用户输入到对话系统执行某个动作之间的一个映射关系）中，从而达到识别和理解用户要表达的意图，帮助提高语言、语音导航系统的语义识别能力。  
