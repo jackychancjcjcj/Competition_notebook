@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/Author-CJ-red.svg "Author")
 ![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")
 ![Language](https://img.shields.io/badge/Language-python3.6-green.svg "Laguage")
-![Last update](https://img.shields.io/badge/last%20update-01%20Apr%202021-brightgreen.svg?style=flat-square "Last update")
+![Last update](https://img.shields.io/badge/last%20update-11%20Jul%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
