@@ -43,6 +43,8 @@
         * [2018JD Dialog Challenge-任务导向型对话系统挑战赛](#2018JD)
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
         * [2017知乎看山杯-文本多分类](#2017ZH)
+     * [推荐](#推荐)
+        * []
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -473,6 +475,7 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 **方案参考**  
 [top1方案](https://github.com/nlpjoe/2018-CCL-UIIMCS)  
 
+## 推荐
 
 
 
