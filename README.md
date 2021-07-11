@@ -420,6 +420,8 @@ https://www.datafountain.cn/competitions/353
 **赛题难点**  
 **方案参考**  
 [top1开源](https://github.com/A-Rain/BDCI2019-Negative_Finance_Info_Judge)  
+[top1开源](https://github.com/rogeroyer/2019-CCF-BDCI-Finance-Information-Negative-Judgment)  
+[top1开源](https://github.com/xiong666/ccf_financial_negative)  
 [top2开源](https://github.com/rebornZH/2019-CCF-BDCI-NLP)  
 [top3开源](https://github.com/Chevalier1024/CCF-BDCI-ABSA)  
 ### <span id='2019DF-2'>2019DF互联网新闻情感分析</span>
