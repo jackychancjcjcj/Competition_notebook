@@ -514,6 +514,7 @@ https://algo.weixin.qq.com/
 [top2方案](https://github.com/zhouyuanzhe/wbdc2021_rank2)  
 [top13开源](https://github.com/shexuan/wbdc2021_rank13)  
 [top14开源](https://github.com/HuipengXu/wbdc2021_semifinal)  
+[top21开源](https://github.com/Cong-Huang/wbdc2021_21th)    
 [top23开源](https://github.com/librauee/WBDC)  
 [top50开源](https://github.com/QunBB/WBDC2021)  
 [Albert embedding](https://github.com/QunBB/WBDC2021)  
