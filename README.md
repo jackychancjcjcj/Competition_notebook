@@ -516,7 +516,7 @@ https://algo.weixin.qq.com/
 [top14开源](https://github.com/HuipengXu/wbdc2021_semifinal)  
 [top23开源](https://github.com/librauee/WBDC)  
 [top50开源](https://github.com/QunBB/WBDC2021)  
-
+[Albert embedding](https://github.com/QunBB/WBDC2021)  
 
 
 
