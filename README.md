@@ -510,7 +510,7 @@ https://algo.weixin.qq.com/
 本次比赛基于脱敏和采样后的数据信息，对于给定的一定数量到访过微信视频号“热门推荐”的用户， 根据这些用户在视频号内的历史n天的行为数据，通过算法在测试集上预测出这些用户对于不同视频内容的互动行为（包括点赞、点击头像、收藏、转发等）的发生概率。 本次比赛以多个行为预测结果的加权uAUC值进行评分.比赛提供训练集用于训练模型，测试集用于评估模型效果，提交结果demo文件用于展示提交结果的格式。 所有数据文件格式都是带表头的.csv格式，不同字段列之间用英文逗号分隔。初赛与复赛的数据分布一致，数据规模不同。 初赛提供百万级训练数据，复赛提供千万级训练数据。  
 **赛题难点**  
 **方案参考**  
-[tree开源](https://github.com/juzstu/WBDC2021_Tree_Solution) 
+[tree开源](https://github.com/juzstu/WBDC2021_Tree_Solution)  
 [top1开源](https://github.com/chenghuige/pikachu2/tree/main/projects/ai/wechat)  
 [top2方案](https://github.com/zhouyuanzhe/wbdc2021_rank2)  
 [top13开源](https://github.com/shexuan/wbdc2021_rank13)  
