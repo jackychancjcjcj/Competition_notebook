@@ -532,7 +532,8 @@ http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
 **赛题难点**  
 **方案参考**  
 [baseline-paddle](https://aistudio.baidu.com/aistudio/projectdetail/2715522)  
-[baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)
+[baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)  
+[baseline-torch](https://github.com/LogicJake/competition_baselines/tree/master/competitions/wsdm_iqiyi_torch)
 
 ### <span id='2020MOA'>2020Kaggle-Mechanisms of Action (MoA) Prediction</span>
 **赛题链接**    
@@ -548,7 +549,8 @@ https://www.kaggle.com/c/lish-moa/overview
 **赛题难点**  
 **方案参考**  
 [top1开源](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)   
-[top2开源](https://www.kaggle.com/c/lish-moa/discussion/202256)  
+[top2开源](https://www.kaggle.com/c/lish-moa/discussion/202256) 
+
 
 
 # Tips
