@@ -5,6 +5,7 @@
 ![Last update](https://img.shields.io/badge/last%20update-11%20Jul%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
+        * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
         * [2020年讯飞开发者大赛-温室温度预测](#2020XF)
         * [2020翼支付-风险用户识别大赛](#2020yzf)
@@ -533,7 +534,21 @@ http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
 [baseline-paddle](https://aistudio.baidu.com/aistudio/projectdetail/2715522)  
 [baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)
 
-
+### <span id='2020MOA'>2020Kaggle-Mechanisms of Action (MoA) Prediction</span>
+**赛题链接**    
+https://www.kaggle.com/c/lish-moa/overview  
+**赛题任务**  
+在连通图，麻省理工学院和哈佛大学的的Broad研究所内的项目实验室创新科技在哈佛大学（LISH） ，以及基于网络的集成蜂窝签名的NIH共同基金库（LINCS） ，目前这种挑战与目标通过改进 MoA 预测算法来推进药物开发。  
+*药物的作用机制 (MoA) 是什么？为什么它很重要？*  
+过去，科学家们从天然产品中提取药物或受到传统疗法的启发。非常常见的药物，例如扑热息痛，在美国称为对乙酰氨基酚，在驱动其药理活性的生物学机制被了解之前几十年就已投入临床使用。今天，随着更强大的技术的出现，药物发现已经从过去的偶然方法转变为基于对疾病潜在生物学机制的理解的更有针对性的模型。在这个新框架中，科学家们寻求确定与疾病相关的蛋白质靶标，并开发一种可以调节该蛋白质靶标的分子。作为描述给定分子生物活性的简写，科学家们分配了一个标签，称为作用机制或简称 MoA。  
+*我们如何确定新药的 MoA？*  
+一种方法是用药物处理人类细胞样本，然后使用算法分析细胞反应，该算法搜索与大型基因组数据库中已知模式的相似性，例如基因表达库或具有已知 MoA 的药物的细胞活力模式。在本次比赛中，您将获得一个独特的数据集，该数据集结合了基因表达和细胞活力数据。该数据基于一项新技术，该技术在 100 种不同细胞类型的池中同时测量（在同一样本中）人体细胞对药物的反应（从而解决了事先确定哪些细胞类型更适合于给予药物）。此外，您将可以访问此数据集中 5,000 多种药物的 MoA 注释。按照惯例，数据集已分为测试和训练子集。因此，您的任务是使用训练数据集开发一种算法，自动将测试集中的每个案例标记为一个或多个 MoA 类。请注意，由于药物可以有多个 MoA 注释，因此该任务在形式上是一个多标签分类问题。
+*如何评估解决方案的准确性？*  
+基于 MoA 注释，将根据应用于每个药物-MoA 注释对的对数损失函数的平均值来评估解决方案的准确性。如果成功，您将帮助开发一种算法，根据化合物的细胞特征预测化合物的 MoA，从而帮助科学家推进药物发现过程。
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)   
+[top2开源](https://www.kaggle.com/c/lish-moa/discussion/202256)  
 
 
 # Tips
