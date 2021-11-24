@@ -521,7 +521,7 @@ https://algo.weixin.qq.com/
 [top23开源](https://github.com/librauee/WBDC)  
 [top50开源](https://github.com/QunBB/WBDC2021)  
 [Albert embedding](https://github.com/QunBB/WBDC2021)  
-
+[top7答辩ppt及视频](https://mp.weixin.qq.com/s/PHjGDyu4XqUezUr6DjYXxg)
 ### <span id='2021WSDM'>2021爱奇艺WSDM-用户留存预测</span>
 **赛题链接**    
 http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6  
