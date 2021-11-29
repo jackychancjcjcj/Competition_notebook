@@ -39,6 +39,7 @@
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
         * [2021微信大数据挑战赛-CTR](#2021WBDC)
+        * [2021一点资讯技术编程大赛-CTR](#2021YDZX)
         * [2021爱奇艺WSDM-用户留存预测](#2021WSDM)
         * [2019腾讯广告算法大赛-CTR](#2019腾讯广告算法大赛)
         * [2019图灵联邦-视频点击预测大赛](#2019TL-SP)
@@ -551,7 +552,14 @@ https://www.kaggle.com/c/lish-moa/overview
 [top1开源](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)   
 [top2开源](https://www.kaggle.com/c/lish-moa/discussion/202256) 
 
-
+### <span id='2021YDZX'>2021一点资讯技术编程大赛-CTR</span>
+**赛题链接**    
+https://tech.yidianzixun.com/competition/  
+**赛题任务**  
+本次大赛提供抽样用户过去一段时间内在一点资讯APP上的真实曝光和点击记录，以及所涉及用户和文章的基础属性，参赛者需要基于这些数据进行分析和建模。同时，大赛提供这批用户之后一段时间的曝光文章列表，参赛者最终提交给系统每个用户在之后曝光文章上的点击概率预估值（0-1之间的浮点数）。系统根据点击概率预估值和用户真实点击情况的差异，来评估预估任务的准确程度。 本次大赛提供的数据将隐去能代表用户身份的所有信息，对部分必要的敏感信息也进行了加密处理。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/LogicJake/yidianzixun-ctr-top1)
 
 # Tips
 ## 特征过多怎么办？  
