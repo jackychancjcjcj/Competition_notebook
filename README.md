@@ -39,6 +39,7 @@
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
         * [2021微信大数据挑战赛-CTR](#2021WBDC)
+        * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021IFLY)
         * [2021一点资讯技术编程大赛-CTR](#2021YDZX)
         * [2021爱奇艺WSDM-用户留存预测](#2021WSDM)
         * [2019腾讯广告算法大赛-CTR](#2019腾讯广告算法大赛)
@@ -561,6 +562,15 @@ https://tech.yidianzixun.com/competition/
 **方案参考**  
 [top1开源](https://github.com/LogicJake/yidianzixun-ctr-top1)
 
+### <span id='2021IFLY'>2021科大讯飞AI开发者大赛-基于用户画像的商品推荐</span>
+**赛题链接**    
+http://challenge.xfyun.cn/topic/info?type=user-portrait  
+**赛题任务**  
+基于用户画像的产品推荐，是目前AI营销云服务广告主的一项重要能力，本次赛题选择了两款产品分别在初赛和复赛中进行用户付费行为预测，参赛选手需基于提供的样本构建模型，预测用户是否会购买相应商品。  
+**赛题难点**  
+**方案参考**  
+[top5开源](https://github.com/DuoduoMoney/iFLYTEK_rec)  
+[top6开源](https://github.com/Shuigs18/2021iFLYTEK_UserPortrait_Rank6)
 # Tips
 ## 特征过多怎么办？  
 ### 1. 重要性排序，保留前面的
