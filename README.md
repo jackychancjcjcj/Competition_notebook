@@ -570,7 +570,8 @@ http://challenge.xfyun.cn/topic/info?type=user-portrait
 **赛题难点**  
 **方案参考**  
 [top5开源](https://github.com/DuoduoMoney/iFLYTEK_rec)  
-[top6开源](https://github.com/Shuigs18/2021iFLYTEK_UserPortrait_Rank6)
+[top6开源](https://github.com/Shuigs18/2021iFLYTEK_UserPortrait_Rank6)  
+[top3答辩](https://1024.iflytek.com/liveroom?id=competition-child-child2-6&liveId=682555&cmskey=competition&date=1023)
 # Tips
 ## 特征过多怎么办？  
 ### 1. 重要性排序，保留前面的
