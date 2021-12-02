@@ -51,6 +51,8 @@
         * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估)
         * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
         * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
+     * [时序比赛](#时序比赛)
+        * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -572,159 +574,20 @@ http://challenge.xfyun.cn/topic/info?type=user-portrait
 [top5开源](https://github.com/DuoduoMoney/iFLYTEK_rec)  
 [top6开源](https://github.com/Shuigs18/2021iFLYTEK_UserPortrait_Rank6)  
 [top3答辩](https://1024.iflytek.com/liveroom?id=competition-child-child2-6&liveId=682555&cmskey=competition&date=1023)
-# Tips
-## 特征过多怎么办？  
-### 1. 重要性排序，保留前面的
-### 2. 看训练集和测试集分布，删除分布不一样的  
-```python
-# 重要！！！观察筛选的特征，在train和test上的分布差异，并删除分布差异大的特征
-for column in base_corr_col:
 
-    plt.hist(df_x_train[column], color='g')
-    plt.hist(df_x_test[column], color='r')
-    plt.xlabel(column)
-    plt.legend(['train', 'test'])
-    plt.show()
-    
-    sns.kdeplot(df_x_train[column], shade=True, color='g')
-    sns.kdeplot(df_x_test[column], shade=True, color='r')
-    plt.xlabel(column)
-    plt.legend(['train', 'test'])
-    plt.show()
-    print(column)
-```
-### 3. 也可以通过相关性筛选（相关性超过阈值就不要）  
-```python
-# 设置相关性系数的阈值，并据此进行特征初步删减
-size_base_col = []
-corr_thresh1 = 0.1
-corr_thresh2 = -0.16
-# 分别对3个尺寸，分别进行筛选
-for i,size in enumerate(['size1', 'size2', 'size3']):
-    temp = []
-    for c in corr_col:
-        if (df_corrmat.loc[size, c]>=corr_thresh1) or (df_corrmat.loc[size, c]<=corr_thresh2):
-            temp.append(c)    
-    size_base_col.append(temp)
-```
-## 特征可以怎么做？
-### 交叉特征
-```python
-//定义离散型特征和连续型特征
-col_cat = ['subGrade', 'grade', 'employmentLength', 'term', 'homeOwnership', 'postCode', 'regionCode','employmentTitle','title']
-col_num = ['dti', 'revolBal','revolUtil', 'ficoRangeHigh', 'interestRate', 'loanAmnt', 'installment', 'annualIncome', 'n14',
-             'n2', 'n6', 'n9', 'n5', 'n8']
-             
-# 定义离散型特征和连续型特征交叉特征统计函数
-def cross_cat_num(df, num_col, cat_col):
-    for f1 in tqdm(cat_col):
-        g = df.groupby(f1, as_index=False)
-        for f2 in tqdm(num_col):
-            feat = g[f2].agg({
-                '{}_{}_max'.format(f1, f2): 'max', '{}_{}_min'.format(f1, f2): 'min',
-                '{}_{}_median'.format(f1, f2): 'median',
-            })
-            df = df.merge(feat, on=f1, how='left')
-    return (df)
-    
-data = cross_cat_num(data, col_num, col_cat)  # 一阶交叉
-print('一阶交叉特征处理后：', data.shape)
-
-# 类别特征之间的二阶交叉
-def cross_qua_cat_num(df):
-    for f_pair in tqdm([
-        ['subGrade', 'regionCode'], ['grade', 'regionCode'], ['subGrade', 'postCode'], ['grade', 'postCode'], ['employmentTitle','title'],
-        ['regionCode','title'], ['postCode','title'], ['homeOwnership','title'], ['homeOwnership','employmentTitle'],['homeOwnership','employmentLength'],
-        ['regionCode', 'postCode']
-    ]):
-        ### 共现次数
-        df['_'.join(f_pair) + '_count'] = df.groupby(f_pair)['id'].transform('count')
-        ### n unique、熵
-        df = df.merge(df.groupby(f_pair[0], as_index=False)[f_pair[1]].agg({
-            '{}_{}_nunique'.format(f_pair[0], f_pair[1]): 'nunique',
-            '{}_{}_ent'.format(f_pair[0], f_pair[1]): lambda x: entropy(x.value_counts() / x.shape[0])
-        }), on=f_pair[0], how='left')
-        df = df.merge(df.groupby(f_pair[1], as_index=False)[f_pair[0]].agg({
-            '{}_{}_nunique'.format(f_pair[1], f_pair[0]): 'nunique',
-            '{}_{}_ent'.format(f_pair[1], f_pair[0]): lambda x: entropy(x.value_counts() / x.shape[0])
-        }), on=f_pair[1], how='left')
-        ### 比例偏好
-        df['{}_in_{}_prop'.format(f_pair[0], f_pair[1])] = df['_'.join(f_pair) + '_count'] / df[f_pair[1] + '_count']
-        df['{}_in_{}_prop'.format(f_pair[1], f_pair[0])] = df['_'.join(f_pair) + '_count'] / df[f_pair[0] + '_count']
-    return (df)
-```
-### embedding 特征
-## 标准处理df的内存减少流程
-```python 
-def reduce_memory(data):
-    start_memory = data.memory_usage().sum() / 1024**2 
-    print("Memory usage of properties dataframe is :",start_memory," MB")
-    NAlist = [] # Keeps track of columns that have missing values filled in. 
-    
-    for col in data.columns:
-        if ('int' in data[col].dtype.name) or ('float' in data[col].dtype.name):  # Exclude strings
-            try:
-                # Print current column type
-                print("******************************")
-                print("Column: ",col)
-                print("dtype before: ",data[col].dtype)
-
-                # make variables for Int, max and min
-                IsInt = False
-                value_max = data[col].max()
-                value_min = data[col].min()
-
-                # Integer does not support NA, therefore, NA needs to be filled
-                if not np.isfinite(data[col]).all(): 
-                    NAlist.append(col)
-                    data[col].fillna(value_min-1,inplace=True)  
-
-                # test if column can be converted to an integer
-                asint = data[col].fillna(0).astype(np.int64)
-                result = (data[col] - asint)
-                result = result.sum()
-                if result > -0.01 and result < 0.01:
-                    IsInt = True
-
-
-                # Make Integer/unsigned Integer datatypes
-                if IsInt:
-                    if value_min >= 0:
-                        if value_max < 255:
-                            data[col] = data[col].astype(np.uint8)
-                        elif value_max < 65535:
-                            data[col] = data[col].astype(np.uint16)
-                        elif value_max < 4294967295:
-                            data[col] = data[col].astype(np.uint32)
-                        else:
-                            data[col] = data[col].astype(np.uint64)
-                    else:
-                        if value_min > np.iinfo(np.int8).min and value_max < np.iinfo(np.int8).max:
-                            data[col] = data[col].astype(np.int8)
-                        elif value_min > np.iinfo(np.int16).min and value_max < np.iinfo(np.int16).max:
-                            data[col] = data[col].astype(np.int16)
-                        elif value_min > np.iinfo(np.int32).min and value_max < np.iinfo(np.int32).max:
-                            data[col] = data[col].astype(np.int32)
-                        elif value_min > np.iinfo(np.int64).min and value_max < np.iinfo(np.int64).max:
-                            data[col] = data[col].astype(np.int64)    
-
-                # Make float datatypes 32 bit
-                else:
-                    data[col] = data[col].astype(np.float32)
-
-                # Print new column type
-                print("dtype after: ",data[col].dtype)
-                print("******************************")
-            except:
-                print("dtype after: Failed")
-        else:
-            print("dtype remain: ",data[col].dtype)
-    
-    # Print final result
-    print("___MEMORY USAGE AFTER COMPLETION:___")
-    end_memory = data.memory_usage().sum() / 1024**2 
-    print("Memory usage is: ",end_memory," MB")
-    print("This is ",100*start_memory/end_memory,"% of the initial size")
-    print("Missing Value list", NAlist)
-    return data
- ```
+### <span id='2019ECG'>2019“合肥高新杯”心电人机智能大赛—心电异常事件预测</span>
+**赛题链接**    
+https://tianchi.aliyun.com/competition/entrance/231754/introduction  
+**赛题任务**  
+本次大赛要求选手以心电图异常事件预测为赛题方向，依据心电图机8导联的数据，以及病患年龄、性别等因素，用统计学、机器学习、深度学习等方式探索挖掘心电波形与心电异常事件之间的关系，构建精准预测模型。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/zhengqi98/Hefei_ECG_TOP1)  
+[top2方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=85999)  
+[top3方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=85965)  
+[top3-2方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=86093)  
+[top4方案](https://tianchi.aliyun.com/forum/postDetail?postId=85990)  
+[top4开源](https://github.com/wbbhcb/hefei_ecg)  
+[top8开源](https://github.com/gen0924/ECG-HEFEI)  
+[baseline](https://github.com/JavisPeng/ecg_pytorch)  
+[baseline-2](https://github.com/mikochou/ECG-tianchi?spm=5176.21852664.0.0.415d12882doyIN)
