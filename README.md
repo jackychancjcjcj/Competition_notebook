@@ -38,6 +38,7 @@
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
+        * [DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX)
         * [2021微信大数据挑战赛-CTR](#2021WBDC)
         * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021IFLY)
         * [2021一点资讯技术编程大赛-CTR](#2021YDZX)
@@ -591,3 +592,14 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 [top8开源](https://github.com/gen0924/ECG-HEFEI)  
 [baseline](https://github.com/JavisPeng/ecg_pytorch)  
 [baseline-2](https://github.com/mikochou/ECG-tianchi?spm=5176.21852664.0.0.415d12882doyIN)
+
+### <span id='2021DIGIX'>DIGIX全球算法精英大赛-基于多目标优化的视频推荐</span>
+**赛题链接**    
+https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/006/introduction  
+**赛题任务**  
+本赛题提供14天数据用于训练，1天数据用于测试，数据包括用户特征，视频内容特征，以及用户历史行为数据，选手基于给出的数据，提供推荐策略，目标是预测每位用户观看视频时长所在区间，且预测是否对视频进行分享。所提供的数据经过脱敏处理，保证数据安全。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://github.com/Q-Qing/huawei_digix2021_track1)  
+[top2开源](https://github.com/librauee/DIGIX2021)
+
