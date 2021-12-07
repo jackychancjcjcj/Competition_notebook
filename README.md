@@ -592,6 +592,9 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 [top8开源](https://github.com/gen0924/ECG-HEFEI)  
 [baseline](https://github.com/JavisPeng/ecg_pytorch)  
 [baseline-2](https://github.com/mikochou/ECG-tianchi?spm=5176.21852664.0.0.415d12882doyIN)
+[其他参考-1](https://github.com/CbGeSky/Pub--1stECG)  
+[其他参考-2](https://github.com/WisleyWang/ECG)  
+
 
 ### <span id='2021DIGIX'>DIGIX全球算法精英大赛-基于多目标优化的视频推荐</span>
 **赛题链接**    
