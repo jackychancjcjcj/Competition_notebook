@@ -602,6 +602,7 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 [top4方案](https://tianchi.aliyun.com/forum/postDetail?postId=85990)  
 [top4开源](https://github.com/wbbhcb/hefei_ecg)  
 [top8开源](https://github.com/gen0924/ECG-HEFEI)  
+[top21开源](https://github.com/jelliy/Tianchi_ECG_Competition)  
 [baseline](https://github.com/JavisPeng/ecg_pytorch)  
 [baseline-2](https://github.com/mikochou/ECG-tianchi?spm=5176.21852664.0.0.415d12882doyIN)  
 [其他参考-1](https://github.com/CbGeSky/Pub--1stECG)  
