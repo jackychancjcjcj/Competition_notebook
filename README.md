@@ -597,6 +597,7 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 **方案参考**  
 [top1开源](https://github.com/zhengqi98/Hefei_ECG_TOP1)  
 [top2方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=85999)  
+[top2开源](https://github.com/ycd2016/HFECG)  
 [top3方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=85965)  
 [top3-2方案](https://tianchi.aliyun.com/notebook-ai/detail?postId=86093)  
 [top4方案](https://tianchi.aliyun.com/forum/postDetail?postId=85990)  
