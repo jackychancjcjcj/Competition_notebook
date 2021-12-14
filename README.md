@@ -73,6 +73,7 @@ https://m.dcjingsai.com/cmptDetail.html?id=319
 ### 2020年厦门国际银行数创金融杯
 **赛题链接**  
 **赛题任务**  
+随着科技发展，银行陆续打造了线上线下、丰富多样的客户触点，来满足客户日常业务办理、渠道交易等客户需求。面对着大量的客户，银行需要更全面、准确地洞察客户需求。在实际业务开展过程中，需要发掘客户流失情况，对客户的资金变动情况预判；提前/及时针对客户进行营销，减少银行资金流失。本次竞赛提供实际业务场景中的客户行为和资产信息为建模对象，一方面希望能借此展现各参赛选手的数据挖掘实战能力，另一方面需要选手在复赛中结合建模的结果提出相应的营销解决方案，充分体现数据分析的价值。  
 **赛题难点**  
 **方案参考**  
 [top1方案](https://mp.weixin.qq.com/s?__biz=MzAxNDkyNzE5Nw==&mid=2247484310&idx=1&sn=a5ff34ebad548765ce002920475d2db1&chksm=9b8a97a4acfd1eb24c7759d0724c32c2e32ed25c27e0714a845d4aedd074fa31e5748a8786db&mpshare=1&scene=1&srcid=053125SxRzCmJZGLE1xYN9SP&sharer_sharetime=1639465718998&sharer_shareid=9b869c9a24181fe91d7ddd3f39c6511b&version=3.1.20.6008&platform=win#rd)  
