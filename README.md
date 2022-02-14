@@ -78,6 +78,7 @@ https://m.dcjingsai.com/cmptDetail.html?id=319
 **方案参考**  
 [top1方案](https://mp.weixin.qq.com/s?__biz=MzAxNDkyNzE5Nw==&mid=2247484310&idx=1&sn=a5ff34ebad548765ce002920475d2db1&chksm=9b8a97a4acfd1eb24c7759d0724c32c2e32ed25c27e0714a845d4aedd074fa31e5748a8786db&mpshare=1&scene=1&srcid=053125SxRzCmJZGLE1xYN9SP&sharer_sharetime=1639465718998&sharer_shareid=9b869c9a24181fe91d7ddd3f39c6511b&version=3.1.20.6008&platform=win#rd)  
 [top2方案](https://mp.weixin.qq.com/s?__biz=MzAxOTU5NTU4MQ==&mid=2247486877&idx=1&sn=f6bcb79c88eed5b3f8783af563bfa2be&chksm=9bc5e5cfacb26cd9224a9f85da4ed318d6704a3804ccf992fc2135a3060033246e2f765f11d9&mpshare=1&scene=1&srcid=1214Fyl9xnhA6UKZ8rGjXYZH&sharer_sharetime=1639465791598&sharer_shareid=9b869c9a24181fe91d7ddd3f39c6511b&version=3.1.20.6008&platform=win#rd)  
+[top5开源](https://mp.weixin.qq.com/s/FHzFItwswMPu3D_HenJbcg)  
 [top8开源](https://github.com/yanqiangmiffy/Data-Finance-Cup)  
 [top15开源](https://github.com/LogicJake/2020-Xiamen-International-Bank-Financial-Cup)  
 [baseline](https://github.com/zzz333za/xiamenjinrong2020)  
