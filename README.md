@@ -617,15 +617,11 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 **赛题链接**    
 https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/006/introduction  
 **赛题任务**  
-本赛题基于位置数据对海上目标进行智能识别和作业行为分析，要求选手通过分析渔船北斗设备位置数据，得出该船的生产作业行为，具体判断出是拖网作业、围网作业还是流刺网作业。  
+推荐系统大多都是基于隐式反馈来做推荐，比如用户的点击、观看时长、评论、分享等，且不同隐式反馈表达了用户不同的喜好程度。如果仅仅以单目标对推荐结果进行衡量，会存在衡量不全面的问题。如视频场景，假设某个用户打开一个视频看了开头觉得不喜欢立马关掉，如果以点击为目标则体现的是用户感兴趣，但实际情况是用户对这个视频不感兴趣。从这个例子可以看出，在视频推荐中如果仅仅以点击为目标，可能忽视了用户更深层次的隐式反馈。因此，视频推荐除了关注用户点击，还需关注用户观看时长、分享等目标，期望通过多目标能更深入地挖掘用户兴趣，做更精准的推荐。  
 **赛题难点**  
 **方案参考**  
-[top1开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.6.163c5cfdoXdPGB&postId=110644)  
-[top3开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.163c5cfdoXdPGB&postId=110932)  
-[top5开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.15.163c5cfdoXdPGB&postId=110710)  
-[top7开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.12.163c5cfdoXdPGB&postId=110748)  
-[top11开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.36.163c5cfdoXdPGB&postId=114808)  
-[baseling-1](https://github.com/fengdu78/tianchi_haiyang?spm=5176.21852664.0.0.52b83017nfyqoH)  
+[top1开源](https://github.com/Q-Qing/huawei_digix2021_track1)
+[top2开源](https://github.com/librauee/DIGIX2021)  
 
 
 
@@ -633,6 +629,12 @@ https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.htm
 **赛题链接**    
 https://tianchi.aliyun.com/competition/entrance/231768/introduction  
 **赛题任务**  
-本赛题提供14天数据用于训练，1天数据用于测试，数据包括用户特征，视频内容特征，以及用户历史行为数据，选手基于给出的数据，提供推荐策略，目标是预测每位用户观看视频时长所在区间，且预测是否对视频进行分享。所提供的数据经过脱敏处理，保证数据安全。  
+本赛题基于位置数据对海上目标进行智能识别和作业行为分析，要求选手通过分析渔船北斗设备位置数据，得出该船的生产作业行为，具体判断出是拖网作业、围网作业还是流刺网作业。 
 **赛题难点**  
 **方案参考**  
+[top1开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.6.163c5cfdoXdPGB&postId=110644)  
+[top3开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.163c5cfdoXdPGB&postId=110932)  
+[top5开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.15.163c5cfdoXdPGB&postId=110710)  
+[top7开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.12.163c5cfdoXdPGB&postId=110748)  
+[top11开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.36.163c5cfdoXdPGB&postId=114808)  
+[baseling-1](https://github.com/fengdu78/tianchi_haiyang?spm=5176.21852664.0.0.52b83017nfyqoH) 
