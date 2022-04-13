@@ -5,6 +5,7 @@
 ![Last update](https://img.shields.io/badge/last%20update-06%20Dec%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
+        * [2020DCIC-智慧海洋建设](#2020DCIC-1)
         * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
         * [2020年讯飞开发者大赛-温室温度预测](#2020XF)
@@ -616,9 +617,22 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 **赛题链接**    
 https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/006/introduction  
 **赛题任务**  
+本赛题基于位置数据对海上目标进行智能识别和作业行为分析，要求选手通过分析渔船北斗设备位置数据，得出该船的生产作业行为，具体判断出是拖网作业、围网作业还是流刺网作业。  
+**赛题难点**  
+**方案参考**  
+[top1开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.6.163c5cfdoXdPGB&postId=110644)  
+[top3开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.163c5cfdoXdPGB&postId=110932)  
+[top5开源](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.15.163c5cfdoXdPGB&postId=110710)  
+[top7开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.12.163c5cfdoXdPGB&postId=110748)  
+[top11开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.36.163c5cfdoXdPGB&postId=114808)  
+[baseling-1](https://github.com/fengdu78/tianchi_haiyang?spm=5176.21852664.0.0.52b83017nfyqoH)  
+
+
+
+### <span id='2020DCIC-1'>2020DCIC-智慧海洋建设</span>
+**赛题链接**    
+https://tianchi.aliyun.com/competition/entrance/231768/introduction  
+**赛题任务**  
 本赛题提供14天数据用于训练，1天数据用于测试，数据包括用户特征，视频内容特征，以及用户历史行为数据，选手基于给出的数据，提供推荐策略，目标是预测每位用户观看视频时长所在区间，且预测是否对视频进行分享。所提供的数据经过脱敏处理，保证数据安全。  
 **赛题难点**  
 **方案参考**  
-[top1开源](https://github.com/Q-Qing/huawei_digix2021_track1)  
-[top2开源](https://github.com/librauee/DIGIX2021)
-
