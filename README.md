@@ -5,6 +5,7 @@
 ![Last update](https://img.shields.io/badge/last%20update-06%20Dec%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
+        * [2021腾讯广告算法大赛](#2021TECENT)
         * [2020DCIC-智慧海洋建设](#2020DCIC-1)
         * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
@@ -638,3 +639,20 @@ https://tianchi.aliyun.com/competition/entrance/231768/introduction
 [top7开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.12.163c5cfdoXdPGB&postId=110748)  
 [top11开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.36.163c5cfdoXdPGB&postId=114808)  
 [baseling-1](https://github.com/fengdu78/tianchi_haiyang?spm=5176.21852664.0.0.52b83017nfyqoH) 
+
+### <span id='2021TENCENT'>2021腾讯广告算法大赛</span>
+**赛题链接**    
+https://algo.qq.com/signup.html?rfisource=DSWX0308  
+**赛题任务**  
+对于给定的测试视频样本，通过算法预测出视频在呈现形式、场景、风格等三个维度上的标签，使用Global Average Precision(GAP)进行评分。   
+**赛题难点**  
+**方案参考**  
+[top10ppt](https://share.weiyun.com/BjZXgvhL)  
+[top10答辩](https://www.bilibili.com/video/BV1XR4y1E7CQ/)  
+[top5开源](https://github.com/JacksonWuxs/taac2021-Video-Classification-Rank5)  
+[top6开源](https://github.com/chenjiashuo123/TAAC-2021-Task2-Rank6)  
+[top8开源](https://github.com/kniter1/taac-2021-Rank8)  
+[top10开源](https://github.com/beibuwandeluori/taac2021-tagging-azx)  
+
+
+
