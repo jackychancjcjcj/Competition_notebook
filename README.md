@@ -662,6 +662,7 @@ https://algo.qq.com/signup.html?rfisource=DSWX0308
 信息流场景下，短视频消费引来爆发式增长，视频的语义理解对于提升用户消费效率至关重要。视频Embedding采用稠密向量能够很好的表达出视频的语义，在推荐场景下对视频去重、相似召回、排序和多样性打散等场景都有重要的作用。本赛题从视频推荐角度出发，提供真实业务的百万量级标签数据(脱敏)，以及万量级视频相似度数据(人工标注)，用于训练embedding模型，最终根据embedding计算视频之间的余弦相似度，采用Spearman’s rank correlation与人工标注相似度计算相关性，并最终排名   
 **赛题难点**  
 **方案参考**  
+[top10答辩](https://www.bilibili.com/video/BV15q4y1B7Qh?p=2)  
 [top1开源](https://github.com/zr2021/2021_QQ_AIAC_Tack1_1st)  
 [top3开源](https://github.com/chenghuige/pikachu2/tree/main/projects/ai/qqbrowser)  
 [top4开源](https://github.com/kywen1119/Video_sim)  
