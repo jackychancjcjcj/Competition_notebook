@@ -5,7 +5,7 @@
 ![Last update](https://img.shields.io/badge/last%20update-06%20Dec%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
-        * [2021腾讯广告算法大赛](#2021TECENT)
+        * [2021腾讯广告算法大赛](#2021TENCENT)
         * [2020DCIC-智慧海洋建设](#2020DCIC-1)
         * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
