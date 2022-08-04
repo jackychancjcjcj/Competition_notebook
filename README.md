@@ -61,6 +61,7 @@
         * [2021腾讯广告算法大赛](#2021TENCENT)
         * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
         * [2021SHOPEE-price match](#2021KAGGLE-shopee)
+        * [2021H&M Personalized Fashion Recommendations](#2021KAGGLE-hm)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -708,3 +709,17 @@ Two different images of similar wares may represent the same product or two comp
 [top5方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238078)  
 [top6方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238010)  
 [以往解决方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/224586)  
+
+### <span id='2021KAGGLE-hm'>2021H&M Personalized Fashion Recommendations</span>
+**赛题链接**    
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion?sort=votes  
+**赛题任务**  
+H&M Group is a family of brands and businesses with 53 online markets and approximately 4,850 stores. Our online store offers shoppers an extensive selection of products to browse through. But with too many choices, customers might not quickly find what interests them or what they are looking for, and ultimately, they might not make a purchase. To enhance the shopping experience, product recommendations are key. More importantly, helping customers make the right choices also has a positive implications for sustainability, as it reduces returns, and thereby minimizes emissions from transportation.  
+In this competition, H&M Group invites you to develop product recommendations based on data from previous transactions, as well as from customer and product meta data. The available meta data spans from simple data, such as garment type and customer age, to text data from product descriptions, to image data from garment images.  
+**赛题难点**  
+**方案参考**  
+[top1方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324070)  
+[top2方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324197)  
+[top3方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324129)  
+[top4方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324094)  
+[top5方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324098)  
