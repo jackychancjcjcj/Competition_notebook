@@ -5,8 +5,6 @@
 ![Last update](https://img.shields.io/badge/last%20update-06%20Dec%202021-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
-        * [2021qq浏览器算法大赛](#2021QQ)
-        * [2021腾讯广告算法大赛](#2021TENCENT)
         * [2020DCIC-智慧海洋建设](#2020DCIC-1)
         * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
@@ -58,6 +56,10 @@
         * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
      * [时序比赛](#时序比赛)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
+     * [多模态](#多模态比赛)
+        * [2021qq浏览器算法大赛](#2021QQ)
+        * [2021腾讯广告算法大赛](#2021TENCENT)
+        * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -670,3 +672,19 @@ https://algo.qq.com/signup.html?rfisource=DSWX0308
 [top11开源](https://github.com/cgxcompetition/AIAC_qq_browser_2021_task1_rank11)  
 [top17开源](https://github.com/chenjiashuo123/AIAC-2021-Task1-Rank17)  
 
+### <span id='2021KAGGLE-pet'>2021PetFinder.my-Pawpularity Contest</span>
+**赛题链接**    
+https://www.kaggle.com/competitions/petfinder-pawpularity-score/code  
+**赛题任务**  
+PetFinder.my is Malaysia’s leading animal welfare platform, featuring over 180,000 animals with 54,000 happily adopted. PetFinder collaborates closely with animal lovers, media, corporations, and global organizations to improve animal welfare.  
+Currently, PetFinder.my uses a basic Cuteness Meter to rank pet photos. It analyzes picture composition and other factors compared to the performance of thousands of pet profiles. While this basic tool is helpful, it's still in an experimental stage and the algorithm could be improved.  
+In this competition, you’ll analyze raw images and metadata to predict the “Pawpularity” of pet photos. You'll train and test your model on PetFinder.my's thousands of pet profiles. Winning versions will offer accurate recommendations that will improve animal welfare.   
+**赛题难点**  
+**方案参考**  
+[top1方案](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301686)  
+[top2方案](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/300929)  
+[top3方案](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/301044)  
+[top4方案](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/301072)  
+[top5方案](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/300928)  
+[top6方案](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301015)  
+[trick](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/288896)  
