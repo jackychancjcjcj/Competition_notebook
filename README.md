@@ -55,6 +55,7 @@
         * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
         * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
      * [时序比赛](#时序比赛)
+        * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
         * [2021qq浏览器算法大赛](#2021QQ)
@@ -723,3 +724,11 @@ In this competition, H&M Group invites you to develop product recommendations ba
 [top3方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324129)  
 [top4方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324094)  
 [top5方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324098)  
+
+### <span id='2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别'>2021SD-ECG</span>
+**赛题链接**    
+https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53  
+**赛题任务**  
+**赛题难点**  
+**方案参考**  
+[top2开源](https://github.com/librauee/SD_ECG)  
