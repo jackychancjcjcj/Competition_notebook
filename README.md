@@ -59,7 +59,8 @@
      * [多模态](#多模态比赛)
         * [2021qq浏览器算法大赛](#2021QQ)
         * [2021腾讯广告算法大赛](#2021TENCENT)
-        * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)
+        * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
+        * [2021SHOPEE-price match](#2021KAGGLE-shopee)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -554,6 +555,9 @@ http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
 本次大赛基于爱奇艺APP脱敏和采样后的数据信息，预测用户的7日留存分。参赛队伍需要设计相应的算法进行数据分析和预测。  
 **赛题难点**  
 **方案参考**  
+[top1开源](https://github.com/hansu1017/WSDM-CUP-2022-Retention-Score-Prediction)  
+[top3开源](https://github.com/Chenfei-Kang/2022_WSDM_iQiYi_Retention_Score_Prediction)   
+[参考](https://github.com/Q-Qing/huawei_digix2021_track1)  
 [baseline-paddle](https://aistudio.baidu.com/aistudio/projectdetail/2715522)  
 [baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)  
 [baseline-torch](https://github.com/LogicJake/competition_baselines/tree/master/competitions/wsdm_iqiyi_torch)
@@ -688,3 +692,19 @@ In this competition, you’ll analyze raw images and metadata to predict the “
 [top5方案](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/300928)  
 [top6方案](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301015)  
 [trick](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/288896)  
+
+### <span id='2021KAGGLE-shopee'>2021SHOPEE-price match</span>
+**赛题链接**    
+https://www.kaggle.com/competitions/shopee-product-matching/overview  
+**赛题任务**  
+Do you scan online retailers in search of the best deals? You're joined by the many savvy shoppers who don't like paying extra for the same product depending on where they shop. Retail companies use a variety of methods to assure customers that their products are the cheapest. Among them is product matching, which allows a company to offer products at rates that are competitive to the same product sold by another retailer. To perform these matches automatically requires a thorough machine learning approach, which is where your data science skills could help.  
+Two different images of similar wares may represent the same product or two completely different items. Retailers want to avoid misrepresentations and other issues that could come from conflating two dissimilar products. Currently, a combination of deep learning and traditional machine learning analyzes image and text information to compare similarity. But major differences in images, titles, and product descriptions prevent these methods from being entirely effective.   
+**赛题难点**  
+**方案参考**  
+[top1方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238136)  
+[top2方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)  
+[top3方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238515)  
+[top4方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238295)  
+[top5方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238078)  
+[top6方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238010)  
+[以往解决方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/224586)  
