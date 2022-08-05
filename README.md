@@ -45,6 +45,7 @@
         * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021IFLY)
         * [2021一点资讯技术编程大赛-CTR](#2021YDZX)
         * [2021爱奇艺WSDM-用户留存预测](#2021WSDM)
+        * [2020DIGIX全球算法精英大赛-ctr预估](#2020DIGIX-CTR)
         * [2019腾讯广告算法大赛-CTR](#2019腾讯广告算法大赛)
         * [2019图灵联邦-视频点击预测大赛](#2019TL-SP)
         * [2019智源-看山杯专家发现算法大赛](#2019ZY-KS)
@@ -732,3 +733,16 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 **赛题难点**  
 **方案参考**  
 [top2开源](https://github.com/librauee/SD_ECG)  
+
+### <span id='2020DIGIX全球算法精英大赛-ctr预估'>2020DIGIX-CTR</span>
+**赛题链接**      
+**赛题任务**  
+**方案参考**  
+[top1开源](https://github.com/digix2020/digix2020_ctr_rank1)  
+[top6开源](https://github.com/Mandule/DIGIX-CTR-2020)  
+[top7开源](https://github.com/Tersaiz/Huawei-Digix-Algorithm-Contest)  
+[top10开源](https://github.com/johnny161/Digix_A_2020)  
+[top1开源](https://github.com/digix2020/digix2020_ctr_rank1)  
+[top22开源](https://github.com/ZanyFun9/Digix-Huawei-adCTR)  
+
+
