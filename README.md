@@ -742,7 +742,6 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 [top6开源](https://github.com/Mandule/DIGIX-CTR-2020)  
 [top7开源](https://github.com/Tersaiz/Huawei-Digix-Algorithm-Contest)  
 [top10开源](https://github.com/johnny161/Digix_A_2020)  
-[top1开源](https://github.com/digix2020/digix2020_ctr_rank1)  
 [top22开源](https://github.com/ZanyFun9/Digix-Huawei-adCTR)  
 
 
