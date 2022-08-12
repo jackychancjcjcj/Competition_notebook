@@ -747,9 +747,9 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 
 ### <span id='2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐'>2021MGTV</span>
 **赛题链接**  
-https://challenge.ai.mgtv.com/contest/detail/9
+https://challenge.ai.mgtv.com/contest/detail/9  
 **赛题任务**  
 设法提高视频推荐点击率以及人均有效观看时长，是芒果TV平台的核心技术挑战之一，本赛题以芒果TV点播信息流模块的实际推荐业务场景为原型，打造了一个经典的推荐问题，并且主办方提供了丰富的特征维度以及海量的数据信息内容，希望选手设计出一套精准有效的推荐模型，以探索进一步提升视频推荐效果的技术路径。  
-给定点播信息流模块的候选(用户-触发视频)集合S以及候选视频集合V, 从V中生成每个(用户-触发视频) s∈S最有可能点击的N个视频，其中N=30，以及预测s∈S观看列表中每个视频的播放时长比例。  
+给定点播信息流模块的候选(用户-触发视频)集合S以及候选视频集合V, 从V中生成每个(用户-触发视频) s∈S最有可能点击的N个视频，其中N=30，以及预测s∈S观看列表中每个视频的播放时长比例。    
 **方案参考**  
 [top12开源](https://github.com/tongji40/MGTV_AI_Challenge_Video_Recommend_Rank_12th)  
