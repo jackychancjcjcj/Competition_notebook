@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/Author-CJ-red.svg "Author")
 ![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")
 ![Language](https://img.shields.io/badge/Language-python3.6-green.svg "Laguage")
-![Last update](https://img.shields.io/badge/last%20update-06%20Dec%202021-brightgreen.svg?style=flat-square "Last update")
+![Last update](https://img.shields.io/badge/last%20update-06%12AUG%202022-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2020DCIC-智慧海洋建设](#2020DCIC-1)
@@ -40,6 +40,7 @@
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
+        * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021MGTV)
         * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX)
         * [2021微信大数据挑战赛-CTR](#2021WBDC)
         * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021IFLY)
@@ -744,4 +745,11 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 [top10开源](https://github.com/johnny161/Digix_A_2020)  
 [top22开源](https://github.com/ZanyFun9/Digix-Huawei-adCTR)  
 
-
+### <span id='2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐'>2021MGTV</span>
+**赛题链接**  
+https://challenge.ai.mgtv.com/contest/detail/9
+**赛题任务**  
+设法提高视频推荐点击率以及人均有效观看时长，是芒果TV平台的核心技术挑战之一，本赛题以芒果TV点播信息流模块的实际推荐业务场景为原型，打造了一个经典的推荐问题，并且主办方提供了丰富的特征维度以及海量的数据信息内容，希望选手设计出一套精准有效的推荐模型，以探索进一步提升视频推荐效果的技术路径。  
+给定点播信息流模块的候选(用户-触发视频)集合S以及候选视频集合V, 从V中生成每个(用户-触发视频) s∈S最有可能点击的N个视频，其中N=30，以及预测s∈S观看列表中每个视频的播放时长比例。  
+**方案参考**  
+[top12开源](https://github.com/tongji40/MGTV_AI_Challenge_Video_Recommend_Rank_12th)  
