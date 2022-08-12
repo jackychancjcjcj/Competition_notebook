@@ -727,7 +727,7 @@ In this competition, H&M Group invites you to develop product recommendations ba
 [top4方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324094)  
 [top5方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324098)  
 
-### <span id='2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别'>2021SD-ECG</span>
+### <span id='2021SD-ECG'>2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别</span>
 **赛题链接**    
 https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53  
 **赛题任务**  
@@ -735,7 +735,7 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 **方案参考**  
 [top2开源](https://github.com/librauee/SD_ECG)  
 
-### <span id='2020DIGIX全球算法精英大赛-ctr预估'>2020DIGIX-CTR</span>
+### <span id='2020DIGIX-CTR'>2020DIGIX全球算法精英大赛-ctr预估</span>
 **赛题链接**      
 **赛题任务**  
 **方案参考**  
@@ -745,7 +745,7 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 [top10开源](https://github.com/johnny161/Digix_A_2020)  
 [top22开源](https://github.com/ZanyFun9/Digix-Huawei-adCTR)  
 
-### <span id='2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐'>2021MGTV</span>
+### <span id='2021MGTV'>2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐</span>
 **赛题链接**  
 https://challenge.ai.mgtv.com/contest/detail/9  
 **赛题任务**  
