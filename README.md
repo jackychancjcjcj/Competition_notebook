@@ -586,7 +586,8 @@ https://tech.yidianzixun.com/competition/
 本次大赛提供抽样用户过去一段时间内在一点资讯APP上的真实曝光和点击记录，以及所涉及用户和文章的基础属性，参赛者需要基于这些数据进行分析和建模。同时，大赛提供这批用户之后一段时间的曝光文章列表，参赛者最终提交给系统每个用户在之后曝光文章上的点击概率预估值（0-1之间的浮点数）。系统根据点击概率预估值和用户真实点击情况的差异，来评估预估任务的准确程度。 本次大赛提供的数据将隐去能代表用户身份的所有信息，对部分必要的敏感信息也进行了加密处理。  
 **赛题难点**  
 **方案参考**  
-[top1开源](https://github.com/LogicJake/yidianzixun-ctr-top1)
+[top1开源](https://github.com/LogicJake/yidianzixun-ctr-top1)  
+[top3开源](https://github.com/liuqidong07/YIDIAN)
 
 ### <span id='2021IFLY'>2021科大讯飞AI开发者大赛-基于用户画像的商品推荐</span>
 **赛题链接**    
