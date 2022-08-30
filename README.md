@@ -27,14 +27,19 @@
         * [2018融360-特征挖掘](#2018RONG360-1)
         * [2017融360-用户贷款风险预测](#2017RONG360)
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
+        * [2017CCF-企业经营退出风险预测](2017CCF-1)
         * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
         * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
     * [CV](#cv)
     * [NLP](#nlp)
+        * [2021CCF-爱奇艺剧本角色情感识别](#2021CCF-1)
+        * [2020CCF-面向数据安全治理的数据内容智能发现与分级分类](#2020CCF-1)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
         * [2019第三届魔镜杯大赛-智能客服问题相似度算法设计](#2019MJ)
         * [2019DF金融信息负面及主体判定](#2019DF)
         * [2019DF互联网新闻情感分析](#2019DF-2)
+        * [2019CCF-互联网新闻情感分析](#2019CCF-1)
+        * [2019CCF-金融信息负面及主体判定](#2019CCF-2)
         * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC)
         * [2018JD Dialog Challenge-任务导向型对话系统挑战赛](#2018JD)
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
@@ -766,7 +771,7 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=176
 [数据下载](https://github.com/hczheng/Rong360)  
 [二次贷款](https://github.com/out-to-right/--rong360)  
 
-### <span id='2018RONG360-1'>2018融360-特征挖掘/span>
+### <span id='2018RONG360-1'>2018融360-特征挖掘</span>
 **赛题链接**    
 **赛题任务**  
 本题要求根据提供的用户数据(包括关联关系、危险行为、标签类型、APP)，通过数据挖掘技术，组合出有显著效果的特征，并利用这些特征构建模型预测用户的逾期情况。用户是否逾期和个人信用记录、收入、所属行业等诸多个人属性强相关，另一方面人类的社会属性又决定了用户必然要同其他人建立联系。  
@@ -780,9 +785,55 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=176
 [数据下载](https://mp.weixin.qq.com/s/99Et78MA-EVaPsWZsGYwvQ)
 [拒绝数据下载](https://github.com/ultimatejoe/rong_360_1)  
 
-### <span id='2018RONG360-2'>2018融360-多场景金融/span>
+### <span id='2018RONG360-2'>2018融360-多场景金融</span>
 **赛题链接**    
 **赛题任务**  
 在实际金融场景中，我们常常会上线一些新产品，但对于新产品来说，建模样本必然是不足的，那么我们想要尽快的完善新产品的模型会考虑尝试利用其他产品的样本与新产品样本的共性的部分，来加强模型的预测能力。于是多场景金融赛题应运而生。  
 **方案参考**  
 [top1开源](https://zhuanlan.zhihu.com/p/51927257)
+
+### <span id='2017CCF-1'>2017CCF-企业经营退出风险预测</span>
+**赛题链接**   
+https://www.datafountain.cn/competitions/271   
+**赛题任务**  
+本次大赛从全国2000多万企业抽取部分企业（脱敏后），提供企业主体在多方面留下的行为足迹信息数据。参赛队伍需要通过数据挖掘的技术和机器学习的算法，针对企业未来是否会经营不善构建预测模型，输出风险预测概率值。  
+**方案参考**  
+[top6开源](https://github.com/ZedongPeng/Enterprise-withdrawal-risk-BDCI2017)  
+[top9开源](https://mp.weixin.qq.com/s/E4N6eCCHA3C9o8I8UQZZdQ)
+   
+### <span id='2019CCF-1'>2019CCF-互联网新闻情感分析</span>
+**赛题链接**   
+https://www.datafountain.cn/competitions/350     
+**赛题任务**  
+本赛题目标为在庞大的数据集中精准的区分文本的情感极性，情感分为正中负三类。面对浩如烟海的新闻信息，精确识别蕴藏在其中的情感倾向，对舆情有效监控、预警及疏导，对舆情生态系统的良性发展有着重要的意义。  
+**方案参考**  
+[top1开源](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)  
+[top4开源](https://github.com/linhaow/TextClassification)  
+[top8开源](https://github.com/zhanlaoban/CCF_BDCI_2019_datafountain350)  
+
+### <span id='2019CCF-1'>2021CCF-爱奇艺剧本角色情感识别</span>
+**赛题链接**   
+https://www.datafountain.cn/competitions/518     
+**赛题任务**  
+本赛题提供一部分电影剧本作为训练集，训练集数据已由人工进行标注，参赛队伍需要对剧本场景中每句对白和动作描述中涉及到的每个角色的情感从多个维度进行分析和识别。该任务的主要难点和挑战包括：1）剧本的行文风格和通常的新闻类语料差别较大，更加口语化；2）剧本中角色情感不仅仅取决于当前的文本，对前文语义可能有深度依赖。  
+**方案参考**  
+[top13开源](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)  
+
+### <span id='2019CCF-2'>2019CCF-金融信息负面及主体判定</span>
+**赛题链接**   
+https://www.datafountain.cn/competitions/353     
+**赛题任务**  
+该任务分为两个子任务：给定一条金融文本和文本中出现的金融实体列表，负面信息判定：判定该文本是否包含金融实体的负面信息。如果该文本不包含负面信息，或者包含负面信息但负面信息未涉及到金融实体，则负面信息判定结果为0。负面主体判定：如果任务1中包含金融实体的负面信息，继续判断负面信息的主体对象是实体列表中的哪些实体。  
+**方案参考**  
+[top1开源](https://zhuanlan.zhihu.com/p/99222193)  
+[top3开源](https://github.com/Chevalier1024/CCF-BDCI-ABSA)  
+
+### <span id='2020CCF-1'>2020CCF-面向数据安全治理的数据内容智能发现与分级分类</span>
+**赛题链接**   
+https://www.datafountain.cn/competitions/471     
+**赛题任务**  
+识别样本中的敏感数据，构建基于敏感数据本体的分级分类模型，判断数据所属的类别以及级别。  
+1.利用远程监督技术，基于小样本构建文档分类分级样本库。  
+2.结合当下先进的深度学习和机器学习技术，利用已构建的样本库，提取文本语义特征，构建泛化能力强且能自我学习的文档分类分级模型。  
+**方案参考**  
+[top10开源](https://github.com/daniellibin/CCF2020_data_content_classification)  
