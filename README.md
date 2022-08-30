@@ -837,3 +837,4 @@ https://www.datafountain.cn/competitions/471
 2.结合当下先进的深度学习和机器学习技术，利用已构建的样本库，提取文本语义特征，构建泛化能力强且能自我学习的文档分类分级模型。  
 **方案参考**  
 [top10开源](https://github.com/daniellibin/CCF2020_data_content_classification)  
+[baseline](https://github.com/JeremySun1224/CCFBDCI2020)
