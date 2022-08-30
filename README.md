@@ -23,6 +23,9 @@
         * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018MSJR)
         * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC)
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
+        * [2018融360-多场景金融](#2018RONG360-2)
+        * [2018融360-特征挖掘](#2018RONG360-1)
+        * [2017融360-用户贷款风险预测](#2017RONG360)
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
         * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
         * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
@@ -751,3 +754,35 @@ https://challenge.ai.mgtv.com/contest/detail/9
 给定点播信息流模块的候选(用户-触发视频)集合S以及候选视频集合V, 从V中生成每个(用户-触发视频) s∈S最有可能点击的N个视频，其中N=30，以及预测s∈S观看列表中每个视频的播放时长比例。    
 **方案参考**  
 [top12开源](https://github.com/tongji40/MGTV_AI_Challenge_Video_Recommend_Rank_12th)  
+
+### <span id='2017RONG360'>2017融360-用户贷款风险预测</span>
+**赛题链接**  
+https://challenge.datacastle.cn/v3/cmptDetail.html?id=176  
+**赛题任务**  
+融360与平台上的金融机构合作，提供了近7万贷款用户的基本身份信息、消费行为、银行还款等数据信息，需要参赛者以此建立准确的风险控制模型，来预测用户是否会逾期还款。  
+**方案参考**  
+[top1开源](https://github.com/duxuhao/rong360-season2)  
+[top7开源](https://github.com/hczheng/Rong360)  
+[数据下载](https://github.com/hczheng/Rong360)  
+[二次贷款](https://github.com/out-to-right/--rong360)  
+
+### <span id='2018RONG360-1'>2018融360-特征挖掘/span>
+**赛题链接**    
+**赛题任务**  
+本题要求根据提供的用户数据(包括关联关系、危险行为、标签类型、APP)，通过数据挖掘技术，组合出有显著效果的特征，并利用这些特征构建模型预测用户的逾期情况。用户是否逾期和个人信用记录、收入、所属行业等诸多个人属性强相关，另一方面人类的社会属性又决定了用户必然要同其他人建立联系。  
+**方案参考**  
+[top1开源](https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution)  
+[top2开源](https://github.com/Questions1/Rong360_2nd)  
+[其他](https://github.com/juzstu/2018_rong360_task2)  
+[拒绝推断top2](https://zhuanlan.zhihu.com/p/66411971)  
+[拒绝推断top2-2](https://zhuanlan.zhihu.com/p/46090290/)  
+[拒绝推断top4](https://github.com/woairong/Xgboost-integration-model-based-on-moderate-greedy-parametric-strategy)  
+[数据下载](https://mp.weixin.qq.com/s/99Et78MA-EVaPsWZsGYwvQ)
+[拒绝数据下载](https://github.com/ultimatejoe/rong_360_1)  
+
+### <span id='2018RONG360-2'>2018融360-多场景金融/span>
+**赛题链接**    
+**赛题任务**  
+在实际金融场景中，我们常常会上线一些新产品，但对于新产品来说，建模样本必然是不足的，那么我们想要尽快的完善新产品的模型会考虑尝试利用其他产品的样本与新产品样本的共性的部分，来加强模型的预测能力。于是多场景金融赛题应运而生。  
+**方案参考**  
+[top1开源](https://zhuanlan.zhihu.com/p/51927257)
