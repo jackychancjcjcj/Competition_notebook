@@ -78,6 +78,7 @@
         * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
         * [2021SHOPEE-price match](#2021KAGGLE-shopee)
         * [2021H&M Personalized Fashion Recommendations](#2021KAGGLE-hm)
+        * [2022KDD-多模态召回](#2022KDD-1)
      * [图-知识图谱](#图比赛)
         * [2022ICDM-大规模电商图上的风险商品检测](#2022ICDM)
         * [2022第七届信也科技杯图算法大赛—欺诈用户风险识别](#2022XY)
@@ -956,3 +957,15 @@ H&M是我们熟知的服饰购物平台，他拥有53个网上市场和大约485
 [总结1](https://mp.weixin.qq.com/s/Ht7fy2b2XaZ9ZZlvTezMhg)  
 [总结2](https://zhuanlan.zhihu.com/p/515932559)  
 
+### <span id='2022KDD-1'>2022KDD-多模态召回</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/231786/introduction    
+**赛题任务**  
+今年的KDD Cup举办了多媒体召回任务（Modern E-Commerce Platform: Multimodalities Recall），任务要求参赛者根据用户的查询Query，对候选集合中的所有商品图片进行相关性排序，并找出最相关的5个商品图片。   
+**方案参考**  
+[top1开源](https://github.com/steven95421/KDD_WinnieTheBest)  
+[top2开源](https://zhuanlan.zhihu.com/p/258949239)  
+[top3开源](https://github.com/aister2020/KDDCUP_2020_MultimodalitiesRecall_3rd_Place)  
+[top3方案](https://zhuanlan.zhihu.com/p/258948165)  
+[top8方案](https://zhuanlan.zhihu.com/p/148816490)  
+[top12开源](https://github.com/chengxuanying/KDD-Multimodalities-Recall)
