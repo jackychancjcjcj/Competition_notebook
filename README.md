@@ -75,6 +75,8 @@
         * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
         * [2021SHOPEE-price match](#2021KAGGLE-shopee)
         * [2021H&M Personalized Fashion Recommendations](#2021KAGGLE-hm)
+     * [图-知识图谱](#图比赛)
+        * [2022ICDM-大规模电商图上的风险商品检测](2022ICDM)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -887,3 +889,20 @@ https://algo.weixin.qq.com
 [top8开源](https://github.com/jackychancjcjcj/WBDC_2022_RANK8)  
 [top16开源](https://github.com/yandun72/WBDC_2022_RANK16)
 [前6答辩](https://mp.weixin.qq.com/s/2SIxBE8CTMztpqbf91kkwg)
+
+## 图比赛
+### <span id='2022ICDM'>2022ICDM-大规模电商图上的风险商品检测</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/531976/introduction    
+**赛题任务**  
+本次比赛提供了阿里巴巴平台来源于真实场景的风险商品检测数据，需要参赛者利用大规模的异构图结构以及比例不均衡的黑白样本，利用图算法，检测出风险商品。    
+**方案参考**  
+[top1开源](https://github.com/EagleLab-ZJU/ICDMCup2022-top1)  
+[top3开源](https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution)  
+[top4方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5qgTt3l&postId=417031)  
+[top5方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5ZwkpvO&postId=417510)  
+[top6方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5lRx7kT&postId=417310)  
+[top7方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5Wn9zRm&postId=418419)  
+[top8开源](https://github.com/Yangxc13/SeHGNN_icdm22_contest)  
+[top9方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5D2x7uy&postId=417995)  
+ 
