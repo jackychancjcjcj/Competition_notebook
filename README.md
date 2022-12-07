@@ -76,7 +76,8 @@
         * [2021SHOPEE-price match](#2021KAGGLE-shopee)
         * [2021H&M Personalized Fashion Recommendations](#2021KAGGLE-hm)
      * [图-知识图谱](#图比赛)
-        * [2022ICDM-大规模电商图上的风险商品检测](2022ICDM)
+        * [2022ICDM-大规模电商图上的风险商品检测](#2022ICDM)
+        * [2022第七届信也科技杯图算法大赛—欺诈用户风险识别](#2022XY)
 * [Tips](#tips)
 # 比赛
 ## 结构化比赛
@@ -905,4 +906,16 @@ https://tianchi.aliyun.com/competition/entrance/531976/introduction
 [top7方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5Wn9zRm&postId=418419)  
 [top8开源](https://github.com/Yangxc13/SeHGNN_icdm22_contest)  
 [top9方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5D2x7uy&postId=417995)  
- 
+
+### <span id='2022XY'>2022第七届信也科技杯图算法大赛—欺诈用户风险识别</span>
+**赛题链接**   
+https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=3    
+**赛题任务**  
+本届大赛的预测任务为识别欺诈用户的节点预测任务。虽然本届大赛的图数据中有四类节点，但是预测任务只需要将欺诈用户（Class 1）从正常用户（Class 0）中区分出来；这两类节点被称为前景节点。图中另外两类用户（Class 2和 Class 3）尽管在数目上占据更大的比例，但是他们的分类与用户是否欺诈无关，因此预测任务不包含这两类节点；这两类节点被称为背景节点。与常规的结构化数据不同，图算法可以通过研究对象之间的复杂关系来提高模型预测效果。而本届大赛除了提供前景节点之间的社交关系，还提供了大量的背景节点。希望选手可以充分挖掘各类用户之间的关联和影响力，提出可拓展、高效的图神经网络模型，将隐藏在正常用户中的欺诈用户识别出来    
+**方案参考**  
+[前11方案](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28)  
+[baseline](https://github.com/DGraphXinye/DGraphFin_baseline)  
+[graphTransformer](https://github.com/YuanchenBei/GraphTransformer-DGraphFin)  
+[top2开源](https://github.com/ytchx1999/TGN-DGraphFin)  
+[gearSage](https://github.com/storyandwine/GEARSage-DGraphFin)  
+
