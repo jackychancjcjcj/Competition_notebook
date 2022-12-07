@@ -32,6 +32,8 @@
         * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
     * [CV](#cv)
     * [NLP](#nlp)
+        * [2022讯飞-中文语义病句识别](2022XF-2)
+        * [2022讯飞-非标准化疾病诉求的简单分诊2.0](2022XF-1)
         * [2021CCF-爱奇艺剧本角色情感识别](#2021CCF-1)
         * [2020CCF-面向数据安全治理的数据内容智能发现与分级分类](#2020CCF-1)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
@@ -44,6 +46,7 @@
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
+        * [2022讯飞-CTR预估挑战赛](#2022XF-3)
         * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021MGTV)
         * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX)
         * [2021微信大数据挑战赛-CTR](#2021WBDC)
@@ -829,3 +832,27 @@ https://www.datafountain.cn/competitions/471
 **方案参考**  
 [top10开源](https://github.com/daniellibin/CCF2020_data_content_classification)  
 [baseline](https://github.com/JeremySun1224/CCFBDCI2020)
+
+### <span id='2022XF-1'>2022讯飞-非标准化疾病诉求的简单分诊2.0</span>
+**赛题链接**   
+https://challenge.xfyun.cn/topic/info?type=disease-claims-2022&ch=ds22-dw-zmt07     
+**赛题任务**  
+进行简单分诊需要一定的数据和经验知识进行支撑。本次比赛提供了部分好大夫在线的真实问诊数据，经过严格脱敏，提供给参赛者进行单分类任务。具体为：通过处理文字诉求，给出20个常见的就诊方向之一和61个疾病方向之一。  
+**方案参考**  
+[top1方案](https://mp.weixin.qq.com/s/aohWPYeLPfosatPaOFWBbw)
+
+### <span id='2022XF-2'>2022讯飞-中文语义病句识别</span>
+**赛题链接**   
+http://challenge.xfyun.cn/topic/info?type=sick-sentence-discrimination     
+**赛题任务**  
+中文语义病句识别是一个二分类的问题，预测句子是否是语义病句。  
+**方案参考**  
+[top1方案](https://mp.weixin.qq.com/s/zCAlWWjiSL-cBADOfDoyGA)
+
+### <span id='2022XF-3'>2022讯飞-CTR预估挑战赛</span>
+**赛题链接**   
+http://challenge.xfyun.cn/topic/info?type=CTR-forecast     
+**赛题任务**  
+广告的CTR预估需要强大的数据作为支撑，本次大赛提供了讯飞AI营销云海量的现网流量和创意数据作为训练样本，参赛选手需基于提供的样本构建模型，预测测试集的点击率，点击率的准确性将直接影响评价结果。  
+**方案参考**  
+[top3开源](https://mp.weixin.qq.com/s/ll3d62cXhxTPIEXhizjD3w)
