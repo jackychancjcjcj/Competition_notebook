@@ -48,6 +48,7 @@
         * [2018CCL-客服领域用户意图分类评测](#2018CCL)
         * [2017知乎看山杯-文本多分类](#2017ZH)
      * [推荐](#推荐)
+        * [2022KAGGLE-H&M Personalized Fashion Recommendations](#2022KAGGLE-1)
         * [2022讯飞-CTR预估挑战赛](#2022XF-3)
         * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021MGTV)
         * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX)
@@ -943,3 +944,14 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [答辩视频](https://www.bilibili.com/video/BV1Y14y1x7XN/)  
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
+
+### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
+**赛题链接**   
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
+**赛题任务**  
+H&M是我们熟知的服饰购物平台，他拥有53个网上市场和大约4850家商店。赛题提供了2018年9月到2020年9月的用户购买记录（包括线上线下的购买记录）以及商品及用户的一些元数据，希望参赛选手预测接下来一周最有可能购买的衣物（评价指标为MAP@12）。题目描述中说明了构建优秀的推荐系统，不仅对于提高平台营收，还可以减少“退换货”等造成的物流损失。   
+**方案参考**  
+[top10方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324486)  
+[总结1](https://mp.weixin.qq.com/s/Ht7fy2b2XaZ9ZZlvTezMhg)  
+[总结2](https://zhuanlan.zhihu.com/p/515932559)  
+
