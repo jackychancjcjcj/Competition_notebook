@@ -69,6 +69,7 @@
         * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
+        * [2022微信大数据挑战赛-多模态段视频分类](#2022WBDC-1)     
         * [2021qq浏览器算法大赛](#2021QQ)
         * [2021腾讯广告算法大赛](#2021TENCENT)
         * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
@@ -876,3 +877,13 @@ https://www.datafountain.cn/competitions/530
 **方案参考**  
 [top1方案](https://mp.weixin.qq.com/s/hnNueD98r5DzHvJXiibPDQ)  
 [top3方案](https://mp.weixin.qq.com/s/DkZ0O-8wG_cWmllFR8ttwg)
+
+### <span id='2022WBDC-1'>2022微信大数据挑战赛-多模态段视频分类</span>
+**赛题链接**   
+https://algo.weixin.qq.com    
+**赛题任务**  
+多模态短视频分类是视频理解领域的基础技术之一，在安全审核、推荐运营、内容搜索等领域有着十分非常广泛的应用。 一条短视频中通常包含有三种模态信息，即文本、音频、视频， 它们在不同语义层面的分类体系中发挥着相互促进和补充的重要作用。 微信产品的内容生态繁荣，创作者覆盖范围大， 导致短视频数据中普遍存在着模态缺失、相关性弱、分类标签分布不均衡等问题，是实际应用中需要着重解决的技术难点。 本赛题要求参赛队伍基于微信视频号短视频数据以及对应的分类标签标注，采用合理的机器学习技术对指定的测试短视频进行分类预测。    
+**方案参考**  
+[top8开源](https://github.com/jackychancjcjcj/WBDC_2022_RANK8)  
+[top16开源](https://github.com/yandun72/WBDC_2022_RANK16)
+[前6答辩](https://mp.weixin.qq.com/s/2SIxBE8CTMztpqbf91kkwg)
