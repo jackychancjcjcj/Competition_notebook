@@ -68,6 +68,7 @@
         * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
      * [时序比赛](#时序比赛)
         * [2022KDD-风力发电预测](#2022KDD)
+        * [2021人工智能创新挑战赛—AI助力精准气象和海洋预测](#2021AI)
         * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
@@ -969,3 +970,14 @@ https://tianchi.aliyun.com/competition/entrance/231786/introduction
 [top3方案](https://zhuanlan.zhihu.com/p/258948165)  
 [top8方案](https://zhuanlan.zhihu.com/p/148816490)  
 [top12开源](https://github.com/chengxuanying/KDD-Multimodalities-Recall)
+
+### <span id='2021AI'>2021人工智能创新挑战赛—AI助力精准气象和海洋预测</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/531871/information    
+**赛题任务**  
+本次赛题是一个时间序列预测问题。基于历史气候观测和模式模拟数据，利用T时刻过去12个月(包含T时刻)的时空序列（气象因子），构建预测ENSO的深度学习模型，预测未来1-24个月的Nino3.4指数   
+**方案参考**  
+[top1开源](https://github.com/jerrywn121/TianChi_AIEarth)  
+[top4开源](https://mp.weixin.qq.com/s/YS3Kn_QWf0kggaYtWtNlmw)  
+[top5开源](https://github.com/icodeworld/AI-competition)  
+[top12开源](https://github.com/Wangjw6/Tianchi_Prediction)  
