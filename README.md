@@ -66,6 +66,7 @@
         * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
         * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
      * [时序比赛](#时序比赛)
+        * [2022KDD-风力发电预测](#2022KDD)
         * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
@@ -932,3 +933,13 @@ https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca
 [top8开源](https://github.com/ZhongYupei/GAIIC2022_track1_rank8)  
 [top10开源](https://github.com/Legend94rz/jd2022-semi)  
 [top11开源](https://github.com/WangXinYi111/GAIIC2022_track1_rank11)  
+
+### <span id='2022KDD'>2022KDD-风力发电预测</span>
+**赛题链接**   
+https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction    
+**赛题任务**  
+2022年kdd cup提供了龙源电力集团有限公司独特的空间动态风力预测数据集：SDWPF，其中包括风力涡轮机的空间分布，以及时间、天气和涡轮机内部状态等动态背景因素。然而，大多数现有的数据集和竞赛将 WPF 视为时间序列预测问题，而不知道风力涡轮机的位置和上下文信息。预测目标是134个风机各自在未来288个时刻（共2天）下的输出功率。   
+**方案参考**  
+[答辩视频](https://www.bilibili.com/video/BV1Y14y1x7XN/)  
+[总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
+[总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
