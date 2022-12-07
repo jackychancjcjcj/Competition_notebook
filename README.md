@@ -69,6 +69,7 @@
         * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
+        * [2022GAIIC-电商关键属性的图文匹配](#2022GAIIC)
         * [2022微信大数据挑战赛-多模态段视频分类](#2022WBDC-1)     
         * [2021qq浏览器算法大赛](#2021QQ)
         * [2021腾讯广告算法大赛](#2021TENCENT)
@@ -919,3 +920,15 @@ https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=3
 [top2开源](https://github.com/ytchx1999/TGN-DGraphFin)  
 [gearSage](https://github.com/storyandwine/GEARSage-DGraphFin)  
 
+### <span id='2022GAIIC'>2022GAIIC-电商关键属性的图文匹配</span>
+**赛题链接**   
+https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca    
+**赛题任务**  
+京东积累了电商零售场景下的海量商品的图文数据，其中商品主图和商品标题是最直观、最容易触达到用户的数据。因此，图文的一致性（即图文匹配）至关重要，要求模型根据图片和文本判断出两种模态数据传递的信息是否一致。通常，商品主图和标题包含大量的商品属性信息。在实际业务中，图片里商品的关键属性与商品标题描述的是否匹配，是影响用户体验的重要因素。本赛题要求参赛队伍利用脱敏后的京东电商平台图文数据，通过商品图片与商品标题在整体以及商品关键属性上的关联程度来判断两者是否匹配。   
+**方案参考**  
+[top1开源](https://github.com/zlaom/2022_GAIIC_Task1_1st)  
+[top2开源](https://github.com/CarnoZhao/GAIIC-Track1)  
+[top7开源](https://github.com/yinguoqing123/gaiic2022-1)  
+[top8开源](https://github.com/ZhongYupei/GAIIC2022_track1_rank8)  
+[top10开源](https://github.com/Legend94rz/jd2022-semi)  
+[top11开源](https://github.com/WangXinYi111/GAIIC2022_track1_rank11)  
