@@ -938,46 +938,4 @@ https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca
 [top10开源](https://github.com/Legend94rz/jd2022-semi)  
 [top11开源](https://github.com/WangXinYi111/GAIIC2022_track1_rank11)  
 
-### <span id='2022KDD'>2022KDD-风力发电预测</span>
-**赛题链接**   
-https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction    
-**赛题任务**  
-2022年kdd cup提供了龙源电力集团有限公司独特的空间动态风力预测数据集：SDWPF，其中包括风力涡轮机的空间分布，以及时间、天气和涡轮机内部状态等动态背景因素。然而，大多数现有的数据集和竞赛将 WPF 视为时间序列预测问题，而不知道风力涡轮机的位置和上下文信息。预测目标是134个风机各自在未来288个时刻（共2天）下的输出功率。   
-**方案参考**  
-[答辩视频](https://www.bilibili.com/video/BV1Y14y1x7XN/)  
-[总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
-[总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
-**赛题链接**   
-https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
-**赛题任务**  
-H&M是我们熟知的服饰购物平台，他拥有53个网上市场和大约4850家商店。赛题提供了2018年9月到2020年9月的用户购买记录（包括线上线下的购买记录）以及商品及用户的一些元数据，希望参赛选手预测接下来一周最有可能购买的衣物（评价指标为MAP@12）。题目描述中说明了构建优秀的推荐系统，不仅对于提高平台营收，还可以减少“退换货”等造成的物流损失。   
-**方案参考**  
-[top10方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324486)  
-[总结1](https://mp.weixin.qq.com/s/Ht7fy2b2XaZ9ZZlvTezMhg)  
-[总结2](https://zhuanlan.zhihu.com/p/515932559)  
-
-### <span id='2022KDD-1'>2022KDD-多模态召回</span>
-**赛题链接**   
-https://tianchi.aliyun.com/competition/entrance/231786/introduction    
-**赛题任务**  
-今年的KDD Cup举办了多媒体召回任务（Modern E-Commerce Platform: Multimodalities Recall），任务要求参赛者根据用户的查询Query，对候选集合中的所有商品图片进行相关性排序，并找出最相关的5个商品图片。   
-**方案参考**  
-[top1开源](https://github.com/steven95421/KDD_WinnieTheBest)  
-[top2开源](https://zhuanlan.zhihu.com/p/258949239)  
-[top3开源](https://github.com/aister2020/KDDCUP_2020_MultimodalitiesRecall_3rd_Place)  
-[top3方案](https://zhuanlan.zhihu.com/p/258948165)  
-[top8方案](https://zhuanlan.zhihu.com/p/148816490)  
-[top12开源](https://github.com/chengxuanying/KDD-Multimodalities-Recall)
-
-### <span id='2021AI'>2021人工智能创新挑战赛—AI助力精准气象和海洋预测</span>
-**赛题链接**   
-https://tianchi.aliyun.com/competition/entrance/531871/information    
-**赛题任务**  
-本次赛题是一个时间序列预测问题。基于历史气候观测和模式模拟数据，利用T时刻过去12个月(包含T时刻)的时空序列（气象因子），构建预测ENSO的深度学习模型，预测未来1-24个月的Nino3.4指数   
-**方案参考**  
-[top1开源](https://github.com/jerrywn121/TianChi_AIEarth)  
-[top4开源](https://mp.weixin.qq.com/s/YS3Kn_QWf0kggaYtWtNlmw)  
-[top5开源](https://github.com/icodeworld/AI-competition)  
-[top12开源](https://github.com/Wangjw6/Tianchi_Prediction)  
