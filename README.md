@@ -868,62 +868,7 @@ http://challenge.xfyun.cn/topic/info?type=CTR-forecast
 **方案参考**  
 [top3开源](https://mp.weixin.qq.com/s/ll3d62cXhxTPIEXhizjD3w)
 
-### <span id='2021CCKS-1'>2021CCKS-中文NLP地址要素解析</span>
-**赛题链接**   
-http://sigkg.cn/ccks2021/?page_id=27     
-**赛题任务**  
-地址要素解析是将地址文本拆分成独立语义的要素，并对这些要素进行类型识别的过程。地址文本相关性主要是衡量地址间的相似程度  
-**方案参考**  
-[top1方案](https://zhuanlan.zhihu.com/p/449676168)  
-[top3开源](https://github.com/xueyouluo/ccks2021-track2-code)
 
-### <span id='2021CCF-2'>2021CCF-BDCI个贷违约预测</span>
-**赛题链接**   
-https://www.datafountain.cn/competitions/530    
-**赛题任务**  
-利用银行现有信贷行为数据进行迁移学习辅助创建目标业务风控模型来服务新场景  
-**方案参考**  
-[top1方案](https://mp.weixin.qq.com/s/hnNueD98r5DzHvJXiibPDQ)  
-[top3方案](https://mp.weixin.qq.com/s/DkZ0O-8wG_cWmllFR8ttwg)
-
-### <span id='2022WBDC-1'>2022微信大数据挑战赛-多模态视频分类</span>
-**赛题链接**   
-https://algo.weixin.qq.com    
-**赛题任务**  
-多模态短视频分类是视频理解领域的基础技术之一，在安全审核、推荐运营、内容搜索等领域有着十分非常广泛的应用。 一条短视频中通常包含有三种模态信息，即文本、音频、视频， 它们在不同语义层面的分类体系中发挥着相互促进和补充的重要作用。 微信产品的内容生态繁荣，创作者覆盖范围大， 导致短视频数据中普遍存在着模态缺失、相关性弱、分类标签分布不均衡等问题，是实际应用中需要着重解决的技术难点。 本赛题要求参赛队伍基于微信视频号短视频数据以及对应的分类标签标注，采用合理的机器学习技术对指定的测试短视频进行分类预测。    
-**方案参考**  
-[top8开源](https://github.com/jackychancjcjcj/WBDC_2022_RANK8)  
-[top12开源](https://github.com/Ti1bur/2022_WBDC_rk12)  
-[top16开源](https://github.com/yandun72/WBDC_2022_RANK16)
-[前6答辩](https://mp.weixin.qq.com/s/2SIxBE8CTMztpqbf91kkwg)
-
-## 图比赛
-### <span id='2022ICDM'>2022ICDM-大规模电商图上的风险商品检测</span>
-**赛题链接**   
-https://tianchi.aliyun.com/competition/entrance/531976/introduction    
-**赛题任务**  
-本次比赛提供了阿里巴巴平台来源于真实场景的风险商品检测数据，需要参赛者利用大规模的异构图结构以及比例不均衡的黑白样本，利用图算法，检测出风险商品。    
-**方案参考**  
-[top1开源](https://github.com/EagleLab-ZJU/ICDMCup2022-top1)  
-[top3开源](https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution)  
-[top4方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5qgTt3l&postId=417031)  
-[top5方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5ZwkpvO&postId=417510)  
-[top6方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5lRx7kT&postId=417310)  
-[top7方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5Wn9zRm&postId=418419)  
-[top8开源](https://github.com/Yangxc13/SeHGNN_icdm22_contest)  
-[top9方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5D2x7uy&postId=417995)  
-
-### <span id='2022XY'>2022第七届信也科技杯图算法大赛—欺诈用户风险识别</span>
-**赛题链接**   
-https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=3    
-**赛题任务**  
-本届大赛的预测任务为识别欺诈用户的节点预测任务。虽然本届大赛的图数据中有四类节点，但是预测任务只需要将欺诈用户（Class 1）从正常用户（Class 0）中区分出来；这两类节点被称为前景节点。图中另外两类用户（Class 2和 Class 3）尽管在数目上占据更大的比例，但是他们的分类与用户是否欺诈无关，因此预测任务不包含这两类节点；这两类节点被称为背景节点。与常规的结构化数据不同，图算法可以通过研究对象之间的复杂关系来提高模型预测效果。而本届大赛除了提供前景节点之间的社交关系，还提供了大量的背景节点。希望选手可以充分挖掘各类用户之间的关联和影响力，提出可拓展、高效的图神经网络模型，将隐藏在正常用户中的欺诈用户识别出来    
-**方案参考**  
-[前11方案](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28)  
-[baseline](https://github.com/DGraphXinye/DGraphFin_baseline)  
-[graphTransformer](https://github.com/YuanchenBei/GraphTransformer-DGraphFin)  
-[top2开源](https://github.com/ytchx1999/TGN-DGraphFin)  
-[gearSage](https://github.com/storyandwine/GEARSage-DGraphFin)  
 
 ### <span id='2022GAIIC'>2022GAIIC-电商关键属性的图文匹配</span>
 **赛题链接**   
@@ -938,4 +883,46 @@ https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca
 [top10开源](https://github.com/Legend94rz/jd2022-semi)  
 [top11开源](https://github.com/WangXinYi111/GAIIC2022_track1_rank11)  
 
+### <span id='2022KDD'>2022KDD-风力发电预测</span>
+**赛题链接**   
+https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction    
+**赛题任务**  
+2022年kdd cup提供了龙源电力集团有限公司独特的空间动态风力预测数据集：SDWPF，其中包括风力涡轮机的空间分布，以及时间、天气和涡轮机内部状态等动态背景因素。然而，大多数现有的数据集和竞赛将 WPF 视为时间序列预测问题，而不知道风力涡轮机的位置和上下文信息。预测目标是134个风机各自在未来288个时刻（共2天）下的输出功率。   
+**方案参考**  
+[答辩视频](https://www.bilibili.com/video/BV1Y14y1x7XN/)  
+[总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
+[总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
+### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
+**赛题链接**   
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
+**赛题任务**  
+H&M是我们熟知的服饰购物平台，他拥有53个网上市场和大约4850家商店。赛题提供了2018年9月到2020年9月的用户购买记录（包括线上线下的购买记录）以及商品及用户的一些元数据，希望参赛选手预测接下来一周最有可能购买的衣物（评价指标为MAP@12）。题目描述中说明了构建优秀的推荐系统，不仅对于提高平台营收，还可以减少“退换货”等造成的物流损失。   
+**方案参考**  
+[top10方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324486)  
+[总结1](https://mp.weixin.qq.com/s/Ht7fy2b2XaZ9ZZlvTezMhg)  
+[总结2](https://zhuanlan.zhihu.com/p/515932559)  
+
+### <span id='2022KDD-1'>2022KDD-多模态召回</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/231786/introduction    
+**赛题任务**  
+今年的KDD Cup举办了多媒体召回任务（Modern E-Commerce Platform: Multimodalities Recall），任务要求参赛者根据用户的查询Query，对候选集合中的所有商品图片进行相关性排序，并找出最相关的5个商品图片。   
+**方案参考**  
+[top1开源](https://github.com/steven95421/KDD_WinnieTheBest)  
+[top2开源](https://zhuanlan.zhihu.com/p/258949239)  
+[top3开源](https://github.com/aister2020/KDDCUP_2020_MultimodalitiesRecall_3rd_Place)  
+[top3方案](https://zhuanlan.zhihu.com/p/258948165)  
+[top8方案](https://zhuanlan.zhihu.com/p/148816490)  
+[top12开源](https://github.com/chengxuanying/KDD-Multimodalities-Recall)
+
+### <span id='2021AI'>2021人工智能创新挑战赛—AI助力精准气象和海洋预测</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/531871/information    
+**赛题任务**  
+本次赛题是一个时间序列预测问题。基于历史气候观测和模式模拟数据，利用T时刻过去12个月(包含T时刻)的时空序列（气象因子），构建预测ENSO的深度学习模型，预测未来1-24个月的Nino3.4指数   
+**方案参考**  
+[top1开源](https://github.com/jerrywn121/TianChi_AIEarth)  
+[top4开源](https://mp.weixin.qq.com/s/YS3Kn_QWf0kggaYtWtNlmw)  
+[top5开源](https://github.com/icodeworld/AI-competition)  
+[top12开源](https://github.com/Wangjw6/Tianchi_Prediction)  
