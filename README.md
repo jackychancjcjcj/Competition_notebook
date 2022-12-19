@@ -73,7 +73,7 @@
         * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
      * [多模态](#多模态比赛)
         * [2022GAIIC-电商关键属性的图文匹配](#2022GAIIC)
-        * [2022微信大数据挑战赛-多模态段视频分类](#2022WBDC-1)     
+        * [2022微信大数据挑战赛-多模态视频分类](#2022WBDC-1)     
         * [2021qq浏览器算法大赛](#2021QQ)
         * [2021腾讯广告算法大赛](#2021TENCENT)
         * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
@@ -886,7 +886,7 @@ https://www.datafountain.cn/competitions/530
 [top1方案](https://mp.weixin.qq.com/s/hnNueD98r5DzHvJXiibPDQ)  
 [top3方案](https://mp.weixin.qq.com/s/DkZ0O-8wG_cWmllFR8ttwg)
 
-### <span id='2022WBDC-1'>2022微信大数据挑战赛-多模态段视频分类</span>
+### <span id='2022WBDC-1'>2022微信大数据挑战赛-多模态视频分类</span>
 **赛题链接**   
 https://algo.weixin.qq.com    
 **赛题任务**  
