@@ -474,7 +474,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=229
 [top1开源](https://github.com/chenyuntc/PyTorchText)  
 [top2开源](https://github.com/Magic-Bubble/Zhihu)  
 [top6开源](https://github.com/yongyehuang/zhihu-text-classification)  
-[top9开源](	https://github.com/coderSkyChen/zhihu_kanshan_cup_2017)
+[top9开源](https://github.com/coderSkyChen/zhihu_kanshan_cup_2017)
 ### <span id='2019DF'>2019DF金融信息负面及主体判定</span>
 **赛题链接**    
 https://www.datafountain.cn/competitions/353  
