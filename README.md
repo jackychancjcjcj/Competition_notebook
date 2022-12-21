@@ -948,7 +948,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
+### <span id='2022KAGGLE-1'>2022KAGGLE-H&M-Personalized-Fashion-Recommendations</span>
 **赛题链接**   
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
 **赛题任务**  
