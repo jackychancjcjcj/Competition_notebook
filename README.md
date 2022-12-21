@@ -816,7 +816,7 @@ https://www.datafountain.cn/competitions/350
 [top4开源](https://github.com/linhaow/TextClassification)  
 [top8开源](https://github.com/zhanlaoban/CCF_BDCI_2019_datafountain350)  
 
-### <span id='2019CCF-1'>2021CCF-爱奇艺剧本角色情感识别</span>
+### <span id='2021CCF-1'>2021CCF-爱奇艺剧本角色情感识别</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/518     
 **赛题任务**  
@@ -948,7 +948,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-1'>2022KAGGLE-H&M-Personalized-Fashion-Recommendations</span>
+### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
 **赛题链接**   
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
 **赛题任务**  
