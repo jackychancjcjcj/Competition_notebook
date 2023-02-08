@@ -1,4 +1,5 @@
 # 目录
+![Last update](https://img.shields.io/badge/last%20update-12%20Aug%202022-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2021CCF-BDCI个贷违约预测](#2021CCF-2)
