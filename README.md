@@ -48,7 +48,7 @@
         * [2018CCL-客服领域用户意图分类评测](#2018CCL-客服领域用户意图分类评测)
         * [2017知乎看山杯-文本多分类](#2017知乎看山杯-文本多分类)
      * [推荐](#推荐)
-        * [2022KAGGLE-H&M](#2022KAGGLE-H&M)
+        * [2022KAGGLE-HM](#2022KAGGLE-HM)
         * [2022讯飞-CTR预估挑战赛](#2022讯飞-CTR预估挑战赛)
         * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐)
         * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐)
@@ -985,7 +985,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-H&M'>2022KAGGLE-H&M</span>
+### <span id='2022KAGGLE-HM'>2022KAGGLE-HM</span>
 **赛题链接**   
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
 **赛题任务**  
