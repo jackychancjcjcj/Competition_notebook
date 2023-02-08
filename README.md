@@ -4,7 +4,7 @@
     * [结构化比赛](#结构化比赛)
         * [2021CCF-BDCI个贷违约预测](#2021CCF-BDCI个贷违约预测)
         * [2020DCIC-智慧海洋建设](#2020DCIC-智慧海洋建设)
-        * [2020Kaggle-Mechanisms-of-Action-(MoA)-Prediction](#2020Kaggle-Mechanisms-of-Action-(MoA)-Prediction)
+        * [2020Kaggle-MOA](#2020Kaggle-MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020第四届工业大数据创新竞赛-水电站入库流量预测)
         * [2020年讯飞开发者大赛-温室温度预测](#2020年讯飞开发者大赛-温室温度预测)
         * [2020翼支付-风险用户识别大赛](#2020翼支付-风险用户识别大赛)
@@ -614,7 +614,7 @@ http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
 [baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)  
 [baseline-torch](https://github.com/LogicJake/competition_baselines/tree/master/competitions/wsdm_iqiyi_torch)
 
-### <span id='2020Kaggle-Mechanisms-of-Action-(MoA)-Prediction'>2020Kaggle-Mechanisms-of-Action-(MoA)-Prediction</span>
+### <span id='2020Kaggle-MOA<'>2020Kaggle-MOA</span>
 **赛题链接**    
 https://www.kaggle.com/c/lish-moa/overview  
 **赛题任务**  
