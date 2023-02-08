@@ -20,7 +20,7 @@
         * [2019津南数字制造算法挑战赛-赛场一:原料企业工艺优化](#2019津南数字制造算法挑战赛-赛场一原料企业工艺优化)
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
-        * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home Credit Default Risk)
+        * [2018Kaggle-HomeCredit](#2018Kaggle-HomeCredit)
         * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018智慧金融马上AI全球挑战者大赛-违约用户风险预测)
         * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC蚂蚁开发者大赛-支付风险识别)
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
@@ -44,11 +44,11 @@
         * [2019CCF-互联网新闻情感分析](#2019CCF-互联网新闻情感分析)
         * [2019CCF-金融信息负面及主体判定](#2019CCF-金融信息负面及主体判定)
         * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC达观杯文本智能处理挑战-文本分类)
-        * [2018JD Dialog Challenge-任务导向型对话系统挑战赛](#2018JD Dialog Challenge-任务导向型对话系统挑战赛)
+        * [2018JD-任务导向型对话系统挑战赛](#2018JD-任务导向型对话系统挑战赛)
         * [2018CCL-客服领域用户意图分类评测](#2018CCL-客服领域用户意图分类评测)
         * [2017知乎看山杯-文本多分类](#2017知乎看山杯-文本多分类)
      * [推荐](#推荐)
-        * [2022KAGGLE-H&M Personalized Fashion Recommendations](#2022KAGGLE-H&M Personalized Fashion Recommendations)
+        * [2022KAGGLE-H&M](#2022KAGGLE-H&M)
         * [2022讯飞-CTR预估挑战赛](#2022讯飞-CTR预估挑战赛)
         * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐)
         * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐)
@@ -70,14 +70,14 @@
         * [2022KDD-风力发电预测](#2022KDD-风力发电预测)
         * [2021人工智能创新挑战赛—AI助力精准气象和海洋预测](#2021人工智能创新挑战赛—AI助力精准气象和海洋预测)
         * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别)
-        * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019“合肥高新杯”心电人机智能大赛—心电异常事件预测
+        * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019“合肥高新杯”心电人机智能大赛—心电异常事件预测)
      * 多模态
         * [2022GAIIC-电商关键属性的图文匹配](#2022GAIIC-电商关键属性的图文匹配)
         * [2022微信大数据挑战赛-多模态视频分类](#2022微信大数据挑战赛-多模态视频分类)     
         * [2021qq浏览器算法大赛](#2021qq浏览器算法大赛)
         * [2021腾讯广告算法大赛](#2021腾讯广告算法大赛)
-        * [2021PetFinder.my-Pawpularity Contest](#2021PetFinder.my-Pawpularity Contest)  
-        * [2021SHOPEE-price match](#2021SHOPEE-price match)
+        * [2021PetFinder](#2021PetFinder)  
+        * [2021SHOPEE-price-match](#2021SHOPEE-price-match)
         * [2021H&M Personalized Fashion Recommendations](#2021H&M Personalized Fashion Recommendations)
         * [2022KDD-多模态召回](#2022KDD-多模态召回)
      * 图-知识图谱
@@ -237,7 +237,7 @@ https://www.datafountain.cn/competitions/287
 **方案参考**  
 [冠军开源](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)
 
-### <span id='2018KAGGLE-hcd'>2018kaggle-Home Credit Default Risk</span>
+### <span id='2018Kaggle-HomeCredit'>2018Kaggle-HomeCredit</span>
 **赛题链接**  
 https://www.kaggle.com/c/home-credit-default-risk/overview  
 **赛题任务**  
@@ -535,7 +535,7 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 [top12开源](https://github.com/LittletreeZou/Question-Pairs-Matching)  
 
 
-### <span id='2018JD Dialog Challenge-任务导向型对话系统挑战赛'>2018JD Dialog Challenge-任务导向型对话系统挑战赛</span>
+### <span id='2018JD-任务导向型对话系统挑战赛'>2018JD-任务导向型对话系统挑战赛</span>
 **赛题链接**    
 **赛题任务**  
 智能客服聊天机器人场景中，待客户提出问题后，往往需要先计算客户提出问题与知识库问题的相似度，进而定位最相似问题，再对问题给出答案。本次比赛的题目便是问题相似度算法设计。  
@@ -728,7 +728,7 @@ https://algo.qq.com/signup.html?rfisource=DSWX0308
 [top11开源](https://github.com/cgxcompetition/AIAC_qq_browser_2021_task1_rank11)  
 [top17开源](https://github.com/chenjiashuo123/AIAC-2021-Task1-Rank17)  
 
-### <span id='2021PetFinder.my-Pawpularity Contest'>2021PetFinder.my-Pawpularity Contest</span>
+### <span id='2021PetFinder'>2021PetFinder</span>
 **赛题链接**    
 https://www.kaggle.com/competitions/petfinder-pawpularity-score/code  
 **赛题任务**  
@@ -745,7 +745,7 @@ In this competition, you’ll analyze raw images and metadata to predict the “
 [top6方案](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301015)  
 [trick](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/288896)  
 
-### <span id='2021SHOPEE-price match'>2021SHOPEE-price match</span>
+### <span id='2021SHOPEE-price-match'>2021SHOPEE-price-match</span>
 **赛题链接**    
 https://www.kaggle.com/competitions/shopee-product-matching/overview  
 **赛题任务**  
@@ -985,7 +985,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-H&M Personalized Fashion Recommendations'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
+### <span id='2022KAGGLE-H&M'>2022KAGGLE-H&M</span>
 **赛题链接**   
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
 **赛题任务**  
