@@ -4,7 +4,7 @@
     * [结构化比赛](#结构化比赛)
         * [2021CCF-BDCI个贷违约预测](#2021CCF-BDCI个贷违约预测)
         * [2020DCIC-智慧海洋建设](#2020DCIC-智慧海洋建设)
-        * [2020Kaggle-Mechanisms](#2020Kaggle-Mechanisms of Action (MoA) Prediction)
+        * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020Kaggle-Mechanisms)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020第四届工业大数据创新竞赛-水电站入库流量预测)
         * [2020年讯飞开发者大赛-温室温度预测](#2020年讯飞开发者大赛-温室温度预测)
         * [2020翼支付-风险用户识别大赛](#2020翼支付-风险用户识别大赛)
