@@ -2,7 +2,7 @@
 ![Last update](https://img.shields.io/badge/last%20update-12%20Aug%202022-brightgreen.svg?style=flat-square "Last update")
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
-        * [2021CCF-BDCI个贷违约预测](#2021CCF-2)
+        * [2021CCF-BDCI个贷违约预测](#2021CCF-BDCI个贷违约预测)
         * [2020DCIC-智慧海洋建设](#2020DCIC-1)
         * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
         * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
@@ -884,7 +884,7 @@ http://sigkg.cn/ccks2021/?page_id=27
 [top1方案](https://zhuanlan.zhihu.com/p/449676168)  
 [top3开源](https://github.com/xueyouluo/ccks2021-track2-code)
 
-### <span id='2021CCF-2'>2021CCF-BDCI个贷违约预测</span>
+### <span id='2021CCF-BDCI个贷违约预测'>2021CCF-BDCI个贷违约预测</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/530    
 **赛题任务**  
