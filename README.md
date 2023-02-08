@@ -3,86 +3,86 @@
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2021CCF-BDCI个贷违约预测](#2021CCF-BDCI个贷违约预测)
-        * [2020DCIC-智慧海洋建设](#2020DCIC-1)
-        * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020MOA)
-        * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020GY)
-        * [2020年讯飞开发者大赛-温室温度预测](#2020XF)
-        * [2020翼支付-风险用户识别大赛](#2020yzf)
-        * [2020CCF-企业非法集资风险预测](#CCF2020)
+        * [2020DCIC-智慧海洋建设](#2020DCIC-智慧海洋建设)
+        * [2020Kaggle-Mechanisms of Action (MoA) Prediction](#2020Kaggle-Mechanisms of Action (MoA) Prediction)
+        * [2020第四届工业大数据创新竞赛-水电站入库流量预测](#2020第四届工业大数据创新竞赛-水电站入库流量预测)
+        * [2020年讯飞开发者大赛-温室温度预测](#2020年讯飞开发者大赛-温室温度预测)
+        * [2020翼支付-风险用户识别大赛](#2020翼支付-风险用户识别大赛)
+        * [2020CCF-企业非法集资风险预测](#2020CCF-企业非法集资风险预测)
         * [2020年厦门国际银行数创金融杯](#2020年厦门国际银行数创金融杯)
         * [2019年厦门国际银行数创金融杯](#2019年厦门国际银行数创金融杯)
-        * [2019DCIC-消费者人群画像-信用智能评分](#2019DCIC-xfz)
-        * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-hnt)
-        * [2019安泰杯-跨境电商智能算法大赛](#安泰杯-跨境电商智能算法大赛)
-        * [2019CCF-BDCI-乘用车销量预测](#2019CCF-cyc)
-        * [2019CCF-离散制造过程中典型工件的质量符合率预测](#2019CCF-lsz)
-        * [2019JDATA-用户对品类下店铺的购买预测](#JD1)
+        * [2019DCIC-消费者人群画像-信用智能评分](#2019DCIC-消费者人群画像-信用智能评分)
+        * [2019DCIC-混凝土泵车砼活塞故障预警](#2019DCIC-混凝土泵车砼活塞故障预警)
+        * [2019安泰杯-跨境电商智能算法大赛](#2019安泰杯-跨境电商智能算法大赛)
+        * [2019CCF-BDCI-乘用车销量预测](#2019CCF-BDCI-乘用车销量预测)
+        * [2019CCF-离散制造过程中典型工件的质量符合率预测](#2019CCF-离散制造过程中典型工件的质量符合率预测)
+        * [2019JDATA-用户对品类下店铺的购买预测](#2019JDATA-用户对品类下店铺的购买预测)
         * [2019津南数字制造算法挑战赛-赛场一:原料企业工艺优化](#2019津南数字制造算法挑战赛-赛场一原料企业工艺优化)
         * [2018中国高校计算机大赛-快手活跃用户预测](#2018中国高校计算机大赛-快手活跃用户预测)
         * [2018消费金融场景下的用户购买预测](#2018消费金融场景下的用户购买预测)
-        * [2018kaggle-Home Credit Default Risk](#2018KAGGLE-hcd)
-        * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018MSJR)
-        * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC)
+        * [2018kaggle-Home Credit Default Risk](#2018kaggle-Home Credit Default Risk)
+        * [2018智慧金融马上AI全球挑战者大赛-违约用户风险预测](#2018智慧金融马上AI全球挑战者大赛-违约用户风险预测)
+        * [2018ATEC蚂蚁开发者大赛-支付风险识别](#2018ATEC蚂蚁开发者大赛-支付风险识别)
         * [2018年甜橙金融杯大数据建模大赛-识别交易风险](#2018年甜橙金融杯大数据建模大赛-识别交易风险)
-        * [2018融360-多场景金融](#2018RONG360-2)
-        * [2018融360-特征挖掘](#2018RONG360-1)
-        * [2017融360-用户贷款风险预测](#2017RONG360)
+        * [2018融360-多场景金融](#2018融360-多场景金融)
+        * [2018融360-特征挖掘](#2018融360-特征挖掘)
+        * [2017融360-用户贷款风险预测](#2017融360-用户贷款风险预测)
         * [2017全国社会保险大数据应用创新大赛](#2017全国社会保险大数据应用创新大赛)
-        * [2017CCF-企业经营退出风险预测](#2017CCF-1)
-        * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-dsj)
-        * [天池零基础入门金融风控-贷款违约预测](#TC-dkwy)
+        * [2017CCF-企业经营退出风险预测](#2017CCF-企业经营退出风险预测)
+        * [2016CCF-大数据精准营销中搜狗用户画像挖掘](#2016CCF-大数据精准营销中搜狗用户画像挖掘)
+        * [天池零基础入门金融风控-贷款违约预测](#天池零基础入门金融风控-贷款违约预测)
     * [CV](#cv)
     * [NLP](#nlp)
-        * [2022讯飞-中文语义病句识别](#2022XF-2)
-        * [2022讯飞-非标准化疾病诉求的简单分诊2.0](#2022XF-1)
-        * [2021CCKS-中文NLP地址要素解析](#2021CCKS-1)
-        * [2021CCF-爱奇艺剧本角色情感识别](#2021CCF-1)
-        * [2020CCF-面向数据安全治理的数据内容智能发现与分级分类](#2020CCF-1)
+        * [2022讯飞-中文语义病句识别](#2022讯飞-中文语义病句识别)
+        * [2022讯飞-非标准化疾病诉求的简单分诊2.0](#2022讯飞-非标准化疾病诉求的简单分诊2.0)
+        * [2021CCKS-中文NLP地址要素解析](#2021CCKS-中文NLP地址要素解析)
+        * [2021CCF-爱奇艺剧本角色情感识别](#2021CCF-爱奇艺剧本角色情感识别)
+        * [2020CCF-面向数据安全治理的数据内容智能发现与分级分类](#2020CCF-面向数据安全治理的数据内容智能发现与分级分类)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
-        * [2019第三届魔镜杯大赛-智能客服问题相似度算法设计](#2019MJ)
-        * [2019DF-金融信息负面及主体判定](#2019DF)
-        * [2019CCF-互联网新闻情感分析](#2019CCF-1)
-        * [2019CCF-金融信息负面及主体判定](#2019CCF-2)
-        * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC)
-        * [2018JD Dialog Challenge-任务导向型对话系统挑战赛](#2018JD)
-        * [2018CCL-客服领域用户意图分类评测](#2018CCL)
-        * [2017知乎看山杯-文本多分类](#2017ZH)
+        * [2019第三届魔镜杯大赛-智能客服问题相似度算法设计](#2019第三届魔镜杯大赛-智能客服问题相似度算法设计)
+        * [2019DF-金融信息负面及主体判定](#2019DF-金融信息负面及主体判定)
+        * [2019CCF-互联网新闻情感分析](#2019CCF-互联网新闻情感分析)
+        * [2019CCF-金融信息负面及主体判定](#2019CCF-金融信息负面及主体判定)
+        * [2018DC达观杯文本智能处理挑战-文本分类](#2018DC达观杯文本智能处理挑战-文本分类)
+        * [2018JD Dialog Challenge-任务导向型对话系统挑战赛](#2018JD Dialog Challenge-任务导向型对话系统挑战赛)
+        * [2018CCL-客服领域用户意图分类评测](#2018CCL-客服领域用户意图分类评测)
+        * [2017知乎看山杯-文本多分类](#2017知乎看山杯-文本多分类)
      * [推荐](#推荐)
-        * [2022KAGGLE-H&M Personalized Fashion Recommendations](#2022KAGGLE-1)
-        * [2022讯飞-CTR预估挑战赛](#2022XF-3)
-        * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021MGTV)
-        * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX)
-        * [2021微信大数据挑战赛-CTR](#2021WBDC)
-        * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021IFLY)
-        * [2021一点资讯技术编程大赛-CTR](#2021YDZX)
-        * [2021爱奇艺WSDM-用户留存预测](#2021WSDM)
-        * [2020DIGIX全球算法精英大赛-CTR预估](#2020DIGIX-CTR)
-        * [2019腾讯广告算法大赛-CTR](#2019腾讯广告算法大赛)
-        * [2019图灵联邦-视频点击预测大赛](#2019TL-SP)
-        * [2019智源-看山杯专家发现算法大赛](#2019ZY-KS)
-        * [2018IJCAI-阿里妈妈搜索广告转化预测](#2018IJCAI)
-        * [2018科大讯飞AI营销算法大赛-营销广告点击率预估](#2018XF)
-        * [2018腾讯广告算法大赛-相似人群拓展](#2018腾讯广告算法大赛)
-        * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGEEK-sss)
-        * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-mxd)
-        * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛)
+        * [2022KAGGLE-H&M Personalized Fashion Recommendations](#2022KAGGLE-H&M Personalized Fashion Recommendations)
+        * [2022讯飞-CTR预估挑战赛](#2022讯飞-CTR预估挑战赛)
+        * [2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐](#2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐)
+        * [2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐](#2021DIGIX全球算法精英大赛-基于多目标优化的视频推荐)
+        * [2021微信大数据挑战赛-CTR](#2021微信大数据挑战赛-CTR)
+        * [2021科大讯飞AI开发者大赛-基于用户画像的商品推荐](#2021科大讯飞AI开发者大赛-基于用户画像的商品推荐)
+        * [2021一点资讯技术编程大赛-CTR](#2021一点资讯技术编程大赛-CTR)
+        * [2021爱奇艺WSDM-用户留存预测](#2021爱奇艺WSDM-用户留存预测)
+        * [2020DIGIX全球算法精英大赛-CTR预估](#2020DIGIX全球算法精英大赛-CTR预估)
+        * [2019腾讯广告算法大赛-CTR](#2019腾讯广告算法大赛-CTR)
+        * [2019图灵联邦-视频点击预测大赛](#2019图灵联邦-视频点击预测大赛)
+        * [2019智源-看山杯专家发现算法大赛](#2019智源-看山杯专家发现算法大赛)
+        * [2018IJCAI-阿里妈妈搜索广告转化预测](#2018IJCAI-阿里妈妈搜索广告转化预测)
+        * [2018科大讯飞AI营销算法大赛-营销广告点击率预估](#2018科大讯飞AI营销算法大赛-营销广告点击率预估)
+        * [2018腾讯广告算法大赛-相似人群拓展](#2018腾讯广告算法大赛-相似人群拓展)
+        * [2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估](#2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估)
+        * [2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型](#2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型)
+        * [2017腾讯广告算法大赛-移动App广告转化率预估](#2017腾讯广告算法大赛-移动App广告转化率预估)
      * 时序比赛
-        * [2022KDD-风力发电预测](#2022KDD)
-        * [2021人工智能创新挑战赛—AI助力精准气象和海洋预测](#2021AI)
-        * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021SD-ECG)
-        * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019ECG)
+        * [2022KDD-风力发电预测](#2022KDD-风力发电预测)
+        * [2021人工智能创新挑战赛—AI助力精准气象和海洋预测](#2021人工智能创新挑战赛—AI助力精准气象和海洋预测)
+        * [2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别](#2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别)
+        * [2019“合肥高新杯”心电人机智能大赛—心电异常事件预测](#2019“合肥高新杯”心电人机智能大赛—心电异常事件预测
      * 多模态
-        * [2022GAIIC-电商关键属性的图文匹配](#2022GAIIC)
-        * [2022微信大数据挑战赛-多模态视频分类](#2022WBDC-1)     
-        * [2021qq浏览器算法大赛](#2021QQ)
-        * [2021腾讯广告算法大赛](#2021TENCENT)
-        * [2021PetFinder.my-Pawpularity Contest](#2021KAGGLE-pet)  
-        * [2021SHOPEE-price match](#2021KAGGLE-shopee)
-        * [2021H&M Personalized Fashion Recommendations](#2021KAGGLE-hm)
-        * [2022KDD-多模态召回](#2022KDD-1)
+        * [2022GAIIC-电商关键属性的图文匹配](#2022GAIIC-电商关键属性的图文匹配)
+        * [2022微信大数据挑战赛-多模态视频分类](#2022微信大数据挑战赛-多模态视频分类)     
+        * [2021qq浏览器算法大赛](#2021qq浏览器算法大赛)
+        * [2021腾讯广告算法大赛](#2021腾讯广告算法大赛)
+        * [2021PetFinder.my-Pawpularity Contest](#2021PetFinder.my-Pawpularity Contest)  
+        * [2021SHOPEE-price match](#2021SHOPEE-price match)
+        * [2021H&M Personalized Fashion Recommendations](#2021H&M Personalized Fashion Recommendations)
+        * [2022KDD-多模态召回](#2022KDD-多模态召回)
      * 图-知识图谱
-        * [2022ICDM-大规模电商图上的风险商品检测](#2022ICDM)
-        * [2022第七届信也科技杯图算法大赛—欺诈用户风险识别](#2022XY)
+        * [2022ICDM-大规模电商图上的风险商品检测](#2022ICDM-大规模电商图上的风险商品检测)
+        * [2022第七届信也科技杯图算法大赛—欺诈用户风险识别](#2022第七届信也科技杯图算法大赛—欺诈用户风险识别)
 # 比赛
 ## 结构化比赛
 ### 2019年厦门国际银行数创金融杯
@@ -294,7 +294,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=265
 [top10方案](https://zhuanlan.zhihu.com/p/66412427)  
 [baseline开源](https://github.com/lcxanhui/2018-orange-finance-baseline)  
 
-### <span id='2018OGEEK-sss'>2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估</span>
+### <span id='2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估'>2018OGeek算法挑战赛-实时搜索场景下搜索结果ctr预估</span>
 **赛题链接**  
 https://tianchi.aliyun.com/competition/entrance/231688/introduction  
 **赛题任务**  
@@ -310,7 +310,7 @@ https://tianchi.aliyun.com/competition/entrance/231688/introduction
 [优胜奖方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.651d4cd6uJjKS3&postId=50456)  
 [baseline开源](https://zhuanlan.zhihu.com/p/46482521) 做ctr时候把特征做成click/count的形式  
 
-### <span id='2018CCF-mxd'>2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型</span>
+### <span id='2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型'>2018CCF-面向电信行业存量用户的智能套餐个性化匹配模型</span>
 **赛题链接**  
 https://www.datafountain.cn/competitions/311  
 **赛题任务**  
@@ -324,7 +324,7 @@ https://www.datafountain.cn/competitions/311
 [top4开源](https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution)  
 [top6开源](https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6)
 
-### <span id='2016CCF-dsj'>2016CCF-大数据精准营销中搜狗用户画像挖掘</span>
+### <span id='2016CCF-大数据精准营销中搜狗用户画像挖掘'>2016CCF-大数据精准营销中搜狗用户画像挖掘</span>
 **赛题链接**  
 https://www.datafountain.cn/competitions/239  
 **赛题任务**  
@@ -335,7 +335,9 @@ https://www.datafountain.cn/competitions/239
 [冠军开源](https://github.com/hengchao0248/ccf2016_sougou)  
 [top3开源](https://github.com/AbnerYang/2016CCF-SouGou)  
 [top5开源](https://github.com/dhdsjy/2016_CCFsougou)   
-### <span id='JD1'>2019JDATA-用户对品类下店铺的购买预测</span>
+
+
+### <span id='2019JDATA-用户对品类下店铺的购买预测'>2019JDATA-用户对品类下店铺的购买预测</span>
 **赛题链接**  
 https://jdata.jd.com/html/detail.html?id=8  
 **赛题任务**  
@@ -353,7 +355,9 @@ https://jdata.jd.com/html/detail.html?id=8
 [top3开源](https://github.com/WeavingWong/JDATA_2019-Cate_Shop_predict)  
 [top5开源](https://github.com/vinklibrary/jdata_code)  
 [top7开源](https://github.com/DuncanZhou/jdata2019)
-### <span id='CCF2020'>2020CCF-企业非法集资风险预测</span>
+
+
+### <span id='2020CCF-企业非法集资风险预测'>2020CCF-企业非法集资风险预测</span>
 **赛题链接**  
 https://www.datafountain.cn/competitions/469/datasets  
 **赛题任务**  
@@ -364,7 +368,7 @@ https://www.datafountain.cn/competitions/469/datasets
 [top3开源](https://gitee.com/quincyqiang/illegal-fundraising-prediction/tree/master)  
 [top11开源](https://github.com/librauee/CCFBDCI2020)  
 [top27开源](https://github.com/DLLXW/data-science-competition/tree/main/datafountain/CCF2020-%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84)  
-### <span id='2018IJCAI'>2018IJCAI-阿里妈妈搜索广告转化预测</span>
+### <span id='2018IJCAI-阿里妈妈搜索广告转化预测'>2018IJCAI-阿里妈妈搜索广告转化预测</span>
 **赛题链接**  
 https://tianchi.aliyun.com/competition/entrance/231647/introduction    
 **赛题任务**  
@@ -377,14 +381,18 @@ https://tianchi.aliyun.com/competition/entrance/231647/introduction
 [top3开源](https://github.com/luoda888/2018-IJCAI-top3)  
 [top8开源-1](https://github.com/fanfanda/ijcai_2018)  
 [top8开源-2](https://github.com/Gene20/IJCAI-18)  
-### <span id='2018MSJR'>2018智慧金融马上AI全球挑战者大赛-违约用户风险预测</span>
+
+
+### <span id='2018智慧金融马上AI全球挑战者大赛-违约用户风险预测'>2018智慧金融马上AI全球挑战者大赛-违约用户风险预测</span>
 **赛题链接**     
 **赛题任务**  
 马上金融平台提供了近7万贷款用户的基本身份信息、消费行为、银行还款等数据信息，需要参赛者以此建立准确的风险控制模型，来预测用户是否会逾期还款。  
 **赛题难点**  
 **方案参考**  
 [top1开源](https://github.com/chenkkkk/User-loan-risk-prediction)  
-### <span id='2018ATEC'>2018ATEC蚂蚁开发者大赛-支付风险识别</span>
+
+
+### <span id='2018ATEC蚂蚁开发者大赛-支付风险识别'>2018ATEC蚂蚁开发者大赛-支付风险识别</span>
 **赛题链接**     
 **赛题任务**  
 赛题的目的是根据历史交易数据识别当前交易是否为欺诈交易。举办方给出由一段时间内有正负标签样本的支付行为样本和没有标签的支付行为样本组成的训练数据集和一段时间后的某个时间范围内的支付行为样本构成的测试数据集，希望选手们通过机器学习算法和对无标签数据的挖掘在训练集上训练出性能稳定时效性好的模型，能够在测试集上对交易的风险进行精准判断。  
@@ -392,7 +400,9 @@ https://tianchi.aliyun.com/competition/entrance/231647/introduction
 **方案参考**  
 [top2方案](https://mp.weixin.qq.com/s/5NNTeLvqWl0_SQaPl-Cvug)  
 [top7开源](https://github.com/mathcbc/Rank7-Solution-for-2018-ATEC-Anti-Fraud-Competition)  
-### <span id='2020yzf'>2020翼支付-风险用户识别大赛</span>
+
+
+### <span id='2020翼支付-风险用户识别大赛'>2020翼支付-风险用户识别大赛</span>
 **赛题链接**     
 https://js.dclab.run/v2/landingpage/orange-cup.html  
 **赛题任务**    
@@ -403,7 +413,9 @@ https://js.dclab.run/v2/landingpage/orange-cup.html
 [top2开源](https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2)  
 [top3开源](https://github.com/poplar1hhh/yipay)  
 [top10开源](https://github.com/loserChen/YiZhiFu)  
-### <span id='TC-dkwy'>天池零基础入门金融风控-贷款违约预测</span>
+
+
+### <span id='天池零基础入门金融风控-贷款违约预测'>天池零基础入门金融风控-贷款违约预测</span>
 **赛题链接**     
 https://tianchi.aliyun.com/competition/entrance/531830/introduction  
 **赛题任务**    
@@ -414,7 +426,9 @@ https://tianchi.aliyun.com/competition/entrance/531830/introduction
 [top2方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.21.3b3022fa76KVe0&postId=164618)  
 [top6方案+开源](https://mp.weixin.qq.com/s/CaStDPAeqYnTEc93CevSrw)  
 [top11开源](https://github.com/LogicJake/tianchi-loan-default-prediction-top11)  
-### <span id='2020XF'>2020年讯飞开发者大赛-温室温度预测</span>
+
+
+### <span id='2020年讯飞开发者大赛-温室温度预测'>2020年讯飞开发者大赛-温室温度预测</span>
 **赛题链接**     
 http://challenge.xfyun.cn/topic/info?type=temperature  
 **赛题任务**    
@@ -423,7 +437,9 @@ http://challenge.xfyun.cn/topic/info?type=temperature
 **方案参考**  
 [top3方案+开源](https://zhuanlan.zhihu.com/p/268563179)  
 [top4开源](https://github.com/HighingLIN/iFlytek-Temperature)
-### <span id='2020GY'>2020第四届工业大数据创新竞赛-水电站入库流量预测</span>
+
+
+### <span id='2020第四届工业大数据创新竞赛-水电站入库流量预测'>2020第四届工业大数据创新竞赛-水电站入库流量预测</span>
 **赛题链接**     
 http://www.industrial-bigdata.com/Competition    
 **赛题任务**    
@@ -431,7 +447,9 @@ http://www.industrial-bigdata.com/Competition
 **赛题难点**  
 **方案参考**  
 [top1开源](https://github.com/whoami-zy/WaterFlow)
-### <span id='2018XF'>2018科大讯飞AI营销算法大赛-营销广告点击率预估</span>
+
+
+### <span id='2018科大讯飞AI营销算法大赛-营销广告点击率预估'>2018科大讯飞AI营销算法大赛-营销广告点击率预估</span>
 **赛题链接**   
 https://js.dclab.run/v2/cmptDetail.html?id=245  
 **赛题任务**    
@@ -459,7 +477,9 @@ https://algo.qq.com/
 [top11开源](https://github.com/llllllyu/Tencent2020_Rank11)   
 [top12开源](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)  
 [top19开源](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
-### <span id='2018DC'>2018DC达观杯文本智能处理挑战-文本分类</span>
+
+
+### <span id='2018DC达观杯文本智能处理挑战-文本分类'>2018DC达观杯文本智能处理挑战-文本分类</span>
 **赛题链接**  
 https://js.dclab.run/v2/cmptDetail.html?id=229    
 **赛题任务**  
@@ -472,7 +492,9 @@ https://js.dclab.run/v2/cmptDetail.html?id=229
 [top4开源](https://github.com/hecongqing/2018-daguan-competition)  
 [top7开源](https://github.com/RocketGirls3/daguan-7th-solution)  
 [top8开源](https://github.com/Rowchen/Text-classifier)  
-### <span id='2017ZH'>2017知乎看山杯-文本多分类</span>
+
+
+### <span id='2017知乎看山杯-文本多分类'>2017知乎看山杯-文本多分类</span>
 **赛题链接**    
 **赛题任务**  
 参赛者需要根据知乎给出的问题及话题标签的绑定关系的训练数据，训练出对未标注数据自动标注的模型。标注数据中包含 300 万个问题，每个问题有 1 个或多个标签，共计1999 个标签。每个标签对应知乎上的一个「话题」，话题之间存在父子关系，并通过父子关系组织成一张有向无环图（DAG）。  
@@ -483,7 +505,9 @@ https://js.dclab.run/v2/cmptDetail.html?id=229
 [top2开源](https://github.com/Magic-Bubble/Zhihu)  
 [top6开源](https://github.com/yongyehuang/zhihu-text-classification)  
 [top9开源](https://github.com/coderSkyChen/zhihu_kanshan_cup_2017)
-### <span id='2019DF'>2019DF金融信息负面及主体判定</span>
+
+
+### <span id='2019DF金融信息负面及主体判定'>2019DF金融信息负面及主体判定</span>
 **赛题链接**    
 https://www.datafountain.cn/competitions/353  
 **赛题任务**  
@@ -498,7 +522,9 @@ https://www.datafountain.cn/competitions/353
 [top1开源](https://github.com/xiong666/ccf_financial_negative)  
 [top2开源](https://github.com/rebornZH/2019-CCF-BDCI-NLP)  
 [top3开源](https://github.com/Chevalier1024/CCF-BDCI-ABSA)  
-### <span id='2019MJ'>2019第三届魔镜杯大赛-智能客服问题相似度算法设计</span>
+
+
+### <span id='2019第三届魔镜杯大赛-智能客服问题相似度算法设计'>2019第三届魔镜杯大赛-智能客服问题相似度算法设计</span>
 **赛题链接**    
 https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2  
 **赛题任务**  
@@ -508,7 +534,8 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 [top6开源](https://github.com/qrfaction/paipaidai)  
 [top12开源](https://github.com/LittletreeZou/Question-Pairs-Matching)  
 
-### <span id='2018JD'>2018JD Dialog Challenge-任务导向型对话系统挑战赛</span>
+
+### <span id='2018JD Dialog Challenge-任务导向型对话系统挑战赛'>2018JD Dialog Challenge-任务导向型对话系统挑战赛</span>
 **赛题链接**    
 **赛题任务**  
 智能客服聊天机器人场景中，待客户提出问题后，往往需要先计算客户提出问题与知识库问题的相似度，进而定位最相似问题，再对问题给出答案。本次比赛的题目便是问题相似度算法设计。  
@@ -517,7 +544,8 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 [top2开源](https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq)  
 [top3开源](https://github.com/zengbin93/jddc_solution_4th)
 
-### <span id='2018CCL'>2018CCL-客服领域用户意图分类评测</span>
+
+### <span id='2018CCL-客服领域用户意图分类评测'>2018CCL-客服领域用户意图分类评测</span>
 **赛题链接**    
 **赛题任务**  
 在客服和用户对话系统的应用过程中，用户可能会有多种意图，相应地会触发客服和客户对话系统中的多个业务类型，业务类型包括查询类、办理类和咨询类三种，每个业务类型下涉及的用户意图有多种，例如查询类下有查询账单、查询积分等，办理类下有充值手机话费、重置密码等；咨询类下有咨询宽带故障、咨询宽带续费等。因而，客服领域对话系统的一个关键任务就是正确地将用户的输入分类到相应业务类型下的具体意图（即识别出用户输入到对话系统执行某个动作之间的一个映射关系）中，从而达到识别和理解用户要表达的意图，帮助提高语言、语音导航系统的语义识别能力。  
@@ -526,7 +554,7 @@ https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1&tabindex=2
 [top1方案](https://github.com/nlpjoe/2018-CCL-UIIMCS)  
 
 ## 推荐
-### <span id='2019TL-SP'>2019图灵联邦-视频点击预测大赛</span>
+### <span id='2019图灵联邦-视频点击预测大赛'>2019图灵联邦-视频点击预测大赛</span>
 **赛题链接**    
 https://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch  
 **赛题任务**  
@@ -539,7 +567,7 @@ https://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498db
 [top7开源](https://github.com/zavierhan/turing_video_ctr_top7)  
 [top9开源](https://github.com/Tersaiz/Turingtopia_Videos_CTR)
 
-### <span id='2019ZY-KS'>2019智源-看山杯专家发现算法大赛</span>
+### <span id='2019智源-看山杯专家发现算法大赛'>2019智源-看山杯专家发现算法大赛</span>
 **赛题链接**    
 https://www.biendata.xyz/competition/zhihu2019/  
 **赛题任务**  
@@ -551,7 +579,7 @@ https://www.biendata.xyz/competition/zhihu2019/
 [top6开源](https://github.com/liuchenailq/zhihu-findexp)  
 [top7开源](jt120/BAAI-zhihu-2019)  
 
-### <span id='2021WBDC'>2021微信大数据挑战赛-CTR</span>
+### <span id='2021微信大数据挑战赛-CTR'>2021微信大数据挑战赛-CTR</span>
 **赛题链接**    
 https://algo.weixin.qq.com/  
 **赛题任务**  
@@ -568,7 +596,9 @@ https://algo.weixin.qq.com/
 [top50开源](https://github.com/QunBB/WBDC2021)  
 [Albert embedding](https://github.com/QunBB/WBDC2021)  
 [top7答辩ppt及视频](https://mp.weixin.qq.com/s/PHjGDyu4XqUezUr6DjYXxg)
-### <span id='2021WSDM'>2021爱奇艺WSDM-用户留存预测</span>
+
+
+### <span id='2021爱奇艺WSDM-用户留存预测'>2021爱奇艺WSDM-用户留存预测</span>
 **赛题链接**    
 http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6  
 **赛题任务**  
@@ -584,7 +614,7 @@ http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
 [baseline-keras](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)  
 [baseline-torch](https://github.com/LogicJake/competition_baselines/tree/master/competitions/wsdm_iqiyi_torch)
 
-### <span id='2020MOA'>2020Kaggle-Mechanisms of Action (MoA) Prediction</span>
+### <span id='2020Kaggle-Mechanisms of Action (MoA) Prediction'>2020Kaggle-Mechanisms of Action (MoA) Prediction</span>
 **赛题链接**    
 https://www.kaggle.com/c/lish-moa/overview  
 **赛题任务**  
@@ -600,7 +630,7 @@ https://www.kaggle.com/c/lish-moa/overview
 [top1开源](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)   
 [top2开源](https://www.kaggle.com/c/lish-moa/discussion/202256) 
 
-### <span id='2021YDZX'>2021一点资讯技术编程大赛-CTR</span>
+### <span id='2021一点资讯技术编程大赛-CTR'>2021一点资讯技术编程大赛-CTR</span>
 **赛题链接**    
 https://tech.yidianzixun.com/competition/  
 **赛题任务**  
@@ -610,7 +640,7 @@ https://tech.yidianzixun.com/competition/
 [top1开源](https://github.com/LogicJake/yidianzixun-ctr-top1)  
 [top3开源](https://github.com/liuqidong07/YIDIAN)
 
-### <span id='2021IFLY'>2021科大讯飞AI开发者大赛-基于用户画像的商品推荐</span>
+### <span id='2021科大讯飞AI开发者大赛-基于用户画像的商品推荐'>2021科大讯飞AI开发者大赛-基于用户画像的商品推荐</span>
 **赛题链接**    
 http://challenge.xfyun.cn/topic/info?type=user-portrait  
 **赛题任务**  
@@ -621,7 +651,7 @@ http://challenge.xfyun.cn/topic/info?type=user-portrait
 [top6开源](https://github.com/Shuigs18/2021iFLYTEK_UserPortrait_Rank6)  
 [top3答辩](https://1024.iflytek.com/liveroom?id=competition-child-child2-6&liveId=682555&cmskey=competition&date=1023)
 
-### <span id='2019ECG'>2019“合肥高新杯”心电人机智能大赛—心电异常事件预测</span>
+### <span id='2019“合肥高新杯”心电人机智能大赛—心电异常事件预测'>2019“合肥高新杯”心电人机智能大赛—心电异常事件预测</span>
 **赛题链接**    
 https://tianchi.aliyun.com/competition/entrance/231754/introduction  
 **赛题任务**  
@@ -644,7 +674,7 @@ https://tianchi.aliyun.com/competition/entrance/231754/introduction
 [其他参考-2](https://github.com/WisleyWang/ECG)  
 
 
-### <span id='2021DIGIX'>DIGIX全球算法精英大赛-基于多目标优化的视频推荐</span>
+### <span id='DIGIX全球算法精英大赛-基于多目标优化的视频推荐'>DIGIX全球算法精英大赛-基于多目标优化的视频推荐</span>
 **赛题链接**    
 https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/006/introduction  
 **赛题任务**  
@@ -655,7 +685,7 @@ https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.htm
 [top2开源](https://github.com/librauee/DIGIX2021)  
 
 
-### <span id='2020DCIC-1'>2020DCIC-智慧海洋建设</span>
+### <span id='2020DCIC-智慧海洋建设'>2020DCIC-智慧海洋建设</span>
 **赛题链接**    
 https://tianchi.aliyun.com/competition/entrance/231768/introduction  
 **赛题任务**  
@@ -669,7 +699,7 @@ https://tianchi.aliyun.com/competition/entrance/231768/introduction
 [top11开源](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.36.163c5cfdoXdPGB&postId=114808)  
 [baseling-1](https://github.com/fengdu78/tianchi_haiyang?spm=5176.21852664.0.0.52b83017nfyqoH) 
 
-### <span id='2021TENCENT'>2021腾讯广告算法大赛</span>
+### <span id='2021腾讯广告算法大赛'>2021腾讯广告算法大赛</span>
 **赛题链接**    
 https://algo.qq.com/signup.html?rfisource=DSWX0308  
 **赛题任务**  
@@ -683,7 +713,7 @@ https://algo.qq.com/signup.html?rfisource=DSWX0308
 [top8开源](https://github.com/kniter1/taac-2021-Rank8)  
 [top10开源](https://github.com/beibuwandeluori/taac2021-tagging-azx)  
 
-### <span id='2021QQ'>2021qq浏览器算法大赛</span>
+### <span id='2021qq浏览器算法大赛'>2021qq浏览器算法大赛</span>
 **赛题链接**    
 [https://algo.qq.com/signup.html?rfisource=DSWX0308](https://algo.browser.qq.com/)  
 **赛题任务**  
@@ -698,7 +728,7 @@ https://algo.qq.com/signup.html?rfisource=DSWX0308
 [top11开源](https://github.com/cgxcompetition/AIAC_qq_browser_2021_task1_rank11)  
 [top17开源](https://github.com/chenjiashuo123/AIAC-2021-Task1-Rank17)  
 
-### <span id='2021KAGGLE-pet'>2021PetFinder.my-Pawpularity Contest</span>
+### <span id='2021PetFinder.my-Pawpularity Contest'>2021PetFinder.my-Pawpularity Contest</span>
 **赛题链接**    
 https://www.kaggle.com/competitions/petfinder-pawpularity-score/code  
 **赛题任务**  
@@ -715,7 +745,7 @@ In this competition, you’ll analyze raw images and metadata to predict the “
 [top6方案](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301015)  
 [trick](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/288896)  
 
-### <span id='2021KAGGLE-shopee'>2021SHOPEE-price match</span>
+### <span id='2021SHOPEE-price match'>2021SHOPEE-price match</span>
 **赛题链接**    
 https://www.kaggle.com/competitions/shopee-product-matching/overview  
 **赛题任务**  
@@ -731,7 +761,7 @@ Two different images of similar wares may represent the same product or two comp
 [top6方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238010)  
 [以往解决方案](https://www.kaggle.com/competitions/shopee-product-matching/discussion/224586)  
 
-### <span id='2021KAGGLE-hm'>2021H&M Personalized Fashion Recommendations</span>
+### <span id='2021H&M Personalized Fashion Recommendations'>2021H&M Personalized Fashion Recommendations</span>
 **赛题链接**    
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion?sort=votes  
 **赛题任务**  
@@ -745,7 +775,7 @@ In this competition, H&M Group invites you to develop product recommendations ba
 [top4方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324094)  
 [top5方案](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324098)  
 
-### <span id='2021SD-ECG'>2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别</span>
+### <span id='2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别'>2021山东赛第三届数据应用创新创业大赛-心电图智能事件识别</span>
 **赛题链接**    
 https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53  
 **赛题任务**  
@@ -753,7 +783,7 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 **方案参考**  
 [top2开源](https://github.com/librauee/SD_ECG)  
 
-### <span id='2020DIGIX-CTR'>2020DIGIX全球算法精英大赛-ctr预估</span>
+### <span id='2020DIGIX全球算法精英大赛-ctr预估'>2020DIGIX全球算法精英大赛-ctr预估</span>
 **赛题链接**      
 **赛题任务**  
 **方案参考**  
@@ -763,7 +793,7 @@ https://data.sd.gov.cn/cmpt/cmptDetail.html?id=53
 [top10开源](https://github.com/johnny161/Digix_A_2020)  
 [top22开源](https://github.com/ZanyFun9/Digix-Huawei-adCTR)  
 
-### <span id='2021MGTV'>2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐</span>
+### <span id='2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐'>2021年芒果TV第二届“马栏山杯”国际音视频算法大赛视频推荐</span>
 **赛题链接**  
 https://challenge.ai.mgtv.com/contest/detail/9  
 **赛题任务**  
@@ -772,7 +802,7 @@ https://challenge.ai.mgtv.com/contest/detail/9
 **方案参考**  
 [top12开源](https://github.com/tongji40/MGTV_AI_Challenge_Video_Recommend_Rank_12th)  
 
-### <span id='2017RONG360'>2017融360-用户贷款风险预测</span>
+### <span id='2017融360-用户贷款风险预测'>2017融360-用户贷款风险预测</span>
 **赛题链接**  
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=176  
 **赛题任务**  
@@ -783,7 +813,7 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=176
 [数据下载](https://github.com/hczheng/Rong360)  
 [二次贷款](https://github.com/out-to-right/--rong360)  
 
-### <span id='2018RONG360-1'>2018融360-特征挖掘</span>
+### <span id='2018融360-特征挖掘'>2018融360-特征挖掘</span>
 **赛题链接**    
 **赛题任务**  
 本题要求根据提供的用户数据(包括关联关系、危险行为、标签类型、APP)，通过数据挖掘技术，组合出有显著效果的特征，并利用这些特征构建模型预测用户的逾期情况。用户是否逾期和个人信用记录、收入、所属行业等诸多个人属性强相关，另一方面人类的社会属性又决定了用户必然要同其他人建立联系。  
@@ -797,14 +827,14 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=176
 [数据下载](https://mp.weixin.qq.com/s/99Et78MA-EVaPsWZsGYwvQ)
 [拒绝数据下载](https://github.com/ultimatejoe/rong_360_1)  
 
-### <span id='2018RONG360-2'>2018融360-多场景金融</span>
+### <span id='2018融360-多场景金融'>2018融360-多场景金融</span>
 **赛题链接**    
 **赛题任务**  
 在实际金融场景中，我们常常会上线一些新产品，但对于新产品来说，建模样本必然是不足的，那么我们想要尽快的完善新产品的模型会考虑尝试利用其他产品的样本与新产品样本的共性的部分，来加强模型的预测能力。于是多场景金融赛题应运而生。  
 **方案参考**  
 [top1开源](https://zhuanlan.zhihu.com/p/51927257)
 
-### <span id='2017CCF-1'>2017CCF-企业经营退出风险预测</span>
+### <span id='2017CCF-企业经营退出风险预测'>2017CCF-企业经营退出风险预测</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/271   
 **赛题任务**  
@@ -813,7 +843,7 @@ https://www.datafountain.cn/competitions/271
 [top6开源](https://github.com/ZedongPeng/Enterprise-withdrawal-risk-BDCI2017)  
 [top9开源](https://mp.weixin.qq.com/s/E4N6eCCHA3C9o8I8UQZZdQ)
    
-### <span id='2019CCF-1'>2019CCF-互联网新闻情感分析</span>
+### <span id='2019CCF-互联网新闻情感分析'>2019CCF-互联网新闻情感分析</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/350     
 **赛题任务**  
@@ -823,7 +853,7 @@ https://www.datafountain.cn/competitions/350
 [top4开源](https://github.com/linhaow/TextClassification)  
 [top8开源](https://github.com/zhanlaoban/CCF_BDCI_2019_datafountain350)  
 
-### <span id='2021CCF-1'>2021CCF-爱奇艺剧本角色情感识别</span>
+### <span id='2021CCF-爱奇艺剧本角色情感识别'>2021CCF-爱奇艺剧本角色情感识别</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/518     
 **赛题任务**  
@@ -831,7 +861,7 @@ https://www.datafountain.cn/competitions/518
 **方案参考**  
 [top13开源](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)  
 
-### <span id='2019CCF-2'>2019CCF-金融信息负面及主体判定</span>
+### <span id='2019CCF-金融信息负面及主体判定'>2019CCF-金融信息负面及主体判定</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/353     
 **赛题任务**  
@@ -840,7 +870,7 @@ https://www.datafountain.cn/competitions/353
 [top1开源](https://zhuanlan.zhihu.com/p/99222193)  
 [top3开源](https://github.com/Chevalier1024/CCF-BDCI-ABSA)  
 
-### <span id='2020CCF-1'>2020CCF-面向数据安全治理的数据内容智能发现与分级分类</span>
+### <span id='2020CCF-面向数据安全治理的数据内容智能发现与分级分类'>2020CCF-面向数据安全治理的数据内容智能发现与分级分类</span>
 **赛题链接**   
 https://www.datafountain.cn/competitions/471     
 **赛题任务**  
@@ -851,7 +881,7 @@ https://www.datafountain.cn/competitions/471
 [top10开源](https://github.com/daniellibin/CCF2020_data_content_classification)  
 [baseline](https://github.com/JeremySun1224/CCFBDCI2020)
 
-### <span id='2022XF-1'>2022讯飞-非标准化疾病诉求的简单分诊2.0</span>
+### <span id='2022讯飞-非标准化疾病诉求的简单分诊2.0'>2022讯飞-非标准化疾病诉求的简单分诊2.0</span>
 **赛题链接**   
 https://challenge.xfyun.cn/topic/info?type=disease-claims-2022&ch=ds22-dw-zmt07     
 **赛题任务**  
@@ -859,7 +889,7 @@ https://challenge.xfyun.cn/topic/info?type=disease-claims-2022&ch=ds22-dw-zmt07
 **方案参考**  
 [top1方案](https://mp.weixin.qq.com/s/aohWPYeLPfosatPaOFWBbw)
 
-### <span id='2022XF-2'>2022讯飞-中文语义病句识别</span>
+### <span id='2022讯飞-中文语义病句识别'>2022讯飞-中文语义病句识别</span>
 **赛题链接**   
 http://challenge.xfyun.cn/topic/info?type=sick-sentence-discrimination     
 **赛题任务**  
@@ -867,7 +897,7 @@ http://challenge.xfyun.cn/topic/info?type=sick-sentence-discrimination
 **方案参考**  
 [top1方案](https://mp.weixin.qq.com/s/zCAlWWjiSL-cBADOfDoyGA)
 
-### <span id='2022XF-3'>2022讯飞-CTR预估挑战赛</span>
+### <span id='2022讯飞-CTR预估挑战赛'>2022讯飞-CTR预估挑战赛</span>
 **赛题链接**   
 http://challenge.xfyun.cn/topic/info?type=CTR-forecast     
 **赛题任务**  
@@ -875,7 +905,7 @@ http://challenge.xfyun.cn/topic/info?type=CTR-forecast
 **方案参考**  
 [top3开源](https://mp.weixin.qq.com/s/ll3d62cXhxTPIEXhizjD3w)
 
-### <span id='2021CCKS-1'>2021CCKS-中文NLP地址要素解析</span>
+### <span id='2021CCKS-中文NLP地址要素解析'>2021CCKS-中文NLP地址要素解析</span>
 **赛题链接**   
 http://sigkg.cn/ccks2021/?page_id=27     
 **赛题任务**  
@@ -893,7 +923,7 @@ https://www.datafountain.cn/competitions/530
 [top1方案](https://mp.weixin.qq.com/s/hnNueD98r5DzHvJXiibPDQ)  
 [top3方案](https://mp.weixin.qq.com/s/DkZ0O-8wG_cWmllFR8ttwg)
 
-### <span id='2022WBDC-1'>2022微信大数据挑战赛-多模态视频分类</span>
+### <span id='2022微信大数据挑战赛-多模态视频分类'>2022微信大数据挑战赛-多模态视频分类</span>
 **赛题链接**   
 https://algo.weixin.qq.com    
 **赛题任务**  
@@ -905,7 +935,7 @@ https://algo.weixin.qq.com
 [前6答辩](https://mp.weixin.qq.com/s/2SIxBE8CTMztpqbf91kkwg)
 
 ## 图比赛
-### <span id='2022ICDM'>2022ICDM-大规模电商图上的风险商品检测</span>
+### <span id='2022ICDM-大规模电商图上的风险商品检测'>2022ICDM-大规模电商图上的风险商品检测</span>
 **赛题链接**   
 https://tianchi.aliyun.com/competition/entrance/531976/introduction    
 **赛题任务**  
@@ -920,7 +950,7 @@ https://tianchi.aliyun.com/competition/entrance/531976/introduction
 [top8开源](https://github.com/Yangxc13/SeHGNN_icdm22_contest)  
 [top9方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.0.0.45627ef5D2x7uy&postId=417995)  
 
-### <span id='2022XY'>2022第七届信也科技杯图算法大赛—欺诈用户风险识别</span>
+### <span id='2022第七届信也科技杯图算法大赛—欺诈用户风险识别'>2022第七届信也科技杯图算法大赛—欺诈用户风险识别</span>
 **赛题链接**   
 https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=3    
 **赛题任务**  
@@ -932,7 +962,7 @@ https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=3
 [top2开源](https://github.com/ytchx1999/TGN-DGraphFin)  
 [gearSage](https://github.com/storyandwine/GEARSage-DGraphFin)  
 
-### <span id='2022GAIIC'>2022GAIIC-电商关键属性的图文匹配</span>
+### <span id='2022GAIIC-电商关键属性的图文匹配'>2022GAIIC-电商关键属性的图文匹配</span>
 **赛题链接**   
 https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca    
 **赛题任务**  
@@ -945,7 +975,7 @@ https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca
 [top10开源](https://github.com/Legend94rz/jd2022-semi)  
 [top11开源](https://github.com/WangXinYi111/GAIIC2022_track1_rank11)  
 
-### <span id='2022KDD'>2022KDD-风力发电预测</span>
+### <span id='2022KDD-风力发电预测'>2022KDD-风力发电预测</span>
 **赛题链接**   
 https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction    
 **赛题任务**  
@@ -955,7 +985,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction
 [总结开源](https://mp.weixin.qq.com/s/o2LAGh6eKkeuKXaNqWjYvw)  
 [总结方案](https://mp.weixin.qq.com/s/LSs7Zk7F0KRi_mCtFBrr1g)
 
-### <span id='2022KAGGLE-1'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
+### <span id='2022KAGGLE-H&M Personalized Fashion Recommendations'>2022KAGGLE-H&M Personalized Fashion Recommendations</span>
 **赛题链接**   
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview    
 **赛题任务**  
@@ -965,7 +995,7 @@ H&M是我们熟知的服饰购物平台，他拥有53个网上市场和大约485
 [总结1](https://mp.weixin.qq.com/s/Ht7fy2b2XaZ9ZZlvTezMhg)  
 [总结2](https://zhuanlan.zhihu.com/p/515932559)  
 
-### <span id='2022KDD-1'>2022KDD-多模态召回</span>
+### <span id='2022KDD-多模态召回'>2022KDD-多模态召回</span>
 **赛题链接**   
 https://tianchi.aliyun.com/competition/entrance/231786/introduction    
 **赛题任务**  
@@ -978,7 +1008,7 @@ https://tianchi.aliyun.com/competition/entrance/231786/introduction
 [top8方案](https://zhuanlan.zhihu.com/p/148816490)  
 [top12开源](https://github.com/chengxuanying/KDD-Multimodalities-Recall)
 
-### <span id='2021AI'>2021人工智能创新挑战赛—AI助力精准气象和海洋预测</span>
+### <span id='2021人工智能创新挑战赛—AI助力精准气象和海洋预测'>2021人工智能创新挑战赛—AI助力精准气象和海洋预测</span>
 **赛题链接**   
 https://tianchi.aliyun.com/competition/entrance/531871/information    
 **赛题任务**  
