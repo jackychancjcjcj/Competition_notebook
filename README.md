@@ -860,6 +860,10 @@ https://www.datafountain.cn/competitions/518
 本赛题提供一部分电影剧本作为训练集，训练集数据已由人工进行标注，参赛队伍需要对剧本场景中每句对白和动作描述中涉及到的每个角色的情感从多个维度进行分析和识别。该任务的主要难点和挑战包括：1）剧本的行文风格和通常的新闻类语料差别较大，更加口语化；2）剧本中角色情感不仅仅取决于当前的文本，对前文语义可能有深度依赖。  
 **方案参考**  
 [top13开源](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)  
+[top1方案](https://mp.weixin.qq.com/s/nnISiL57joeSAVZ7rXF3Jg)  
+[top2方案](https://mp.weixin.qq.com/s/ZDVONhEcQEXypow1HWsCfQ)  
+[top3方案](https://mp.weixin.qq.com/s/V2GiheC480Aa-xJkuqEfdQ)  
+
 
 ### <span id='2019CCF-金融信息负面及主体判定'>2019CCF-金融信息负面及主体判定</span>
 **赛题链接**   
