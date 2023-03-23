@@ -37,6 +37,7 @@
         * [2022讯飞-非标准化疾病诉求的简单分诊2.0](#2022讯飞-非标准化疾病诉求的简单分诊2.0)
         * [2021CCKS-中文NLP地址要素解析](#2021CCKS-中文NLP地址要素解析)
         * [2021CCF-爱奇艺剧本角色情感识别](#2021CCF-爱奇艺剧本角色情感识别)
+        * [2021小布助手-对话短文本语义匹配](#2021小布助手-对话短文本语义匹配)
         * [2020CCF-面向数据安全治理的数据内容智能发现与分级分类](#2020CCF-面向数据安全治理的数据内容智能发现与分级分类)
         * [2020腾讯广告算法大赛](#2020腾讯广告算法大赛)
         * [2019第三届魔镜杯大赛-智能客服问题相似度算法设计](#2019第三届魔镜杯大赛-智能客服问题相似度算法设计)
@@ -1023,3 +1024,15 @@ https://tianchi.aliyun.com/competition/entrance/531871/information
 [top4开源](https://mp.weixin.qq.com/s/YS3Kn_QWf0kggaYtWtNlmw)  
 [top5开源](https://github.com/icodeworld/AI-competition)  
 [top12开源](https://github.com/Wangjw6/Tianchi_Prediction)  
+
+### <span id='2021小布助手-对话短文本语义匹配'>2021小布助手-对话短文本语义匹配</span>
+**赛题链接**   
+https://tianchi.aliyun.com/competition/entrance/531851/introduction    
+**赛题任务**  
+本赛道要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。  
+**方案参考**  
+[top1开源](https://github.com/nilboy/gaic_track3_pair_sim)  
+[top4开源](https://github.com/daniellibin/gaiic2021_track3_querySim?spm=5176.21852664.0.0.3edb2448taibBf)  
+[top4开源](https://github.com/lollipop97/2021-GAIIC-phase1-seq2seq)  
+[top18开源](https://github.com/yangyang678/2021-Tianchi-GAIIC-Track3-Rank18)  
+[竞赛总结](https://mp.weixin.qq.com/s/bElkT5u7gO2ndughYTOgkg)  
