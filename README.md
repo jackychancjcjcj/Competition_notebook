@@ -936,6 +936,7 @@ https://algo.weixin.qq.com
 [top8开源](https://github.com/jackychancjcjcj/WBDC_2022_RANK8)  
 [top12开源](https://github.com/Ti1bur/2022_WBDC_rk12)  
 [top16开源](https://github.com/yandun72/WBDC_2022_RANK16)  
+[top19开源](https://github.com/panmianzhi/2022_wechat_bigdata_rank19)  
 [前6答辩](https://mp.weixin.qq.com/s/2SIxBE8CTMztpqbf91kkwg)
 
 ## 图比赛
