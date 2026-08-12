@@ -1,5 +1,23 @@
-# 目录
-![Last update](https://img.shields.io/badge/last%20update-12%20Aug%202022-brightgreen.svg?style=flat-square "Last update")
+# Competition Notebook
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Last update](https://img.shields.io/badge/last%20update-12%20Aug%202026-brightgreen.svg?style=flat-square "Last update")
+
+A curated knowledge base of machine-learning competition tasks, winning solutions, and open-source implementations. It brings together scattered competition pages and solution references—especially from Chinese ML competitions—so practitioners can more easily discover baselines, modelling ideas, and reproducible work.
+
+## Scope
+
+Entries are organized by task area: structured ML, NLP, recommendation, time series, multimodal learning, graph learning / knowledge graphs, and computer vision. Each entry follows the same practical schema:
+
+`Competition → Task → Challenges → Solution references`
+
+This repository indexes third-party websites and projects. Linked material remains subject to its original authors' licences and terms. The original curation and writing in this repository are available under [CC BY 4.0](LICENSE).
+
+## Contributing and maintenance
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a new competition or solution. Contributions should use the existing schema, cite public sources, and avoid duplicate entries. Planned maintenance includes link validation, structured metadata, duplicate detection, and generated indexes, with maintainer review before merging.
+
+## 目录
 * [比赛](#比赛)
     * [结构化比赛](#结构化比赛)
         * [2021CCF-BDCI个贷违约预测](#2021CCF-BDCI个贷违约预测)
